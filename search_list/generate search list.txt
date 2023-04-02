@@ -1,0 +1,5 @@
+
+--Fligth schedule
+="{"&CHAR(34)&"Date"&CHAR(34)&": "&CHAR(34) & R2 &CHAR(34)&", "&CHAR(34)&"Time"&CHAR(34)&": "&CHAR(34)&S2&CHAR(34) &", "&CHAR(34)&"Dest"&CHAR(34)&": "&CHAR(34)& D2 &CHAR(34)& ", "&CHAR(34)&"DestName" &CHAR(34)&": "&CHAR(34)& E2 &CHAR(34)&", "&CHAR(34)&"Next"&CHAR(34)&": "&CHAR(34)&F2&CHAR(34)  &", "&CHAR(34)&"NextName"&CHAR(34)&": "&CHAR(34)&G2&CHAR(34)  & ", " & CHAR(34) & "Schengen"&CHAR(34)&": "&CHAR(34) & H2 &CHAR(34)&  ", " & CHAR(34) & "FlightType"&CHAR(34)&": "&CHAR(34) & I2 &CHAR(34) & ", " & CHAR(34) & "Flight"&CHAR(34) & ": " & CHAR(34) & C2 & CHAR(34) & ", " & CHAR(34) & "AirlineCode"&CHAR(34) & ": " & CHAR(34) & N2 & CHAR(34) & ", " & CHAR(34) & "Airline"&CHAR(34) & ": " & CHAR(34) & O2 & CHAR(34) & ", " & CHAR(34) & "A_D" & CHAR(34) & ": " & CHAR(34) & Q2 & CHAR(34) & "},"
+--Postal 
+
