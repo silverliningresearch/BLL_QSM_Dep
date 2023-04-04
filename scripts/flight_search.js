@@ -18,20 +18,6 @@ function getToDate() {
   return [day, month,year].join('-');
 }
 
-function is_gate_valid (gate_zone, Schengen) {
-  var result = false;
-  //gate A (1) ==> only show Schengen: 
-  //gate B (2) or T (3) ==> only show Non-Schengen: 
-  if (gate_zone == "1")  
-  {
-    if (Schengen == "S") result = true;
-  } else if (gate_zone == "2" || gate_zone == "3")
-  {
-    if (Schengen == "N") result = true;
-  }
-  return result;
-}
-
  function flight_in_list_found(list, item) {
   item = item.toLowerCase();
   
@@ -77,7 +63,7 @@ function load_flight_list() {
         }
 
         var Show = '"Show"' + ":" + '"' +  flightRawList[i].Flight + " (" 
-        Show += flightRawList[i].Time + " to " + flightRawList[i].DestName + " (" + flightRawList[i].Dest + ")";
+        Show += flightRawList[i].Time + " to " + flightRawList[i].DestName ;
         if (flightRawList[i].Next && flightRawList[i].Next !="" && flightRawList[i].Next != flightRawList[i].Dest) {
           Show += " via " +  flightRawList[i].Next ;
         }
