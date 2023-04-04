@@ -104,7 +104,7 @@ function update_drop_box_list() {
       }
     }
     
-    if (count > 10) {
+    if (count > 5) {
       break;
     }
   }
