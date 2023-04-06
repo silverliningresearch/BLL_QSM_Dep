@@ -34,7 +34,7 @@ function getToDate() {
 }
 
 function load_flight_list() {
-  flightRawList = JSON.parse(MUC_Departures_Flight_List_Raw);
+  flightRawList = JSON.parse(BLL_Departures_Flight_List_Raw);
   flightList = [];
   flightList.length = 0;
   flightShortList = [];
