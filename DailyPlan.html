@@ -1,6 +1,6 @@
 <html>
     <head>
-		<title>Daily Plan - MUC PEI AB Survey</title>
+		<title>Daily Plan - BLL QSM Departures</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
  
 		<script src="data/quota_data.js"></script>
@@ -10,7 +10,7 @@
 		<script src="scripts/CalculateData.js"></script>
     <script src="scripts/flight_search.js"></script>
 
-    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_alc/BLL/data/interview_data.js"></script>
+    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_alc/BLL_QSM_Dep/data/interview_data.js"></script>
     <link href="css/styles.css" rel ="stylesheet" type="text/css" />
     <style>
       .table-font {
@@ -194,7 +194,7 @@
       function start_new_interview() {
       console.log("start_new_interview");
       
-      let url = "https://survey.alchemer.eu/s3/90261702/AB?";
+      let url = "https://survey.alchemer.eu/s3/90553118/QSM-Departures-Billund-Airport-V2?";
       url = url + "flight="+ flightForInterview.Flight;
       url = url + "&airlinecode=" + flightForInterview.AirlineCode;
       url = url + "&airlinename=" + flightForInterview.Airline;
