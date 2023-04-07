@@ -2,7 +2,7 @@
 [
  {
   "Date": "01-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -13,7 +13,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -24,7 +24,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -35,7 +35,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "06:30",
+  "Time": "0630",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -46,7 +46,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -57,7 +57,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -68,7 +68,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -79,7 +79,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -90,7 +90,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -101,7 +101,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "08:25",
+  "Time": "0825",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -112,7 +112,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -123,7 +123,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -134,7 +134,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -145,7 +145,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -156,7 +156,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -167,7 +167,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -178,7 +178,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -189,7 +189,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -200,7 +200,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -211,7 +211,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "11:10",
+  "Time": "1110",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -222,7 +222,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -233,7 +233,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -244,7 +244,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -255,7 +255,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -266,7 +266,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -277,7 +277,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -288,7 +288,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -299,7 +299,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -310,7 +310,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "14:45",
+  "Time": "1445",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -321,7 +321,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "15:00",
+  "Time": "1500",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -332,7 +332,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "15:35",
+  "Time": "1535",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -343,7 +343,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -354,7 +354,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -365,7 +365,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -376,7 +376,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -387,7 +387,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "16:40",
+  "Time": "1640",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -398,7 +398,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "17:15",
+  "Time": "1715",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -409,7 +409,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -420,7 +420,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -431,7 +431,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -442,7 +442,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -453,7 +453,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -464,7 +464,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -475,7 +475,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -486,7 +486,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -497,7 +497,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "20:15",
+  "Time": "2015",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -508,7 +508,7 @@
  },
  {
   "Date": "01-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -519,7 +519,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -530,7 +530,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -541,7 +541,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -552,7 +552,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -563,7 +563,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -574,7 +574,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -585,7 +585,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -596,7 +596,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -607,7 +607,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "08:30",
+  "Time": "0830",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -618,7 +618,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "08:50",
+  "Time": "0850",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -629,7 +629,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -640,7 +640,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -651,7 +651,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -662,7 +662,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "10:20",
+  "Time": "1020",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -673,7 +673,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "10:35",
+  "Time": "1035",
   "Dest": "DBV",
   "DestName": "DBV (Dubrovnik - Croatia)",
   "Next": "",
@@ -684,7 +684,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "10:45",
+  "Time": "1045",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -695,7 +695,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -706,7 +706,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "11:00",
+  "Time": "1100",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -717,7 +717,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "11:05",
+  "Time": "1105",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -728,7 +728,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -739,7 +739,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -750,7 +750,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "12:10",
+  "Time": "1210",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -761,7 +761,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -772,7 +772,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -783,7 +783,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -794,7 +794,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -805,7 +805,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -816,7 +816,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "14:40",
+  "Time": "1440",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -827,7 +827,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "14:50",
+  "Time": "1450",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -838,7 +838,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "14:50",
+  "Time": "1450",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -849,7 +849,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -860,7 +860,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -871,7 +871,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "17:00",
+  "Time": "1700",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -882,7 +882,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -893,7 +893,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "17:30",
+  "Time": "1730",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -904,7 +904,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -915,7 +915,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -926,7 +926,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -937,7 +937,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -948,7 +948,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "19:35",
+  "Time": "1935",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -959,7 +959,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -970,7 +970,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "20:30",
+  "Time": "2030",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -981,7 +981,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "20:35",
+  "Time": "2035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -992,7 +992,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "21:10",
+  "Time": "2110",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -1003,7 +1003,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "22:25",
+  "Time": "2225",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -1014,7 +1014,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "22:55",
+  "Time": "2255",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -1025,7 +1025,7 @@
  },
  {
   "Date": "02-04-2023",
-  "Time": "23:00",
+  "Time": "2300",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -1036,7 +1036,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1047,7 +1047,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -1058,7 +1058,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -1069,7 +1069,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -1080,7 +1080,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -1091,7 +1091,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "SID",
   "DestName": "SID (Espargos Amilcar Cabral International - Cape Verde)",
   "Next": "CPH",
@@ -1102,7 +1102,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "SSH",
   "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
   "Next": "",
@@ -1113,7 +1113,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "07:10",
+  "Time": "0710",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -1124,7 +1124,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "07:15",
+  "Time": "0715",
   "Dest": "LCA",
   "DestName": "LCA (Larnaca International - Cyprus)",
   "Next": "",
@@ -1135,7 +1135,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -1146,7 +1146,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "FUE",
   "DestName": "FUE (Fuerteventura - Spain)",
   "Next": "",
@@ -1157,7 +1157,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)",
   "Next": "",
@@ -1168,7 +1168,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)",
   "Next": "",
@@ -1179,7 +1179,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -1190,7 +1190,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -1201,7 +1201,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "10:35",
+  "Time": "1035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -1212,7 +1212,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -1223,7 +1223,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1234,7 +1234,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -1245,7 +1245,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "12:55",
+  "Time": "1255",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -1256,7 +1256,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -1267,7 +1267,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -1278,7 +1278,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -1289,7 +1289,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "13:50",
+  "Time": "1350",
   "Dest": "AHO",
   "DestName": "AHO (Alghero Fertilia - Italy)",
   "Next": "",
@@ -1300,7 +1300,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -1311,7 +1311,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1322,7 +1322,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -1333,7 +1333,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "15:40",
+  "Time": "1540",
   "Dest": "BGO",
   "DestName": "BGO (Bergen Flesland - Norway)",
   "Next": "",
@@ -1344,7 +1344,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "CRA",
   "DestName": "CRA (Craiova - Romania)",
   "Next": "",
@@ -1355,7 +1355,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -1366,7 +1366,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -1377,7 +1377,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "16:30",
+  "Time": "1630",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -1388,7 +1388,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -1399,7 +1399,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "17:35",
+  "Time": "1735",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -1410,7 +1410,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "17:35",
+  "Time": "1735",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -1421,7 +1421,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -1432,7 +1432,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1443,7 +1443,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "19:10",
+  "Time": "1910",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -1454,7 +1454,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -1465,7 +1465,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "19:50",
+  "Time": "1950",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -1476,7 +1476,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -1487,7 +1487,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "20:50",
+  "Time": "2050",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -1498,7 +1498,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "21:05",
+  "Time": "2105",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -1509,7 +1509,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "22:35",
+  "Time": "2235",
   "Dest": "KEF",
   "DestName": "KEF (Keflavik International - Iceland)",
   "Next": "",
@@ -1520,7 +1520,7 @@
  },
  {
   "Date": "03-04-2023",
-  "Time": "00:50",
+  "Time": "0050",
   "Dest": "CPH",
   "DestName": "CPH (Copenhagen - Denmark)",
   "Next": "",
@@ -1531,7 +1531,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1542,7 +1542,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -1553,7 +1553,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "06:25",
+  "Time": "0625",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -1564,7 +1564,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "07:15",
+  "Time": "0715",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -1575,7 +1575,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -1586,7 +1586,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -1597,7 +1597,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -1608,7 +1608,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "09:00",
+  "Time": "0900",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -1619,7 +1619,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -1630,7 +1630,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1641,7 +1641,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -1652,7 +1652,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -1663,7 +1663,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "10:30",
+  "Time": "1030",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -1674,7 +1674,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -1685,7 +1685,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -1696,7 +1696,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "11:15",
+  "Time": "1115",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -1707,7 +1707,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -1718,7 +1718,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1729,7 +1729,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -1740,7 +1740,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -1751,7 +1751,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -1762,7 +1762,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "13:30",
+  "Time": "1330",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -1773,7 +1773,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1784,7 +1784,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -1795,7 +1795,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "14:40",
+  "Time": "1440",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -1806,7 +1806,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "15:45",
+  "Time": "1545",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -1817,7 +1817,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -1828,7 +1828,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "16:10",
+  "Time": "1610",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -1839,7 +1839,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "16:25",
+  "Time": "1625",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -1850,7 +1850,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -1861,7 +1861,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -1872,7 +1872,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "17:10",
+  "Time": "1710",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -1883,7 +1883,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -1894,7 +1894,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1905,7 +1905,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -1916,7 +1916,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -1927,7 +1927,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "20:45",
+  "Time": "2045",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -1938,7 +1938,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -1949,7 +1949,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "21:35",
+  "Time": "2135",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -1960,7 +1960,7 @@
  },
  {
   "Date": "04-04-2023",
-  "Time": "22:50",
+  "Time": "2250",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -1971,7 +1971,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -1982,7 +1982,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -1993,7 +1993,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -2004,7 +2004,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -2015,7 +2015,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -2026,7 +2026,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -2037,7 +2037,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -2048,7 +2048,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "09:00",
+  "Time": "0900",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -2059,7 +2059,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "09:45",
+  "Time": "0945",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -2070,7 +2070,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -2081,7 +2081,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -2092,7 +2092,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -2103,7 +2103,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -2114,7 +2114,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -2125,7 +2125,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -2136,7 +2136,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -2147,7 +2147,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -2158,7 +2158,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "12:35",
+  "Time": "1235",
   "Dest": "SFJ",
   "DestName": "SFJ (Kangerlussuaq - Greenland)",
   "Next": "",
@@ -2169,7 +2169,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -2180,7 +2180,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -2191,7 +2191,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -2202,7 +2202,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "13:55",
+  "Time": "1355",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -2213,7 +2213,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -2224,7 +2224,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -2235,7 +2235,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -2246,7 +2246,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "14:25",
+  "Time": "1425",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -2257,7 +2257,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -2268,7 +2268,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -2279,7 +2279,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -2290,7 +2290,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -2301,7 +2301,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -2312,7 +2312,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "20:10",
+  "Time": "2010",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -2323,7 +2323,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "20:20",
+  "Time": "2020",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -2334,7 +2334,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "21:25",
+  "Time": "2125",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -2345,7 +2345,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "21:30",
+  "Time": "2130",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -2356,7 +2356,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "21:30",
+  "Time": "2130",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -2367,7 +2367,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "21:45",
+  "Time": "2145",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -2378,7 +2378,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "22:00",
+  "Time": "2200",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -2389,7 +2389,7 @@
  },
  {
   "Date": "05-04-2023",
-  "Time": "22:10",
+  "Time": "2210",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -2400,7 +2400,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -2411,7 +2411,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -2422,7 +2422,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -2433,7 +2433,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -2444,7 +2444,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "07:10",
+  "Time": "0710",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -2455,7 +2455,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -2466,7 +2466,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "SPC",
   "DestName": "SPC (La Palma - Spain)",
   "Next": "",
@@ -2477,7 +2477,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -2488,7 +2488,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "09:35",
+  "Time": "0935",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -2499,7 +2499,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "09:45",
+  "Time": "0945",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -2510,7 +2510,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "09:55",
+  "Time": "0955",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -2521,7 +2521,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -2532,7 +2532,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -2543,7 +2543,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -2554,7 +2554,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -2565,7 +2565,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -2576,7 +2576,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -2587,7 +2587,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -2598,7 +2598,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -2609,7 +2609,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "11:30",
+  "Time": "1130",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -2620,7 +2620,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -2631,7 +2631,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -2642,7 +2642,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "12:35",
+  "Time": "1235",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -2653,7 +2653,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -2664,7 +2664,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -2675,7 +2675,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -2686,7 +2686,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -2697,7 +2697,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -2708,7 +2708,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -2719,7 +2719,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -2730,7 +2730,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "15:05",
+  "Time": "1505",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -2741,7 +2741,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -2752,7 +2752,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -2763,7 +2763,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "16:20",
+  "Time": "1620",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -2774,7 +2774,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -2785,7 +2785,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -2796,7 +2796,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "17:40",
+  "Time": "1740",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -2807,7 +2807,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -2818,7 +2818,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -2829,7 +2829,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -2840,7 +2840,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -2851,7 +2851,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "19:20",
+  "Time": "1920",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -2862,7 +2862,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -2873,7 +2873,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "20:40",
+  "Time": "2040",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -2884,7 +2884,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "21:05",
+  "Time": "2105",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -2895,7 +2895,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "21:25",
+  "Time": "2125",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -2906,7 +2906,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "21:50",
+  "Time": "2150",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -2917,7 +2917,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "22:05",
+  "Time": "2205",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -2928,7 +2928,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "22:10",
+  "Time": "2210",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -2939,7 +2939,7 @@
  },
  {
   "Date": "06-04-2023",
-  "Time": "22:20",
+  "Time": "2220",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -2950,7 +2950,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -2961,7 +2961,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "06:10",
+  "Time": "0610",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -2972,7 +2972,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "AHO",
   "DestName": "AHO (Alghero Fertilia - Italy)",
   "Next": "",
@@ -2983,7 +2983,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -2994,7 +2994,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "FUE",
   "DestName": "FUE (Fuerteventura - Spain)",
   "Next": "",
@@ -3005,7 +3005,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "07:05",
+  "Time": "0705",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -3016,7 +3016,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -3027,7 +3027,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "07:30",
+  "Time": "0730",
   "Dest": "ACE",
   "DestName": "ACE (Lanzarote - Spain)",
   "Next": "",
@@ -3038,7 +3038,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "PXO",
   "DestName": "PXO (Porto Santo - Portugal)",
   "Next": "",
@@ -3049,7 +3049,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)",
   "Next": "",
@@ -3060,7 +3060,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)",
   "Next": "",
@@ -3071,7 +3071,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "09:30",
+  "Time": "0930",
   "Dest": "ACE",
   "DestName": "ACE (Lanzarote - Spain)",
   "Next": "",
@@ -3082,7 +3082,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "09:30",
+  "Time": "0930",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -3093,7 +3093,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3104,7 +3104,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -3115,7 +3115,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "10:20",
+  "Time": "1020",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -3126,7 +3126,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -3137,7 +3137,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -3148,7 +3148,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -3159,7 +3159,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3170,7 +3170,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -3181,7 +3181,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "12:25",
+  "Time": "1225",
   "Dest": "ECN",
   "DestName": "ECN (Tymvou Ercan International - Cyprus)",
   "Next": "AYT",
@@ -3192,7 +3192,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "13:00",
+  "Time": "1300",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -3203,7 +3203,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -3214,7 +3214,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "14:00",
+  "Time": "1400",
   "Dest": "IBZ",
   "DestName": "IBZ (Ibiza - Spain)",
   "Next": "",
@@ -3225,7 +3225,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -3236,7 +3236,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3247,7 +3247,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -3258,7 +3258,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -3269,7 +3269,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -3280,7 +3280,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "15:35",
+  "Time": "1535",
   "Dest": "BGO",
   "DestName": "BGO (Bergen Flesland - Norway)",
   "Next": "",
@@ -3291,7 +3291,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "CRA",
   "DestName": "CRA (Craiova - Romania)",
   "Next": "",
@@ -3302,7 +3302,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "16:05",
+  "Time": "1605",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -3313,7 +3313,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -3324,7 +3324,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -3335,7 +3335,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -3346,7 +3346,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -3357,7 +3357,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3368,7 +3368,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "19:10",
+  "Time": "1910",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -3379,7 +3379,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -3390,7 +3390,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -3401,7 +3401,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "20:40",
+  "Time": "2040",
   "Dest": "CPH",
   "DestName": "CPH (Copenhagen - Denmark)",
   "Next": "",
@@ -3412,7 +3412,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MIR",
   "DestName": "MIR (Monastir Habib Bourguiba International - Tunisia)",
   "Next": "",
@@ -3423,7 +3423,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "21:45",
+  "Time": "2145",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -3434,7 +3434,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "22:05",
+  "Time": "2205",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -3445,7 +3445,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "22:35",
+  "Time": "2235",
   "Dest": "KEF",
   "DestName": "KEF (Keflavik International - Iceland)",
   "Next": "",
@@ -3456,7 +3456,7 @@
  },
  {
   "Date": "07-04-2023",
-  "Time": "22:45",
+  "Time": "2245",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -3467,7 +3467,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3478,7 +3478,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -3489,7 +3489,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -3500,7 +3500,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "06:30",
+  "Time": "0630",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -3511,7 +3511,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -3522,7 +3522,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -3533,7 +3533,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -3544,7 +3544,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -3555,7 +3555,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "08:25",
+  "Time": "0825",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -3566,7 +3566,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -3577,7 +3577,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -3588,7 +3588,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -3599,7 +3599,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3610,7 +3610,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -3621,7 +3621,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -3632,7 +3632,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -3643,7 +3643,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -3654,7 +3654,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -3665,7 +3665,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -3676,7 +3676,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -3687,7 +3687,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -3698,7 +3698,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -3709,7 +3709,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -3720,7 +3720,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -3731,7 +3731,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3742,7 +3742,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -3753,7 +3753,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "14:45",
+  "Time": "1445",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -3764,7 +3764,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "15:00",
+  "Time": "1500",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -3775,7 +3775,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "15:35",
+  "Time": "1535",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -3786,7 +3786,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -3797,7 +3797,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -3808,7 +3808,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -3819,7 +3819,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -3830,7 +3830,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "16:40",
+  "Time": "1640",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -3841,7 +3841,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -3852,7 +3852,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3863,7 +3863,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -3874,7 +3874,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -3885,7 +3885,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "19:05",
+  "Time": "1905",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -3896,7 +3896,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -3907,7 +3907,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -3918,7 +3918,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -3929,7 +3929,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -3940,7 +3940,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "20:15",
+  "Time": "2015",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -3951,7 +3951,7 @@
  },
  {
   "Date": "08-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -3962,7 +3962,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -3973,7 +3973,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -3984,7 +3984,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -3995,7 +3995,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -4006,7 +4006,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -4017,7 +4017,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -4028,7 +4028,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -4039,7 +4039,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -4050,7 +4050,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "08:30",
+  "Time": "0830",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -4061,7 +4061,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "08:50",
+  "Time": "0850",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -4072,7 +4072,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -4083,7 +4083,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -4094,7 +4094,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -4105,7 +4105,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -4116,7 +4116,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "10:45",
+  "Time": "1045",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -4127,7 +4127,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -4138,7 +4138,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "11:00",
+  "Time": "1100",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -4149,7 +4149,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "11:05",
+  "Time": "1105",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -4160,7 +4160,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -4171,7 +4171,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "12:10",
+  "Time": "1210",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -4182,7 +4182,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -4193,7 +4193,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -4204,7 +4204,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -4215,7 +4215,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -4226,7 +4226,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -4237,7 +4237,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "14:40",
+  "Time": "1440",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -4248,7 +4248,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "14:50",
+  "Time": "1450",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -4259,7 +4259,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "14:50",
+  "Time": "1450",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -4270,7 +4270,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -4281,7 +4281,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -4292,7 +4292,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "17:00",
+  "Time": "1700",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -4303,7 +4303,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -4314,7 +4314,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "17:30",
+  "Time": "1730",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -4325,7 +4325,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -4336,7 +4336,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -4347,7 +4347,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -4358,7 +4358,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "19:35",
+  "Time": "1935",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -4369,7 +4369,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -4380,7 +4380,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "20:30",
+  "Time": "2030",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -4391,7 +4391,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "20:35",
+  "Time": "2035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -4402,7 +4402,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "21:10",
+  "Time": "2110",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -4413,7 +4413,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "21:35",
+  "Time": "2135",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -4424,7 +4424,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "22:25",
+  "Time": "2225",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -4435,7 +4435,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "22:55",
+  "Time": "2255",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -4446,7 +4446,7 @@
  },
  {
   "Date": "09-04-2023",
-  "Time": "23:00",
+  "Time": "2300",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -4457,7 +4457,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -4468,7 +4468,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -4479,7 +4479,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -4490,7 +4490,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -4501,7 +4501,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "SSH",
   "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
   "Next": "",
@@ -4512,7 +4512,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "07:05",
+  "Time": "0705",
   "Dest": "LCA",
   "DestName": "LCA (Larnaca International - Cyprus)",
   "Next": "",
@@ -4523,7 +4523,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "07:15",
+  "Time": "0715",
   "Dest": "LCA",
   "DestName": "LCA (Larnaca International - Cyprus)",
   "Next": "",
@@ -4534,7 +4534,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -4545,7 +4545,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "08:40",
+  "Time": "0840",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -4556,7 +4556,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)",
   "Next": "",
@@ -4567,7 +4567,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)",
   "Next": "",
@@ -4578,7 +4578,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -4589,7 +4589,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -4600,7 +4600,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -4611,7 +4611,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "10:35",
+  "Time": "1035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -4622,7 +4622,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -4633,7 +4633,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -4644,7 +4644,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -4655,7 +4655,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "12:55",
+  "Time": "1255",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -4666,7 +4666,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -4677,7 +4677,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -4688,7 +4688,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "13:15",
+  "Time": "1315",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -4699,7 +4699,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "13:50",
+  "Time": "1350",
   "Dest": "AHO",
   "DestName": "AHO (Alghero Fertilia - Italy)",
   "Next": "",
@@ -4710,7 +4710,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -4721,7 +4721,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -4732,7 +4732,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -4743,7 +4743,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "15:40",
+  "Time": "1540",
   "Dest": "BGO",
   "DestName": "BGO (Bergen Flesland - Norway)",
   "Next": "",
@@ -4754,7 +4754,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "CRA",
   "DestName": "CRA (Craiova - Romania)",
   "Next": "",
@@ -4765,7 +4765,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -4776,7 +4776,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -4787,7 +4787,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "16:30",
+  "Time": "1630",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -4798,7 +4798,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "17:15",
+  "Time": "1715",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -4809,7 +4809,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -4820,7 +4820,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "17:35",
+  "Time": "1735",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -4831,7 +4831,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "17:35",
+  "Time": "1735",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -4842,7 +4842,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -4853,7 +4853,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "18:05",
+  "Time": "1805",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -4864,7 +4864,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "19:10",
+  "Time": "1910",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -4875,7 +4875,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -4886,7 +4886,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "19:50",
+  "Time": "1950",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -4897,7 +4897,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -4908,7 +4908,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "20:50",
+  "Time": "2050",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -4919,7 +4919,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "21:05",
+  "Time": "2105",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -4930,7 +4930,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "22:35",
+  "Time": "2235",
   "Dest": "KEF",
   "DestName": "KEF (Keflavik International - Iceland)",
   "Next": "",
@@ -4941,7 +4941,7 @@
  },
  {
   "Date": "10-04-2023",
-  "Time": "00:50",
+  "Time": "0050",
   "Dest": "CPH",
   "DestName": "CPH (Copenhagen - Denmark)",
   "Next": "",
@@ -4952,7 +4952,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -4963,7 +4963,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -4974,7 +4974,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -4985,7 +4985,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -4996,7 +4996,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "06:25",
+  "Time": "0625",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -5007,7 +5007,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "07:15",
+  "Time": "0715",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -5018,7 +5018,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -5029,7 +5029,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -5040,7 +5040,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -5051,7 +5051,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -5062,7 +5062,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -5073,7 +5073,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "08:00",
+  "Time": "0800",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -5084,7 +5084,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -5095,7 +5095,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "09:00",
+  "Time": "0900",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -5106,7 +5106,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -5117,7 +5117,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -5128,7 +5128,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -5139,7 +5139,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -5150,7 +5150,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "10:30",
+  "Time": "1030",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -5161,7 +5161,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -5172,7 +5172,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -5183,7 +5183,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "11:15",
+  "Time": "1115",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -5194,7 +5194,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -5205,7 +5205,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5216,7 +5216,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -5227,7 +5227,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -5238,7 +5238,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -5249,7 +5249,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "13:30",
+  "Time": "1330",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -5260,7 +5260,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5271,7 +5271,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -5282,7 +5282,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "14:35",
+  "Time": "1435",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -5293,7 +5293,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "15:05",
+  "Time": "1505",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -5304,7 +5304,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -5315,7 +5315,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "16:10",
+  "Time": "1610",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -5326,7 +5326,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -5337,7 +5337,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "16:25",
+  "Time": "1625",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -5348,7 +5348,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -5359,7 +5359,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -5370,7 +5370,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -5381,7 +5381,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "17:10",
+  "Time": "1710",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -5392,7 +5392,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -5403,7 +5403,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -5414,7 +5414,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5425,7 +5425,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -5436,7 +5436,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -5447,7 +5447,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "20:45",
+  "Time": "2045",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -5458,7 +5458,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -5469,7 +5469,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "21:35",
+  "Time": "2135",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -5480,7 +5480,7 @@
  },
  {
   "Date": "11-04-2023",
-  "Time": "22:50",
+  "Time": "2250",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -5491,7 +5491,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5502,7 +5502,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -5513,7 +5513,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -5524,7 +5524,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -5535,7 +5535,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -5546,7 +5546,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -5557,7 +5557,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "07:30",
+  "Time": "0730",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -5568,7 +5568,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -5579,7 +5579,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -5590,7 +5590,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -5601,7 +5601,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "09:45",
+  "Time": "0945",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -5612,7 +5612,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -5623,7 +5623,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5634,7 +5634,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -5645,7 +5645,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -5656,7 +5656,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -5667,7 +5667,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -5678,7 +5678,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5689,7 +5689,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -5700,7 +5700,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "12:35",
+  "Time": "1235",
   "Dest": "SFJ",
   "DestName": "SFJ (Kangerlussuaq - Greenland)",
   "Next": "",
@@ -5711,7 +5711,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -5722,7 +5722,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -5733,7 +5733,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "13:55",
+  "Time": "1355",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -5744,7 +5744,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -5755,7 +5755,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5766,7 +5766,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "14:25",
+  "Time": "1425",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -5777,7 +5777,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -5788,7 +5788,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -5799,7 +5799,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "16:20",
+  "Time": "1620",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -5810,7 +5810,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -5821,7 +5821,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -5832,7 +5832,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5843,7 +5843,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -5854,7 +5854,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -5865,7 +5865,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -5876,7 +5876,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "20:10",
+  "Time": "2010",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -5887,7 +5887,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "20:20",
+  "Time": "2020",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -5898,7 +5898,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "21:25",
+  "Time": "2125",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -5909,7 +5909,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "21:30",
+  "Time": "2130",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -5920,7 +5920,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "21:30",
+  "Time": "2130",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -5931,7 +5931,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "21:45",
+  "Time": "2145",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -5942,7 +5942,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "22:00",
+  "Time": "2200",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -5953,7 +5953,7 @@
  },
  {
   "Date": "12-04-2023",
-  "Time": "22:10",
+  "Time": "2210",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -5964,7 +5964,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -5975,7 +5975,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -5986,7 +5986,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -5997,7 +5997,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -6008,7 +6008,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -6019,7 +6019,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "07:10",
+  "Time": "0710",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -6030,7 +6030,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -6041,7 +6041,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "SPC",
   "DestName": "SPC (La Palma - Spain)",
   "Next": "",
@@ -6052,7 +6052,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -6063,7 +6063,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "09:35",
+  "Time": "0935",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -6074,7 +6074,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "09:45",
+  "Time": "0945",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -6085,7 +6085,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "09:55",
+  "Time": "0955",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -6096,7 +6096,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -6107,7 +6107,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -6118,7 +6118,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -6129,7 +6129,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -6140,7 +6140,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -6151,7 +6151,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -6162,7 +6162,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -6173,7 +6173,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -6184,7 +6184,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -6195,7 +6195,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "11:30",
+  "Time": "1130",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -6206,7 +6206,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -6217,7 +6217,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -6228,7 +6228,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "12:35",
+  "Time": "1235",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -6239,7 +6239,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -6250,7 +6250,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -6261,7 +6261,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -6272,7 +6272,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -6283,7 +6283,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -6294,7 +6294,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -6305,7 +6305,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -6316,7 +6316,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "15:05",
+  "Time": "1505",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -6327,7 +6327,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -6338,7 +6338,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -6349,7 +6349,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -6360,7 +6360,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "16:20",
+  "Time": "1620",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -6371,7 +6371,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -6382,7 +6382,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -6393,7 +6393,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -6404,7 +6404,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "17:40",
+  "Time": "1740",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -6415,7 +6415,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -6426,7 +6426,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "19:00",
+  "Time": "1900",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -6437,7 +6437,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -6448,7 +6448,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -6459,7 +6459,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "19:20",
+  "Time": "1920",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -6470,7 +6470,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -6481,7 +6481,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "20:40",
+  "Time": "2040",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -6492,7 +6492,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "21:05",
+  "Time": "2105",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -6503,7 +6503,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "21:25",
+  "Time": "2125",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -6514,7 +6514,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "21:50",
+  "Time": "2150",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -6525,7 +6525,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "22:05",
+  "Time": "2205",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -6536,7 +6536,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "22:10",
+  "Time": "2210",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -6547,7 +6547,7 @@
  },
  {
   "Date": "13-04-2023",
-  "Time": "22:20",
+  "Time": "2220",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -6558,7 +6558,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -6569,7 +6569,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -6580,7 +6580,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "06:10",
+  "Time": "0610",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -6591,7 +6591,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -6602,7 +6602,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "AHO",
   "DestName": "AHO (Alghero Fertilia - Italy)",
   "Next": "",
@@ -6613,7 +6613,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -6624,7 +6624,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "FUE",
   "DestName": "FUE (Fuerteventura - Spain)",
   "Next": "",
@@ -6635,7 +6635,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "07:05",
+  "Time": "0705",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -6646,7 +6646,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -6657,7 +6657,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -6668,7 +6668,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "07:30",
+  "Time": "0730",
   "Dest": "ACE",
   "DestName": "ACE (Lanzarote - Spain)",
   "Next": "",
@@ -6679,7 +6679,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "PXO",
   "DestName": "PXO (Porto Santo - Portugal)",
   "Next": "",
@@ -6690,7 +6690,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)",
   "Next": "",
@@ -6701,7 +6701,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)",
   "Next": "",
@@ -6712,7 +6712,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "09:30",
+  "Time": "0930",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -6723,7 +6723,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "10:20",
+  "Time": "1020",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -6734,7 +6734,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -6745,7 +6745,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -6756,7 +6756,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -6767,7 +6767,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -6778,7 +6778,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -6789,7 +6789,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "13:00",
+  "Time": "1300",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -6800,7 +6800,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -6811,7 +6811,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "14:00",
+  "Time": "1400",
   "Dest": "IBZ",
   "DestName": "IBZ (Ibiza - Spain)",
   "Next": "",
@@ -6822,7 +6822,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -6833,7 +6833,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -6844,7 +6844,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -6855,7 +6855,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -6866,7 +6866,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "15:30",
+  "Time": "1530",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -6877,7 +6877,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "15:35",
+  "Time": "1535",
   "Dest": "BGO",
   "DestName": "BGO (Bergen Flesland - Norway)",
   "Next": "",
@@ -6888,7 +6888,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "CRA",
   "DestName": "CRA (Craiova - Romania)",
   "Next": "",
@@ -6899,7 +6899,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "16:05",
+  "Time": "1605",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -6910,7 +6910,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -6921,7 +6921,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -6932,7 +6932,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -6943,7 +6943,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -6954,7 +6954,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -6965,7 +6965,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -6976,7 +6976,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -6987,7 +6987,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -6998,7 +6998,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7009,7 +7009,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "19:10",
+  "Time": "1910",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -7020,7 +7020,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -7031,7 +7031,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -7042,7 +7042,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "20:40",
+  "Time": "2040",
   "Dest": "CPH",
   "DestName": "CPH (Copenhagen - Denmark)",
   "Next": "",
@@ -7053,7 +7053,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MIR",
   "DestName": "MIR (Monastir Habib Bourguiba International - Tunisia)",
   "Next": "",
@@ -7064,7 +7064,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "21:45",
+  "Time": "2145",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -7075,7 +7075,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "22:05",
+  "Time": "2205",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -7086,7 +7086,7 @@
  },
  {
   "Date": "14-04-2023",
-  "Time": "22:45",
+  "Time": "2245",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -7097,7 +7097,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7108,7 +7108,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -7119,7 +7119,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -7130,7 +7130,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "06:30",
+  "Time": "0630",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -7141,7 +7141,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -7152,7 +7152,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -7163,7 +7163,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -7174,7 +7174,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "08:25",
+  "Time": "0825",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -7185,7 +7185,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -7196,7 +7196,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -7207,7 +7207,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -7218,7 +7218,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7229,7 +7229,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -7240,7 +7240,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -7251,7 +7251,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -7262,7 +7262,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -7273,7 +7273,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -7284,7 +7284,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -7295,7 +7295,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "11:10",
+  "Time": "1110",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -7306,7 +7306,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -7317,7 +7317,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -7328,7 +7328,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -7339,7 +7339,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -7350,7 +7350,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -7361,7 +7361,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7372,7 +7372,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -7383,7 +7383,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "14:45",
+  "Time": "1445",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -7394,7 +7394,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "15:00",
+  "Time": "1500",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -7405,7 +7405,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "15:35",
+  "Time": "1535",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -7416,7 +7416,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -7427,7 +7427,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -7438,7 +7438,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -7449,7 +7449,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -7460,7 +7460,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "16:40",
+  "Time": "1640",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -7471,7 +7471,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -7482,7 +7482,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -7493,7 +7493,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7504,7 +7504,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -7515,7 +7515,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -7526,7 +7526,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "19:05",
+  "Time": "1905",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -7537,7 +7537,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -7548,7 +7548,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -7559,7 +7559,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -7570,7 +7570,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -7581,7 +7581,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "20:15",
+  "Time": "2015",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -7592,7 +7592,7 @@
  },
  {
   "Date": "15-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -7603,7 +7603,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7614,7 +7614,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -7625,7 +7625,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -7636,7 +7636,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -7647,7 +7647,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -7658,7 +7658,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -7669,7 +7669,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -7680,7 +7680,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "08:30",
+  "Time": "0830",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -7691,7 +7691,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "08:50",
+  "Time": "0850",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -7702,7 +7702,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -7713,7 +7713,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7724,7 +7724,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -7735,7 +7735,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -7746,7 +7746,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "10:35",
+  "Time": "1035",
   "Dest": "DBV",
   "DestName": "DBV (Dubrovnik - Croatia)",
   "Next": "",
@@ -7757,7 +7757,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "10:45",
+  "Time": "1045",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -7768,7 +7768,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -7779,7 +7779,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "11:00",
+  "Time": "1100",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -7790,7 +7790,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "11:05",
+  "Time": "1105",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7801,7 +7801,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -7812,7 +7812,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "12:10",
+  "Time": "1210",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -7823,7 +7823,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -7834,7 +7834,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -7845,7 +7845,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -7856,7 +7856,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7867,7 +7867,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -7878,7 +7878,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "14:40",
+  "Time": "1440",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -7889,7 +7889,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "14:50",
+  "Time": "1450",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -7900,7 +7900,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -7911,7 +7911,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -7922,7 +7922,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "17:00",
+  "Time": "1700",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -7933,7 +7933,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "17:10",
+  "Time": "1710",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -7944,7 +7944,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -7955,7 +7955,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "17:30",
+  "Time": "1730",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -7966,7 +7966,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -7977,7 +7977,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -7988,7 +7988,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -7999,7 +7999,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -8010,7 +8010,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "19:35",
+  "Time": "1935",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -8021,7 +8021,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -8032,7 +8032,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "20:30",
+  "Time": "2030",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -8043,7 +8043,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "20:35",
+  "Time": "2035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -8054,7 +8054,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "21:10",
+  "Time": "2110",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -8065,7 +8065,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "22:25",
+  "Time": "2225",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -8076,7 +8076,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "22:55",
+  "Time": "2255",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -8087,7 +8087,7 @@
  },
  {
   "Date": "16-04-2023",
-  "Time": "23:00",
+  "Time": "2300",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -8098,7 +8098,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8109,7 +8109,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -8120,7 +8120,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -8131,7 +8131,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -8142,7 +8142,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -8153,7 +8153,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -8164,7 +8164,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -8175,7 +8175,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "SSH",
   "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
   "Next": "",
@@ -8186,7 +8186,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "07:15",
+  "Time": "0715",
   "Dest": "LCA",
   "DestName": "LCA (Larnaca International - Cyprus)",
   "Next": "",
@@ -8197,7 +8197,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -8208,7 +8208,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "07:30",
+  "Time": "0730",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -8219,7 +8219,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -8230,7 +8230,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)",
   "Next": "",
@@ -8241,7 +8241,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)",
   "Next": "",
@@ -8252,7 +8252,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8263,7 +8263,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -8274,7 +8274,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -8285,7 +8285,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "10:35",
+  "Time": "1035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -8296,7 +8296,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -8307,7 +8307,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8318,7 +8318,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -8329,7 +8329,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "12:55",
+  "Time": "1255",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -8340,7 +8340,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -8351,7 +8351,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -8362,7 +8362,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "13:50",
+  "Time": "1350",
   "Dest": "AHO",
   "DestName": "AHO (Alghero Fertilia - Italy)",
   "Next": "",
@@ -8373,7 +8373,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -8384,7 +8384,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8395,7 +8395,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -8406,7 +8406,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "15:40",
+  "Time": "1540",
   "Dest": "BGO",
   "DestName": "BGO (Bergen Flesland - Norway)",
   "Next": "",
@@ -8417,7 +8417,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "CRA",
   "DestName": "CRA (Craiova - Romania)",
   "Next": "",
@@ -8428,7 +8428,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -8439,7 +8439,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -8450,7 +8450,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -8461,7 +8461,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "16:30",
+  "Time": "1630",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -8472,7 +8472,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -8483,7 +8483,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "17:35",
+  "Time": "1735",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -8494,7 +8494,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "17:35",
+  "Time": "1735",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -8505,7 +8505,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -8516,7 +8516,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "18:00",
+  "Time": "1800",
   "Dest": "LCA",
   "DestName": "LCA (Larnaca International - Cyprus)",
   "Next": "",
@@ -8527,7 +8527,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "18:05",
+  "Time": "1805",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -8538,7 +8538,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8549,7 +8549,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "19:10",
+  "Time": "1910",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -8560,7 +8560,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "19:40",
+  "Time": "1940",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -8571,7 +8571,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "19:50",
+  "Time": "1950",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -8582,7 +8582,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -8593,7 +8593,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "20:50",
+  "Time": "2050",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -8604,7 +8604,7 @@
  },
  {
   "Date": "17-04-2023",
-  "Time": "21:05",
+  "Time": "2105",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -8615,7 +8615,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8626,7 +8626,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -8637,7 +8637,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -8648,7 +8648,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -8659,7 +8659,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "06:25",
+  "Time": "0625",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -8670,7 +8670,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -8681,7 +8681,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "07:15",
+  "Time": "0715",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -8692,7 +8692,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -8703,7 +8703,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -8714,7 +8714,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -8725,7 +8725,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -8736,7 +8736,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -8747,7 +8747,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "09:00",
+  "Time": "0900",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -8758,7 +8758,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -8769,7 +8769,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -8780,7 +8780,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8791,7 +8791,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -8802,7 +8802,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -8813,7 +8813,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "10:30",
+  "Time": "1030",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -8824,7 +8824,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -8835,7 +8835,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -8846,7 +8846,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "11:15",
+  "Time": "1115",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -8857,7 +8857,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -8868,7 +8868,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8879,7 +8879,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -8890,7 +8890,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -8901,7 +8901,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -8912,7 +8912,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "13:30",
+  "Time": "1330",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -8923,7 +8923,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -8934,7 +8934,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -8945,7 +8945,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "14:35",
+  "Time": "1435",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -8956,7 +8956,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "15:05",
+  "Time": "1505",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -8967,7 +8967,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -8978,7 +8978,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "16:10",
+  "Time": "1610",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -8989,7 +8989,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -9000,7 +9000,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "16:25",
+  "Time": "1625",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -9011,7 +9011,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -9022,7 +9022,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -9033,7 +9033,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -9044,7 +9044,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "17:10",
+  "Time": "1710",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -9055,7 +9055,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -9066,7 +9066,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -9077,7 +9077,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -9088,7 +9088,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -9099,7 +9099,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -9110,7 +9110,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "20:45",
+  "Time": "2045",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -9121,7 +9121,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -9132,7 +9132,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "21:35",
+  "Time": "2135",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -9143,7 +9143,7 @@
  },
  {
   "Date": "18-04-2023",
-  "Time": "22:50",
+  "Time": "2250",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -9154,7 +9154,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -9165,7 +9165,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -9176,7 +9176,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -9187,7 +9187,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -9198,7 +9198,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -9209,7 +9209,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -9220,7 +9220,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -9231,7 +9231,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -9242,7 +9242,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -9253,7 +9253,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -9264,7 +9264,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -9275,7 +9275,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "09:10",
+  "Time": "0910",
   "Dest": "SFJ",
   "DestName": "SFJ (Kangerlussuaq - Greenland)",
   "Next": "",
@@ -9286,7 +9286,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "09:45",
+  "Time": "0945",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -9297,7 +9297,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -9308,7 +9308,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -9319,7 +9319,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -9330,7 +9330,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -9341,7 +9341,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -9352,7 +9352,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -9363,7 +9363,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -9374,7 +9374,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -9385,7 +9385,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -9396,7 +9396,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "13:55",
+  "Time": "1355",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -9407,7 +9407,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -9418,7 +9418,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -9429,7 +9429,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "14:25",
+  "Time": "1425",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -9440,7 +9440,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -9451,7 +9451,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -9462,7 +9462,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -9473,7 +9473,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -9484,7 +9484,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -9495,7 +9495,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -9506,7 +9506,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -9517,7 +9517,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -9528,7 +9528,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -9539,7 +9539,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "20:10",
+  "Time": "2010",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -9550,7 +9550,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "20:20",
+  "Time": "2020",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -9561,7 +9561,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "21:25",
+  "Time": "2125",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -9572,7 +9572,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "21:30",
+  "Time": "2130",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -9583,7 +9583,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "21:30",
+  "Time": "2130",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -9594,7 +9594,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "21:45",
+  "Time": "2145",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -9605,7 +9605,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "22:00",
+  "Time": "2200",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -9616,7 +9616,7 @@
  },
  {
   "Date": "19-04-2023",
-  "Time": "22:10",
+  "Time": "2210",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -9627,7 +9627,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -9638,7 +9638,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -9649,7 +9649,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -9660,7 +9660,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -9671,7 +9671,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -9682,7 +9682,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -9693,7 +9693,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "HER",
   "DestName": "HER (Heraklion International - Greece)",
   "Next": "",
@@ -9704,7 +9704,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "07:10",
+  "Time": "0710",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -9715,7 +9715,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -9726,7 +9726,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -9737,7 +9737,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "08:30",
+  "Time": "0830",
   "Dest": "GLA",
   "DestName": "GLA (Glasgow International - United Kingdom)",
   "Next": "",
@@ -9748,7 +9748,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "09:35",
+  "Time": "0935",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -9759,7 +9759,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "09:45",
+  "Time": "0945",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -9770,7 +9770,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "SPC",
   "DestName": "SPC (La Palma - Spain)",
   "Next": "",
@@ -9781,7 +9781,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "09:55",
+  "Time": "0955",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -9792,7 +9792,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -9803,7 +9803,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -9814,7 +9814,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -9825,7 +9825,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -9836,7 +9836,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -9847,7 +9847,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -9858,7 +9858,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -9869,7 +9869,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -9880,7 +9880,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -9891,7 +9891,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "11:30",
+  "Time": "1130",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -9902,7 +9902,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -9913,7 +9913,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -9924,7 +9924,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "12:35",
+  "Time": "1235",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -9935,7 +9935,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -9946,7 +9946,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -9957,7 +9957,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -9968,7 +9968,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -9979,7 +9979,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -9990,7 +9990,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -10001,7 +10001,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -10012,7 +10012,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "15:05",
+  "Time": "1505",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -10023,7 +10023,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -10034,7 +10034,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -10045,7 +10045,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -10056,7 +10056,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "16:20",
+  "Time": "1620",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -10067,7 +10067,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -10078,7 +10078,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -10089,7 +10089,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -10100,7 +10100,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "17:40",
+  "Time": "1740",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -10111,7 +10111,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -10122,7 +10122,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -10133,7 +10133,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "19:00",
+  "Time": "1900",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -10144,7 +10144,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -10155,7 +10155,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "19:20",
+  "Time": "1920",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -10166,7 +10166,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -10177,7 +10177,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "20:40",
+  "Time": "2040",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -10188,7 +10188,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "21:05",
+  "Time": "2105",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -10199,7 +10199,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "21:25",
+  "Time": "2125",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -10210,7 +10210,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "21:50",
+  "Time": "2150",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -10221,7 +10221,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "21:55",
+  "Time": "2155",
   "Dest": "CPH",
   "DestName": "CPH (Copenhagen - Denmark)",
   "Next": "",
@@ -10232,7 +10232,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "22:05",
+  "Time": "2205",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -10243,7 +10243,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "22:10",
+  "Time": "2210",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -10254,7 +10254,7 @@
  },
  {
   "Date": "20-04-2023",
-  "Time": "22:20",
+  "Time": "2220",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -10265,7 +10265,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -10276,7 +10276,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -10287,7 +10287,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "06:10",
+  "Time": "0610",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -10298,7 +10298,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -10309,7 +10309,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "AHO",
   "DestName": "AHO (Alghero Fertilia - Italy)",
   "Next": "",
@@ -10320,7 +10320,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -10331,7 +10331,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -10342,7 +10342,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "FUE",
   "DestName": "FUE (Fuerteventura - Spain)",
   "Next": "",
@@ -10353,7 +10353,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "07:05",
+  "Time": "0705",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -10364,7 +10364,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -10375,7 +10375,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -10386,7 +10386,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "07:30",
+  "Time": "0730",
   "Dest": "ACE",
   "DestName": "ACE (Lanzarote - Spain)",
   "Next": "",
@@ -10397,7 +10397,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "08:15",
+  "Time": "0815",
   "Dest": "PXO",
   "DestName": "PXO (Porto Santo - Portugal)",
   "Next": "",
@@ -10408,7 +10408,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)",
   "Next": "",
@@ -10419,7 +10419,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)",
   "Next": "",
@@ -10430,7 +10430,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "09:30",
+  "Time": "0930",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -10441,7 +10441,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -10452,7 +10452,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "10:20",
+  "Time": "1020",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -10463,7 +10463,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -10474,7 +10474,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -10485,7 +10485,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -10496,7 +10496,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -10507,7 +10507,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -10518,7 +10518,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "12:25",
+  "Time": "1225",
   "Dest": "ECN",
   "DestName": "ECN (Tymvou Ercan International - Cyprus)",
   "Next": "AYT",
@@ -10529,7 +10529,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "13:00",
+  "Time": "1300",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -10540,7 +10540,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -10551,7 +10551,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "14:00",
+  "Time": "1400",
   "Dest": "IBZ",
   "DestName": "IBZ (Ibiza - Spain)",
   "Next": "",
@@ -10562,7 +10562,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -10573,7 +10573,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -10584,7 +10584,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -10595,7 +10595,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -10606,7 +10606,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "15:30",
+  "Time": "1530",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -10617,7 +10617,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "15:35",
+  "Time": "1535",
   "Dest": "BGO",
   "DestName": "BGO (Bergen Flesland - Norway)",
   "Next": "",
@@ -10628,7 +10628,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "CRA",
   "DestName": "CRA (Craiova - Romania)",
   "Next": "",
@@ -10639,7 +10639,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "16:05",
+  "Time": "1605",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -10650,7 +10650,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -10661,7 +10661,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -10672,7 +10672,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -10683,7 +10683,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -10694,7 +10694,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -10705,7 +10705,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -10716,7 +10716,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -10727,7 +10727,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -10738,7 +10738,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "19:10",
+  "Time": "1910",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -10749,7 +10749,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -10760,7 +10760,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -10771,7 +10771,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MIR",
   "DestName": "MIR (Monastir Habib Bourguiba International - Tunisia)",
   "Next": "",
@@ -10782,7 +10782,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "21:45",
+  "Time": "2145",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -10793,7 +10793,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "22:05",
+  "Time": "2205",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -10804,7 +10804,7 @@
  },
  {
   "Date": "21-04-2023",
-  "Time": "22:45",
+  "Time": "2245",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -10815,7 +10815,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -10826,7 +10826,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -10837,7 +10837,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -10848,7 +10848,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "06:30",
+  "Time": "0630",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -10859,7 +10859,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -10870,7 +10870,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -10881,7 +10881,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "FAO",
   "DestName": "FAO (Faro - Portugal)",
   "Next": "",
@@ -10892,7 +10892,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "07:10",
+  "Time": "0710",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -10903,7 +10903,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -10914,7 +10914,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -10925,7 +10925,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -10936,7 +10936,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -10947,7 +10947,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -10958,7 +10958,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -10969,7 +10969,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -10980,7 +10980,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -10991,7 +10991,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -11002,7 +11002,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -11013,7 +11013,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "11:10",
+  "Time": "1110",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -11024,7 +11024,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -11035,7 +11035,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -11046,7 +11046,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -11057,7 +11057,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -11068,7 +11068,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -11079,7 +11079,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -11090,7 +11090,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -11101,7 +11101,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "14:45",
+  "Time": "1445",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -11112,7 +11112,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "15:35",
+  "Time": "1535",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -11123,7 +11123,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -11134,7 +11134,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -11145,7 +11145,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -11156,7 +11156,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "16:30",
+  "Time": "1630",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -11167,7 +11167,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "16:30",
+  "Time": "1630",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -11178,7 +11178,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -11189,7 +11189,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "16:40",
+  "Time": "1640",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -11200,7 +11200,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -11211,7 +11211,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -11222,7 +11222,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "18:15",
+  "Time": "1815",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -11233,7 +11233,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -11244,7 +11244,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -11255,7 +11255,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -11266,7 +11266,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "19:05",
+  "Time": "1905",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -11277,7 +11277,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -11288,7 +11288,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -11299,7 +11299,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -11310,7 +11310,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -11321,7 +11321,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "20:15",
+  "Time": "2015",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -11332,7 +11332,7 @@
  },
  {
   "Date": "22-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -11343,7 +11343,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -11354,7 +11354,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "RHO",
   "DestName": "RHO (Rhodes International - Greece)",
   "Next": "",
@@ -11365,7 +11365,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -11376,7 +11376,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -11387,7 +11387,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -11398,7 +11398,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -11409,7 +11409,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -11420,7 +11420,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -11431,7 +11431,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -11442,7 +11442,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "08:50",
+  "Time": "0850",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -11453,7 +11453,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -11464,7 +11464,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -11475,7 +11475,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -11486,7 +11486,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -11497,7 +11497,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "10:45",
+  "Time": "1045",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -11508,7 +11508,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -11519,7 +11519,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "11:00",
+  "Time": "1100",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -11530,7 +11530,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "11:05",
+  "Time": "1105",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -11541,7 +11541,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -11552,7 +11552,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "12:10",
+  "Time": "1210",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -11563,7 +11563,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "13:00",
+  "Time": "1300",
   "Dest": "XUD",
   "DestName": "",
   "Next": "",
@@ -11574,7 +11574,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -11585,7 +11585,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -11596,7 +11596,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -11607,7 +11607,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -11618,7 +11618,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -11629,7 +11629,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "14:40",
+  "Time": "1440",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -11640,7 +11640,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "14:50",
+  "Time": "1450",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -11651,7 +11651,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -11662,7 +11662,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -11673,7 +11673,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "17:00",
+  "Time": "1700",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -11684,7 +11684,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "17:10",
+  "Time": "1710",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -11695,7 +11695,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -11706,7 +11706,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "17:30",
+  "Time": "1730",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -11717,7 +11717,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -11728,7 +11728,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -11739,7 +11739,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -11750,7 +11750,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "19:35",
+  "Time": "1935",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -11761,7 +11761,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -11772,7 +11772,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "20:30",
+  "Time": "2030",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -11783,7 +11783,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "20:35",
+  "Time": "2035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -11794,7 +11794,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "21:10",
+  "Time": "2110",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -11805,7 +11805,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "22:25",
+  "Time": "2225",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -11816,7 +11816,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "22:55",
+  "Time": "2255",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -11827,7 +11827,7 @@
  },
  {
   "Date": "23-04-2023",
-  "Time": "23:00",
+  "Time": "2300",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -11838,7 +11838,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -11849,7 +11849,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -11860,7 +11860,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -11871,7 +11871,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -11882,7 +11882,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -11893,7 +11893,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -11904,7 +11904,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -11915,7 +11915,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "SSH",
   "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
   "Next": "",
@@ -11926,7 +11926,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "07:05",
+  "Time": "0705",
   "Dest": "LCA",
   "DestName": "LCA (Larnaca International - Cyprus)",
   "Next": "",
@@ -11937,7 +11937,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "07:15",
+  "Time": "0715",
   "Dest": "LCA",
   "DestName": "LCA (Larnaca International - Cyprus)",
   "Next": "",
@@ -11948,7 +11948,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -11959,7 +11959,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "07:30",
+  "Time": "0730",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -11970,7 +11970,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -11981,7 +11981,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)",
   "Next": "",
@@ -11992,7 +11992,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)",
   "Next": "",
@@ -12003,7 +12003,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12014,7 +12014,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -12025,7 +12025,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -12036,7 +12036,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "10:35",
+  "Time": "1035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -12047,7 +12047,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12058,7 +12058,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -12069,7 +12069,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "12:55",
+  "Time": "1255",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -12080,7 +12080,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -12091,7 +12091,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -12102,7 +12102,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "13:50",
+  "Time": "1350",
   "Dest": "AHO",
   "DestName": "AHO (Alghero Fertilia - Italy)",
   "Next": "",
@@ -12113,7 +12113,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -12124,7 +12124,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12135,7 +12135,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -12146,7 +12146,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "15:40",
+  "Time": "1540",
   "Dest": "BGO",
   "DestName": "BGO (Bergen Flesland - Norway)",
   "Next": "",
@@ -12157,7 +12157,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "CRA",
   "DestName": "CRA (Craiova - Romania)",
   "Next": "",
@@ -12168,7 +12168,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -12179,7 +12179,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -12190,7 +12190,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -12201,7 +12201,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "16:30",
+  "Time": "1630",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -12212,7 +12212,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -12223,7 +12223,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "17:35",
+  "Time": "1735",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -12234,7 +12234,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "17:35",
+  "Time": "1735",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -12245,7 +12245,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -12256,7 +12256,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "18:20",
+  "Time": "1820",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -12267,7 +12267,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12278,7 +12278,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "19:10",
+  "Time": "1910",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -12289,7 +12289,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -12300,7 +12300,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "19:40",
+  "Time": "1940",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -12311,7 +12311,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "19:50",
+  "Time": "1950",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -12322,7 +12322,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -12333,7 +12333,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "20:50",
+  "Time": "2050",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -12344,7 +12344,7 @@
  },
  {
   "Date": "24-04-2023",
-  "Time": "21:05",
+  "Time": "2105",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -12355,7 +12355,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12366,7 +12366,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -12377,7 +12377,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -12388,7 +12388,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -12399,7 +12399,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "06:25",
+  "Time": "0625",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -12410,7 +12410,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -12421,7 +12421,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "07:15",
+  "Time": "0715",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -12432,7 +12432,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -12443,7 +12443,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -12454,7 +12454,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -12465,7 +12465,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -12476,7 +12476,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -12487,7 +12487,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -12498,7 +12498,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12509,7 +12509,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -12520,7 +12520,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -12531,7 +12531,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "10:30",
+  "Time": "1030",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -12542,7 +12542,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -12553,7 +12553,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -12564,7 +12564,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "11:15",
+  "Time": "1115",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -12575,7 +12575,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -12586,7 +12586,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12597,7 +12597,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -12608,7 +12608,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -12619,7 +12619,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -12630,7 +12630,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "13:30",
+  "Time": "1330",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -12641,7 +12641,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12652,7 +12652,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -12663,7 +12663,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "14:35",
+  "Time": "1435",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -12674,7 +12674,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "15:05",
+  "Time": "1505",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -12685,7 +12685,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -12696,7 +12696,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "16:10",
+  "Time": "1610",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -12707,7 +12707,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -12718,7 +12718,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "16:25",
+  "Time": "1625",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -12729,7 +12729,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -12740,7 +12740,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -12751,7 +12751,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -12762,7 +12762,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "17:10",
+  "Time": "1710",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -12773,7 +12773,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -12784,7 +12784,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -12795,7 +12795,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -12806,7 +12806,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12817,7 +12817,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -12828,7 +12828,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -12839,7 +12839,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "20:45",
+  "Time": "2045",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -12850,7 +12850,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -12861,7 +12861,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "21:35",
+  "Time": "2135",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -12872,7 +12872,7 @@
  },
  {
   "Date": "25-04-2023",
-  "Time": "22:50",
+  "Time": "2250",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -12883,7 +12883,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -12894,7 +12894,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -12905,7 +12905,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -12916,7 +12916,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -12927,7 +12927,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -12938,7 +12938,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -12949,7 +12949,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -12960,7 +12960,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -12971,7 +12971,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "07:45",
+  "Time": "0745",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -12982,7 +12982,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "LPA",
   "DestName": "LPA (Gran Canaria - Spain)",
   "Next": "",
@@ -12993,7 +12993,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "09:10",
+  "Time": "0910",
   "Dest": "SFJ",
   "DestName": "SFJ (Kangerlussuaq - Greenland)",
   "Next": "",
@@ -13004,7 +13004,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "09:45",
+  "Time": "0945",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -13015,7 +13015,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -13026,7 +13026,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -13037,7 +13037,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -13048,7 +13048,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -13059,7 +13059,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -13070,7 +13070,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "11:25",
+  "Time": "1125",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -13081,7 +13081,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -13092,7 +13092,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -13103,7 +13103,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -13114,7 +13114,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -13125,7 +13125,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "13:55",
+  "Time": "1355",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -13136,7 +13136,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -13147,7 +13147,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -13158,7 +13158,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "14:25",
+  "Time": "1425",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -13169,7 +13169,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "15:50",
+  "Time": "1550",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -13180,7 +13180,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -13191,7 +13191,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -13202,7 +13202,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -13213,7 +13213,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -13224,7 +13224,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -13235,7 +13235,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -13246,7 +13246,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -13257,7 +13257,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "20:10",
+  "Time": "2010",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -13268,7 +13268,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "20:20",
+  "Time": "2020",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -13279,7 +13279,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "21:25",
+  "Time": "2125",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -13290,7 +13290,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "21:30",
+  "Time": "2130",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -13301,7 +13301,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "21:30",
+  "Time": "2130",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -13312,7 +13312,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "21:45",
+  "Time": "2145",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -13323,7 +13323,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "22:00",
+  "Time": "2200",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -13334,7 +13334,7 @@
  },
  {
   "Date": "26-04-2023",
-  "Time": "22:10",
+  "Time": "2210",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -13345,7 +13345,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -13356,7 +13356,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -13367,7 +13367,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -13378,7 +13378,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -13389,7 +13389,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -13400,7 +13400,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -13411,7 +13411,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "HER",
   "DestName": "HER (Heraklion International - Greece)",
   "Next": "",
@@ -13422,7 +13422,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "07:10",
+  "Time": "0710",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -13433,7 +13433,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -13444,7 +13444,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "08:00",
+  "Time": "0800",
   "Dest": "TFS",
   "DestName": "TFS (Tenerife South - Spain)",
   "Next": "",
@@ -13455,7 +13455,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -13466,7 +13466,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "08:30",
+  "Time": "0830",
   "Dest": "LYS",
   "DestName": "LYS (Lyon Saint Exupery - France)",
   "Next": "",
@@ -13477,7 +13477,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "09:35",
+  "Time": "0935",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -13488,7 +13488,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "09:45",
+  "Time": "0945",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -13499,7 +13499,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "09:50",
+  "Time": "0950",
   "Dest": "PDL",
   "DestName": "PDL (Ponta Delgada Joao Paulo II - Portugal)",
   "Next": "",
@@ -13510,7 +13510,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "09:55",
+  "Time": "0955",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -13521,7 +13521,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -13532,7 +13532,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -13543,7 +13543,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -13554,7 +13554,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -13565,7 +13565,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -13576,7 +13576,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -13587,7 +13587,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -13598,7 +13598,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -13609,7 +13609,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "11:30",
+  "Time": "1130",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -13620,7 +13620,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -13631,7 +13631,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -13642,7 +13642,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "12:35",
+  "Time": "1235",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -13653,7 +13653,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -13664,7 +13664,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -13675,7 +13675,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "13:20",
+  "Time": "1320",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -13686,7 +13686,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -13697,7 +13697,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -13708,7 +13708,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -13719,7 +13719,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -13730,7 +13730,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "15:05",
+  "Time": "1505",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -13741,7 +13741,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -13752,7 +13752,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -13763,7 +13763,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "16:00",
+  "Time": "1600",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -13774,7 +13774,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -13785,7 +13785,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -13796,7 +13796,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "16:50",
+  "Time": "1650",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -13807,7 +13807,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "17:00",
+  "Time": "1700",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -13818,7 +13818,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -13829,7 +13829,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "17:40",
+  "Time": "1740",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -13840,7 +13840,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -13851,7 +13851,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -13862,7 +13862,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "19:00",
+  "Time": "1900",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -13873,7 +13873,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -13884,7 +13884,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -13895,7 +13895,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "19:20",
+  "Time": "1920",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -13906,7 +13906,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -13917,7 +13917,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "20:40",
+  "Time": "2040",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -13928,7 +13928,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "21:05",
+  "Time": "2105",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -13939,7 +13939,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "21:25",
+  "Time": "2125",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -13950,7 +13950,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "21:50",
+  "Time": "2150",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -13961,7 +13961,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "22:05",
+  "Time": "2205",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -13972,7 +13972,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "22:10",
+  "Time": "2210",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -13983,7 +13983,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "22:20",
+  "Time": "2220",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -13994,7 +13994,7 @@
  },
  {
   "Date": "27-04-2023",
-  "Time": "01:05",
+  "Time": "0105",
   "Dest": "CPH",
   "DestName": "CPH (Copenhagen - Denmark)",
   "Next": "",
@@ -14005,7 +14005,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -14016,7 +14016,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -14027,7 +14027,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "06:10",
+  "Time": "0610",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -14038,7 +14038,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -14049,7 +14049,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "AHO",
   "DestName": "AHO (Alghero Fertilia - Italy)",
   "Next": "",
@@ -14060,7 +14060,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -14071,7 +14071,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -14082,7 +14082,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "FUE",
   "DestName": "FUE (Fuerteventura - Spain)",
   "Next": "",
@@ -14093,7 +14093,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "07:20",
+  "Time": "0720",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -14104,7 +14104,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -14115,7 +14115,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "07:30",
+  "Time": "0730",
   "Dest": "ACE",
   "DestName": "ACE (Lanzarote - Spain)",
   "Next": "",
@@ -14126,7 +14126,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "09:00",
+  "Time": "0900",
   "Dest": "MXP",
   "DestName": "MXP (Milan Malpensa - Italy)",
   "Next": "",
@@ -14137,7 +14137,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "BRI",
   "DestName": "BRI (Bari - Italy)",
   "Next": "",
@@ -14148,7 +14148,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "09:25",
+  "Time": "0925",
   "Dest": "ORY",
   "DestName": "ORY (Paris Orly - France)",
   "Next": "",
@@ -14159,7 +14159,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "09:30",
+  "Time": "0930",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -14170,7 +14170,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -14181,7 +14181,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "10:20",
+  "Time": "1020",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -14192,7 +14192,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -14203,7 +14203,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -14214,7 +14214,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -14225,7 +14225,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -14236,7 +14236,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -14247,7 +14247,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "13:00",
+  "Time": "1300",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -14258,7 +14258,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -14269,7 +14269,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "14:00",
+  "Time": "1400",
   "Dest": "IBZ",
   "DestName": "IBZ (Ibiza - Spain)",
   "Next": "",
@@ -14280,7 +14280,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -14291,7 +14291,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "14:20",
+  "Time": "1420",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -14302,7 +14302,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -14313,7 +14313,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -14324,7 +14324,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "15:30",
+  "Time": "1530",
   "Dest": "ARN",
   "DestName": "ARN (Stockholm Arlanda - Sweden)",
   "Next": "",
@@ -14335,7 +14335,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "15:35",
+  "Time": "1535",
   "Dest": "BGO",
   "DestName": "BGO (Bergen Flesland - Norway)",
   "Next": "",
@@ -14346,7 +14346,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "16:05",
+  "Time": "1605",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -14357,7 +14357,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "LCY",
   "DestName": "LCY (London City - United Kingdom)",
   "Next": "",
@@ -14368,7 +14368,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -14379,7 +14379,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -14390,7 +14390,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -14401,7 +14401,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -14412,7 +14412,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -14423,7 +14423,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -14434,7 +14434,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -14445,7 +14445,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "19:10",
+  "Time": "1910",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -14456,7 +14456,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -14467,7 +14467,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -14478,7 +14478,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MIR",
   "DestName": "MIR (Monastir Habib Bourguiba International - Tunisia)",
   "Next": "",
@@ -14489,7 +14489,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "21:45",
+  "Time": "2145",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -14500,7 +14500,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "22:05",
+  "Time": "2205",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -14511,7 +14511,7 @@
  },
  {
   "Date": "28-04-2023",
-  "Time": "22:45",
+  "Time": "2245",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -14522,7 +14522,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -14533,7 +14533,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FCO",
   "DestName": "FCO (Rome Leonardo da Vinci-Fiumicino - Italy)",
   "Next": "",
@@ -14544,7 +14544,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -14555,7 +14555,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "06:30",
+  "Time": "0630",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -14566,7 +14566,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -14577,7 +14577,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MLA",
   "DestName": "MLA (Luqa Malta International - Malta)",
   "Next": "",
@@ -14588,7 +14588,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -14599,7 +14599,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "07:00",
+  "Time": "0700",
   "Dest": "FAO",
   "DestName": "FAO (Faro - Portugal)",
   "Next": "",
@@ -14610,7 +14610,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "07:10",
+  "Time": "0710",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -14621,7 +14621,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -14632,7 +14632,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "IAS",
   "DestName": "IAS (Iasi International - Romania)",
   "Next": "",
@@ -14643,7 +14643,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
@@ -14654,7 +14654,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "09:35",
+  "Time": "0935",
   "Dest": "HER",
   "DestName": "HER (Heraklion International - Greece)",
   "Next": "CPH",
@@ -14665,7 +14665,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "10:00",
+  "Time": "1000",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -14676,7 +14676,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "10:05",
+  "Time": "1005",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -14687,7 +14687,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -14698,7 +14698,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -14709,7 +14709,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "10:25",
+  "Time": "1025",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -14720,7 +14720,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "10:40",
+  "Time": "1040",
   "Dest": "TSF",
   "DestName": "TSF (Treviso - Italy)",
   "Next": "",
@@ -14731,7 +14731,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "ALC",
   "DestName": "ALC (Alicante - Spain)",
   "Next": "",
@@ -14742,7 +14742,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "10:50",
+  "Time": "1050",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -14753,7 +14753,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "11:10",
+  "Time": "1110",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -14764,7 +14764,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "11:20",
+  "Time": "1120",
   "Dest": "SVQ",
   "DestName": "SVQ (Seville San Pablo - Spain)",
   "Next": "",
@@ -14775,7 +14775,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -14786,7 +14786,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -14797,7 +14797,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "12:50",
+  "Time": "1250",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -14808,7 +14808,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -14819,7 +14819,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -14830,7 +14830,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "14:45",
+  "Time": "1445",
   "Dest": "BUD",
   "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
   "Next": "",
@@ -14841,7 +14841,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "14:55",
+  "Time": "1455",
   "Dest": "FAE",
   "DestName": "FAE (Vagar - Faroe Islands)",
   "Next": "",
@@ -14852,7 +14852,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -14863,7 +14863,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "15:55",
+  "Time": "1555",
   "Dest": "BER",
   "DestName": "BER (Berlin Brandenburg Willy Brandt - Germany)",
   "Next": "",
@@ -14874,7 +14874,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "GDN",
   "DestName": "GDN (Gdansk Lech Walesa - Poland)",
   "Next": "",
@@ -14885,7 +14885,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "16:30",
+  "Time": "1630",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -14896,7 +14896,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "16:30",
+  "Time": "1630",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -14907,7 +14907,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "16:35",
+  "Time": "1635",
   "Dest": "TPS",
   "DestName": "TPS (Trapani Birgi - Italy)",
   "Next": "",
@@ -14918,7 +14918,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "16:40",
+  "Time": "1640",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -14929,7 +14929,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "16:40",
+  "Time": "1640",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -14940,7 +14940,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -14951,7 +14951,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "17:55",
+  "Time": "1755",
   "Dest": "BLQ",
   "DestName": "BLQ (Bologna Guglielmo Marconi - Italy)",
   "Next": "",
@@ -14962,7 +14962,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "18:15",
+  "Time": "1815",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -14973,7 +14973,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "18:45",
+  "Time": "1845",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -14984,7 +14984,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "19:00",
+  "Time": "1900",
   "Dest": "TZL",
   "DestName": "TZL (Tuzla International - Bosnia and Herzegovina)",
   "Next": "",
@@ -14995,7 +14995,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "19:05",
+  "Time": "1905",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -15006,7 +15006,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "19:15",
+  "Time": "1915",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -15017,7 +15017,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "19:35",
+  "Time": "1935",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "CPH",
@@ -15028,7 +15028,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "PSA",
   "DestName": "PSA (Pisa Galileo Galilei - Italy)",
   "Next": "",
@@ -15039,7 +15039,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "20:00",
+  "Time": "2000",
   "Dest": "OPO",
   "DestName": "OPO (Porto Francisco de Sa Carneiro - Portugal)",
   "Next": "",
@@ -15050,7 +15050,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "20:05",
+  "Time": "2005",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -15061,7 +15061,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "20:15",
+  "Time": "2015",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -15072,7 +15072,7 @@
  },
  {
   "Date": "29-04-2023",
-  "Time": "21:15",
+  "Time": "2115",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -15083,7 +15083,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -15094,7 +15094,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "06:00",
+  "Time": "0600",
   "Dest": "RHO",
   "DestName": "RHO (Rhodes International - Greece)",
   "Next": "",
@@ -15105,7 +15105,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "06:15",
+  "Time": "0615",
   "Dest": "BGY",
   "DestName": "BGY (Milan Bergamo Il Caravaggio International - Italy)",
   "Next": "",
@@ -15116,7 +15116,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "06:20",
+  "Time": "0620",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -15127,7 +15127,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -15138,7 +15138,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "06:35",
+  "Time": "0635",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -15149,7 +15149,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "07:25",
+  "Time": "0725",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -15160,7 +15160,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "07:35",
+  "Time": "0735",
   "Dest": "AGP",
   "DestName": "AGP (Malaga Costa Del Sol - Spain)",
   "Next": "",
@@ -15171,7 +15171,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "08:20",
+  "Time": "0820",
   "Dest": "OTP",
   "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
   "Next": "",
@@ -15182,7 +15182,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "08:50",
+  "Time": "0850",
   "Dest": "WRO",
   "DestName": "WRO (Wroclaw Copernicus - Poland)",
   "Next": "",
@@ -15193,7 +15193,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "09:15",
+  "Time": "0915",
   "Dest": "CRL",
   "DestName": "CRL (Brussels South Charleroi - Belgium)",
   "Next": "",
@@ -15204,7 +15204,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -15215,7 +15215,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "10:10",
+  "Time": "1010",
   "Dest": "IST",
   "DestName": "IST (Istanbul Ataturk International - Turkey)",
   "Next": "",
@@ -15226,7 +15226,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "10:35",
+  "Time": "1035",
   "Dest": "DBV",
   "DestName": "DBV (Dubrovnik - Croatia)",
   "Next": "",
@@ -15237,7 +15237,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "10:45",
+  "Time": "1045",
   "Dest": "BHX",
   "DestName": "BHX (Birmingham - United Kingdom)",
   "Next": "",
@@ -15248,7 +15248,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "10:55",
+  "Time": "1055",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -15259,7 +15259,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "11:00",
+  "Time": "1100",
   "Dest": "POZ",
   "DestName": "POZ (Poznan Lawica - Poland)",
   "Next": "",
@@ -15270,7 +15270,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "11:05",
+  "Time": "1105",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -15281,7 +15281,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "11:50",
+  "Time": "1150",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -15292,7 +15292,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "12:10",
+  "Time": "1210",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -15303,7 +15303,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "13:10",
+  "Time": "1310",
   "Dest": "MUC",
   "DestName": "MUC (Munich - Germany)",
   "Next": "",
@@ -15314,7 +15314,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "14:10",
+  "Time": "1410",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -15325,7 +15325,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "14:15",
+  "Time": "1415",
   "Dest": "RIX",
   "DestName": "RIX (Riga International - Latvia)",
   "Next": "",
@@ -15336,7 +15336,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -15347,7 +15347,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "14:30",
+  "Time": "1430",
   "Dest": "FRA",
   "DestName": "FRA (Frankfurt - Germany)",
   "Next": "",
@@ -15358,7 +15358,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "14:40",
+  "Time": "1440",
   "Dest": "PMI",
   "DestName": "PMI (Palma de Mallorca - Spain)",
   "Next": "",
@@ -15369,7 +15369,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "14:50",
+  "Time": "1450",
   "Dest": "RNN",
   "DestName": "RNN (Bornholm - Denmark)",
   "Next": "",
@@ -15380,7 +15380,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "15:10",
+  "Time": "1510",
   "Dest": "VNO",
   "DestName": "VNO (Vilnius International - Lithuania)",
   "Next": "",
@@ -15391,7 +15391,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "16:15",
+  "Time": "1615",
   "Dest": "TRN",
   "DestName": "TRN (Turin Caselle - Italy)",
   "Next": "",
@@ -15402,7 +15402,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "17:00",
+  "Time": "1700",
   "Dest": "LHR",
   "DestName": "LHR (London Heathrow - United Kingdom)",
   "Next": "",
@@ -15413,7 +15413,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "17:00",
+  "Time": "1700",
   "Dest": "CHQ",
   "DestName": "CHQ (Chania International - Greece)",
   "Next": "",
@@ -15424,7 +15424,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "17:10",
+  "Time": "1710",
   "Dest": "OSL",
   "DestName": "OSL (Oslo Gardermoen - Norway)",
   "Next": "",
@@ -15435,7 +15435,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "17:20",
+  "Time": "1720",
   "Dest": "BRU",
   "DestName": "BRU (Brussels - Belgium)",
   "Next": "",
@@ -15446,7 +15446,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "17:30",
+  "Time": "1730",
   "Dest": "KRK",
   "DestName": "KRK (Krakow John Paul II International - Poland)",
   "Next": "",
@@ -15457,7 +15457,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "17:50",
+  "Time": "1750",
   "Dest": "CDG",
   "DestName": "CDG (Paris Charles de Gaulle - France)",
   "Next": "",
@@ -15468,7 +15468,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "18:00",
+  "Time": "1800",
   "Dest": "RHO",
   "DestName": "RHO (Rhodes International - Greece)",
   "Next": "",
@@ -15479,7 +15479,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "AMS",
   "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
   "Next": "",
@@ -15490,7 +15490,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "18:35",
+  "Time": "1835",
   "Dest": "BCN",
   "DestName": "BCN (Barcelona El Prat - Spain)",
   "Next": "",
@@ -15501,7 +15501,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "19:25",
+  "Time": "1925",
   "Dest": "RHO",
   "DestName": "RHO (Rhodes International - Greece)",
   "Next": "",
@@ -15512,7 +15512,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "19:35",
+  "Time": "1935",
   "Dest": "AYT",
   "DestName": "AYT (Antalya - Turkey)",
   "Next": "",
@@ -15523,7 +15523,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "19:55",
+  "Time": "1955",
   "Dest": "WAW",
   "DestName": "WAW (Warsaw Chopin - Poland)",
   "Next": "",
@@ -15534,7 +15534,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "20:30",
+  "Time": "2030",
   "Dest": "MAD",
   "DestName": "MAD (Madrid Barajas - Spain)",
   "Next": "",
@@ -15545,7 +15545,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "20:35",
+  "Time": "2035",
   "Dest": "STN",
   "DestName": "STN (London Stansted - United Kingdom)",
   "Next": "",
@@ -15556,7 +15556,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "21:10",
+  "Time": "2110",
   "Dest": "VIE",
   "DestName": "VIE (Vienna International - Austria)",
   "Next": "",
@@ -15567,7 +15567,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "22:25",
+  "Time": "2225",
   "Dest": "EDI",
   "DestName": "EDI (Edinburgh - United Kingdom)",
   "Next": "",
@@ -15578,7 +15578,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "22:55",
+  "Time": "2255",
   "Dest": "MAN",
   "DestName": "MAN (Manchester - United Kingdom)",
   "Next": "",
@@ -15589,7 +15589,7 @@
  },
  {
   "Date": "30-04-2023",
-  "Time": "23:00",
+  "Time": "2300",
   "Dest": "DUB",
   "DestName": "DUB (Dublin - Ireland)",
   "Next": "",
