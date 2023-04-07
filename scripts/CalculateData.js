@@ -10,8 +10,6 @@ function CalculateAirportAirLineReport() {
   total_completed = 0;
   total_quota_completed = 0;
 
-  console.log("interview_data: ", interview_data);
-
   for (i = 0; i < quota_data.length; i++) {
     row = quota_data[i];
     row.Completed = 0;
@@ -39,9 +37,6 @@ function CalculateAirportAirLineReport() {
     }
 
   }
-
-  console.log("daily_plan_data: ", daily_plan_data);
-  console.log("quota_data: ", quota_data);
 
   for (i = 0; i < daily_plan_data.length; i++) {//Flight_To_report.length;
     row = daily_plan_data[i];
