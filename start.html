@@ -1,57 +1,201 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>BLL - QSM Departures Survey</title>
-  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
-  
-  <link href="css/styles.css" rel ="stylesheet" type="text/css" />
+    <head>
+		<title>Daily Plan - BLL QSM Departures</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+ 
+		<script src="data/quota_data.js"></script>
+		<script src="data/BLL_departures_flight_list.js"></script>
+    <script src="data/invalid_cases.js"></script>
+    <script src="scripts/PrepareData.js"></script>
+		<script src="scripts/CalculateData.js"></script>
+    <script src="scripts/flight_search.js"></script>
 
-  <script src="data/BLL_departures_flight_list.js"></script>
-  <script src="scripts/flight_search.js"></script>
+    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_alc/BLL_QSM_Dep/data/interview_data.js"></script>
+    <link href="css/styles.css" rel ="stylesheet" type="text/css" />
+    <style>
+      .table-font {
+        font-size: 16px;
+        /* height: 18px; */
+      }
 
-<style>
+      .filter-font {
+        font-size: 16px;
+        /* height: 18px; */
+      }
+       .button {
+        border: none;
+        color: white;
+        padding: 15px 15px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        width: 200px;
+        margin: 4px 2px;
+        cursor: pointer;
+        margin: 0;
+        position: relative;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
 
-.button {
-  border: none;
-  font: sans-serif;
-  color: #414747;
-  padding: 15px 15px;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 18px;
-  width: 200px;
-  margin: 4px 2px;
-  cursor: pointer;
-  margin: 0;
-  position: relative;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
+      .red {background-color: #f44336;;} /* Red */
 
-.red {background-color: #f44336;;} /* Red */
-
-.blue {background-color: #0099CC;;} /* Blue */ 
-
-.yellow {background-color: #fff19a;;} /* yellow */ 
-
-
-h2 {text-align: left; color: #414747; font: sans-serif;}
-</style>
+      .blue {background-color: #0099CC;;} /* Blue */ 
 
 
-</head>
-<body>
 
-<script>
-  function start_new_interview() {
+      h1 {text-align: center;}
+
+          
+    .button {
+      border: none;
+      font: sans-serif;
+      color: #414747;
+      padding: 15px 15px;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 18px;
+      width: 200px;
+      margin: 4px 2px;
+      cursor: pointer;
+      margin: 0;
+      position: relative;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    .red {background-color: #f44336;;} /* Red */
+
+    .blue {background-color: #0099CC;;} /* Blue */ 
+
+    .yellow {background-color: #fff19a;;} /* yellow */ 
+
+
+    h2 {text-align: left; color: #414747; font: sans-serif;}
+
+    </style>
+
+		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      function isNextDay()
+      {
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+
+        //?nextday=true
+        return(urlParams.has('nextday'));
+      }
+      //google.charts.load('current', {'packages':['table']});
+      google.charts.load('current', {'packages':['table','corechart', 'controls']});
+      google.charts.setOnLoadCallback(drawTable);
+
+      function drawTable() {
+        CalculateAirportAirLineReport();
+        var data = new google.visualization.DataTable();
+
+        data.addColumn('string', 'Time');
+        data.addColumn('string', 'Flight');
+        data.addColumn('string', 'To');
+        //data.addColumn('string', 'Via');
+        //data.addColumn('string', 'DOOP');
+        //data.addColumn('number', 'Remaining Flights');
+        data.addColumn('number', 'Quota');
+        data.addColumn('number', 'Completed');
+				data.addColumn('number', 'Missing');
+        data.addColumn('number', 'Completed %');
+        data.addColumn('number', 'Priority Score');
+        data.addColumn('number', 'Priority');
+        
+        //add data
+        for (i = 0; i < daily_plan_data.length; i++) {
+          var row = daily_plan_data[i];
+            { 
+                data.addRows([[row.Date_Time, 
+                row.Flight, row.Dest, 
+                //row.Next, 
+                //row.doop, Number(row.remaining_flights), 
+                Number(row.Quota), Number(row.Completed), Number(row.Difference), 
+                Number(row.Completed_percent), 
+                Number(row.Prioritisation_score), 
+                Number(row.Priority)]]);
+            }
+          }
+
+        //highlight priority one
+        var priority_col = data.getNumberOfColumns()-1; //last one
+        for (var i = 0; i < data.getNumberOfRows(); i++) {
+          for (j=0; j < data.getNumberOfColumns(); j++) {
+            if (data.getValue(i, priority_col) ==1) 
+            {
+              data.setProperty(i, j, 'style', 'background-color:#FFCCCB');
+            }
+            else {
+              //data.setProperty(i, j, 'style', 'background-color:white; font-size: 15px');
+            }
+          }
+        }
+
+        //create a dashboard.
+        var dashboard = new google.visualization.Dashboard(
+        document.getElementById('dashboard_div'));
+
+        //create fiter
+        var options = {
+          'filterColumnLabel': 'To',
+          "ui": {"label": "", 
+                "labelStacking": 'horizotal',
+                "caption": "Select terminal",
+                }
+        };
+        
+        var tableFilter = new google.visualization.ControlWrapper({
+          'controlType': 'CategoryFilter',
+          'containerId': 'filter_div',
+          'options': options
+        });
+
+        // Create table
+        var tableChart = new google.visualization.ChartWrapper({
+          'chartType': 'Table',
+          'containerId': 'table_div',
+          'options': {
+            'allowHtml': true, 
+            'cssClassNames': {tableCell: 'table-font', headerRow: 'table-font', headerCell: 'googleHeaderCell' },
+            'sortColumn': 0, //time
+            'showRowNumber': false, 'width': '100%', 'height': '100%'
+          }
+        });
+
+        dashboard.bind(tableFilter, tableChart);
+
+        var view = new google.visualization.DataView(data);
+        view.hideColumns([priority_col, priority_col-1]); //hide priority one
+        document.getElementById("filter_div").style.display = "none";
+        dashboard.draw(view);
+
+        //Update time info
+        //document.getElementById("download_time").innerHTML = "Data updated: " + download_time;
+
+        //overall_status
+        var overall_status = "Total quota: " + total_quota;
+        overall_status += " - Total completed: " + total_completed;
+        //overall_status += " - Quota completed: " + total_quota_completed;
+                document.getElementById("overall_status").innerHTML = overall_status + " | " + "Data updated at " + download_time;
+      }
+    
+      function start_new_interview() {
       console.log("start_new_interview");
       
       let url = "https://survey.alchemer.eu/s3/90456807/QSMD-BLL?";
-      
+
       if (flightForInterview && flightForInterview.Flight) url = url + "flight=" + flightForInterview.Flight;
       if (flightForInterview && flightForInterview.AirlineCode) url = url + "&airlinecode=" + flightForInterview.AirlineCode;
       if (flightForInterview && flightForInterview.Airline) url = url + "&airlinename=" + flightForInterview.Airline;
@@ -62,49 +206,46 @@ h2 {text-align: left; color: #414747; font: sans-serif;}
       window.location.href = url;
     }
 
-    window.addEventListener('load', function () {
-    load_flight_list();
-    document.getElementById('inputFlightCodeID').value = "";
-  });
+      window.addEventListener('load', function () {
+      load_flight_list();
+      document.getElementById('inputFlightCodeID').value = "";
+    });
 
-</script>
-  <!-- <h1>MUC - DEPARTURES SURVEY</h1> -->
-</br>
-</br>
-</br>
-</br>
-</br>
 
-  <div>
-    <input list="flightDropBoxList" 
-      onchange="select_flight()"  
-      onkeyup="update_drop_box_list()" 
-      placeholder="Please key in flight number:"
-      name="inputFlightCodeID" id="inputFlightCodeID" >
-    <datalist id="flightDropBoxList">
-  </div>  
-
-  <div>
-    </br></br></br> </br></br> </br>
-    <button onclick="start_new_interview()" class="button yellow">Start survey</button>
-    </br></br></br> </br></br> </br>
-  </div>
-
-  <div style="background-color:#f9ea97;">
-  </br>
-  </div>
-
-  <h2>
-    Interviewer Information
-  </h2>
-  <h3>
+    </script>
+  </head>
+  <body>
+    </br></br></br></br>
+    <div>
+      <input list="flightDropBoxList" 
+        onchange="select_flight()"  
+        onkeyup="update_drop_box_list()" 
+        placeholder="Please key in flight number:"
+        name="inputFlightCodeID" id="inputFlightCodeID" >
+      <datalist id="flightDropBoxList">
+    </div>  
+  
+    <div>
+      </br></br></br></br>
+      <button onclick="start_new_interview()" class="button yellow">Start survey</button>
+      </br></br>
+    </div>
+  
+    <div style="background-color:#f9ea97;">
     </br>
-    <a href="https://silverliningresearch.github.io/BLL_QSM_Dep/ComingSoon.html" target="_blank">
-        Daily Plan - BLL QSM Departures
-    </a>
-  </h3>
+    </div>
 
-</body>
+		<!-- <h3>Daily Plan – MUC PEI AB Survey</h3> -->
+    <h4 id="overall_status"></h4>
+    <!-- <h4 id="download_time"></h4> -->
+    <div id="dashboard_div">
+      <!--Divs that will hold each control and chart-->
+      <div id="filter_div" style="font-size: 15px"> </div>
+
+      <!-- <div id="2017" style="z-index:1;position: fixed;top: 70px;left: 850px;font-family: Arial;font-size: 13;color:red;">2017</div> -->
+      </br>
+      <div id="table_div"></div>
+    </div>
+
+  </body>
 </html>
-
-
