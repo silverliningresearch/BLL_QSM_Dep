@@ -128,7 +128,6 @@ function select_flight() {
       //store detail data here
       //Search engine to produce Flight no., Airline, Destination, Via - to be added later
       flightForInterview = currentFlight;
-      console.log("currentFlight: ", flightForInterview);
       found = true;
       break;
     }

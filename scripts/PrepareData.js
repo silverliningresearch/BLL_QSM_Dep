@@ -10,7 +10,7 @@ var currentDate;
 var nextDate;
 var download_time;
 
-var total_quota = 750;
+var total_quota = 500;
 var total_completed;
 
 var total_quota_completed;
@@ -128,7 +128,6 @@ function prepareInterviewData() {
         var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewEndDate"] ;
         var str = '{' + dest + InterviewEndDate + '"}';
 
-        console.log("str id: ", str);
         if (isvalid_id(interview["InterviewId"])) //check if valid
         {
           interview_data.push(JSON.parse(str));
@@ -159,9 +158,7 @@ function prepareInterviewData() {
     if (currentMonth == flight.Date.substring(3,10)) { 
       this_month_flight_list.push(flight);
     }	
-    console.log("flight", flight);
-    console.log("currentDate", currentDate);
-    console.log("flight.Time", flight.Time);
+
     //only get today & not departed flight
     if (((currentDate == flight.Date) && notDeparted(flight.Time))
         //|| (nextDate == flight.Date)
