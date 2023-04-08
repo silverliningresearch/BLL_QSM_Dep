@@ -45,7 +45,6 @@ function CalculateAirportAirLineReport() {
     row.Prioritisation_score = row.Difference_percent*row.Difference/100;
 
     row.Completed_percent =(100*(row.Completed/row.Quota)).toFixed(0);
-    total_completed = total_completed + row.Completed;
         
     total_quota_completed = total_quota_completed + row.Completed;
         
