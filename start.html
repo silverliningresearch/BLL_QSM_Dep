@@ -186,18 +186,18 @@
         dashboard.draw(view);
 
         //Update time info
-        //document.getElementById("download_time").innerHTML = "Data updated: " + download_time;
+        document.getElementById("download_time").innerHTML = "Data updated at: " + download_time;
 
         //overall_status
-        var overall_arrival_status =  "[QSM Arrivals] " + "Total quota: " + total_arrival_quota;
+        var overall_arrival_status =  "QSM Arrivals: " + "Total quota: " + total_arrival_quota;
         overall_arrival_status += " - Total completed: " + total_arrival_completed + "</br>";
         document.getElementById("overall_arrival_status").innerHTML =overall_arrival_status;
 
         //overall_status
-        var overall_status =  "[QSM Departures] " + "Total quota: " + total_quota;
+        var overall_status =  "QSM Departures: " + "Total quota: " + total_quota;
         overall_status += " - Total completed: " + total_completed;
         //overall_status += " - Quota completed: " + total_quota_completed;
-        document.getElementById("overall_status").innerHTML =overall_status + " | " + "Data updated at " + download_time;
+        document.getElementById("overall_status").innerHTML =overall_status;
       }
     
       function start_new_interview() {
@@ -244,13 +244,14 @@
     </br>
     </div>
 
+    <h5 id="download_time"></h5>
     <h4 id="overall_arrival_status"></h4>
     <h4 id="overall_status"></h4>
 
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_div" style="font-size: 15px"> </div>
-      </br>
+        </br>
       <div id="table_div"></div>
     </div>
 
