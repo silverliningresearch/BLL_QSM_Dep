@@ -1,5 +1,6 @@
 var total_arrival_quota = 150;
 var total_arrival_completed;
+var total_arrival_completed_percent;
 
 /************************************/
 function CalculateArrival() {
@@ -16,7 +17,8 @@ function CalculateArrival() {
       total_arrival_completed++;
     }
   }
+  total_arrival_completed_percent = (100*(total_arrival_completed/total_arrival_quota)).toFixed(0);   
 
-  }
+}
 
 

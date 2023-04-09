@@ -190,12 +190,14 @@
 
         //overall_status
         var overall_arrival_status =  "QSM Arrivals: " + "Total quota: " + total_arrival_quota;
-        overall_arrival_status += " - Total completed: " + total_arrival_completed + "</br>";
+        overall_arrival_status += " - Total completed: " + total_arrival_completed;
+        overall_arrival_status +=  " (" + total_arrival_completed_percent +  "%)";
         document.getElementById("overall_arrival_status").innerHTML =overall_arrival_status;
 
         //overall_status
         var overall_status =  "QSM Departures: " + "Total quota: " + total_quota;
-        overall_status += " - Total completed: " + total_completed;
+        overall_status += " - Total completed: " + total_completed ;
+        overall_status +=  " (" + total_completed_percent +  "%)";
         //overall_status += " - Quota completed: " + total_quota_completed;
         document.getElementById("overall_status").innerHTML =overall_status;
       }
