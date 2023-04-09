@@ -9,6 +9,8 @@
     <script src="scripts/PrepareData.js"></script>
 		<script src="scripts/CalculateData.js"></script>
     <script src="scripts/flight_search.js"></script>
+    <script src="scripts/CalculateDataArrival.js"></script>
+    <script src="data/interview_data_arr.js"></script>
 
     <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_alc/BLL_QSM_Dep/data/interview_data.js"></script>
     <link href="css/styles.css" rel ="stylesheet" type="text/css" />
@@ -99,6 +101,7 @@
 
       function drawTable() {
         CalculateAirportAirLineReport();
+        CalculateArrival();
         var data = new google.visualization.DataTable();
 
         data.addColumn('string', 'Time');
@@ -185,10 +188,15 @@
         //document.getElementById("download_time").innerHTML = "Data updated: " + download_time;
 
         //overall_status
-        var overall_status = "Total quota: " + total_quota;
+        var overall_arrival_status =  "[QSM Arrivals] " + "Total quota: " + total_arrival_quota;
+        overall_arrival_status += " - Total completed: " + total_arrival_completed + "</br>";
+        document.getElementById("overall_arrival_status").innerHTML =overall_arrival_status;
+
+        //overall_status
+        var overall_status =  "[QSM Departures] " + "Total quota: " + total_quota;
         overall_status += " - Total completed: " + total_completed;
         //overall_status += " - Quota completed: " + total_quota_completed;
-                document.getElementById("overall_status").innerHTML = overall_status + " | " + "Data updated at " + download_time;
+        document.getElementById("overall_status").innerHTML =overall_status + " | " + "Data updated at " + download_time;
       }
     
       function start_new_interview() {
@@ -235,14 +243,12 @@
     </br>
     </div>
 
-		<!-- <h3>Daily Plan – MUC PEI AB Survey</h3> -->
+    <h4 id="overall_arrival_status"></h4>
     <h4 id="overall_status"></h4>
-    <!-- <h4 id="download_time"></h4> -->
+
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_div" style="font-size: 15px"> </div>
-
-      <!-- <div id="2017" style="z-index:1;position: fixed;top: 70px;left: 850px;font-family: Arial;font-size: 13;color:red;">2017</div> -->
       </br>
       <div id="table_div"></div>
     </div>
