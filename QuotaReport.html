@@ -8,8 +8,11 @@
     <script src="data/BLL_departures_flight_list.js"></script>
     <script src="scripts/PrepareData.js"></script>
 		<script src="scripts/CalculateData.js"></script>
-    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_alc/BLL_QSM_Dep/data/interview_data.js"></script>
+    <script src="scripts/CalculateDataArrival.js"></script>
 
+    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_alc/BLL_QSM_Dep/data/interview_data.js"></script>
+    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_alc/BLL_QSM_Dep/data/interview_data_arr.js"></script>
+    
     <style>
       .table-font {
         font-size: 16px;
@@ -25,7 +28,7 @@
 
       function drawTable() {
         CalculateAirportAirLineReport();
-        CalculateDOOP();
+        CalculateArrival();
         var data = new google.visualization.DataTable();
 
         //define header
@@ -81,20 +84,30 @@
         dashboard.draw(view);
 
         //Update time info
-        // document.getElementById("download_time").innerHTML = "Data updated: " + download_time;
+        document.getElementById("download_time").innerHTML = "Data updated at: " + download_time;
 
-        var overall_status = "Total quota: " + total_quota;
-        overall_status += " - Total completed: " + total_completed;
+        //overall_status
+        var overall_arrival_status =  "QSM Arrivals: " + "Total quota: " + total_arrival_quota;
+        overall_arrival_status += " - Total completed: " + total_arrival_completed;
+        overall_arrival_status +=  " (" + total_arrival_completed_percent +  "%)";
+        document.getElementById("overall_arrival_status").innerHTML =overall_arrival_status;
+
+        //overall_status
+        var overall_status =  "QSM Departures: " + "Total quota: " + total_quota;
+        overall_status += " - Total completed: " + total_completed ;
+        overall_status +=  " (" + total_completed_percent +  "%)";
         //overall_status += " - Quota completed: " + total_quota_completed;
-        document.getElementById("overall_status").innerHTML = overall_status + " | " + "Data updated at " + download_time;
+        document.getElementById("overall_status").innerHTML =overall_status;
       }
     </script>
   </head>
   <body>
 		<h1>Quota Report - BLL QSM Departures</h1>
     
+    <h5 id="download_time"></h5>
+    <h4 id="overall_arrival_status"></h4>
     <h4 id="overall_status"></h4>
-    <!-- <h4 id="download_time"></h4> -->
+
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_div"></div>
