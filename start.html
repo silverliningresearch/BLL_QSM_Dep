@@ -110,7 +110,7 @@
         data.addColumn('string', 'To');
         //data.addColumn('string', 'Via');
         //data.addColumn('string', 'DOOP');
-        //data.addColumn('number', 'Remaining Flights');
+        data.addColumn('number', 'Remaining Flights');
         data.addColumn('number', 'Quota');
         data.addColumn('number', 'Completed');
 				data.addColumn('number', 'Missing');
@@ -125,7 +125,8 @@
                 data.addRows([[row.Date_Time, 
                 row.Flight, row.DestName, 
                 //row.Next, 
-                //row.doop, Number(row.remaining_flights), 
+                //row.doop, 
+                Number(row.remaining_flights), 
                 Number(row.Quota), Number(row.Completed), Number(row.Difference), 
                 Number(row.Completed_percent), 
                 Number(row.Prioritisation_score), 

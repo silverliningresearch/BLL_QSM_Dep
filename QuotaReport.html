@@ -33,6 +33,7 @@
 
         //define header
         data.addColumn('string', 'Destination');
+        data.addColumn('number', 'Remaining Flights');
         data.addColumn('number', 'Quota');
         data.addColumn('number', 'Completed');
 				data.addColumn('number', 'Missing');
@@ -44,6 +45,7 @@
           data.addRows([
           [
             row.Dest, 
+            Number(row.remaining_flights),
             Number(row.Quota),
             Number(row.Completed), 
             Number(row.Difference), 
