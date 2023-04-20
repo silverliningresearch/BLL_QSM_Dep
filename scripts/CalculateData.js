@@ -93,7 +93,7 @@ function CalculateAirportAirLineReport() {
     row = daily_plan_data_temp[i];
     row.Priority = 0;
     daily_plan_data.push(row);
-    if((i< daily_plan_data_temp.length*0.25 ) || (row.remaining_flights<4))
+    if((i< daily_plan_data_temp.length*0.25 ) || (row.remaining_flights<5))
     {
       row.Priority = 1;
     }
