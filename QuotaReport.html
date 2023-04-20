@@ -18,6 +18,9 @@
         font-size: 16px;
         /* height: 18px; */
       }
+      .normal-whitespace {
+       white-space: normal;
+      }
     </style>
 
 		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -66,14 +69,22 @@
             'filterColumnLabel': 'Destination'
           }
         });
-  
+
         // Create table
+        data.setProperty(0, 0, 'style', 'width:100px');
+        data.setProperty(0, 1, 'style', 'width:100px');
+        data.setProperty(0, 2, 'style', 'width:100px');
+        data.setProperty(0, 3, 'style', 'width:100px');
+        data.setProperty(0, 4, 'style', 'width:100px');
+        data.setProperty(0, 5, 'style', 'width:100px');
+
         var tableChart = new google.visualization.ChartWrapper({
           'chartType': 'Table',
           'containerId': 'table_div',
           'options': {
             'allowHtml': true, 
-            'cssClassNames': {tableCell: 'table-font', headerRow: 'table-font', headerCell: 'googleHeaderCell' },
+            'cssClassNames': {headerCell: 'normal-whitespace'},
+            //'cssClassNames': {tableCell: 'table-font', headerRow: 'table-font', headerCell: 'googleHeaderCell' },
             'sortColumn':  4, //{column: 2, desc: true},
             'showRowNumber': false, 'width': '100%', 'height': '100%'
           }
