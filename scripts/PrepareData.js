@@ -49,7 +49,7 @@ function initCurrentTimeVars() {
   nextDate  = [tomorrowDay, tomorrowMonth, tomorrowYear].join('-');
 
   //return [day, month,year].join('-');
-  if (document.getElementById('year_month').value.length > 0)
+  if (document.getElementById('year_month') && document.getElementById('year_month').value.length > 0)
   {
     currentMonth=document.getElementById('year_month').value;
   }
