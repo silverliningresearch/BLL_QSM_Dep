@@ -21,6 +21,34 @@
       .normal-whitespace {
        white-space: normal;
       }
+
+      .year_month{
+        font-size: 15px;
+        padding: 10px 8px 10px 14px;
+        background: #eee;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        overflow: hidden;
+        position: relative;
+      }
+
+      .year_month .select{
+        width: 120%;
+        background:url('arrow.png') no-repeat;
+        background-position:80% center;
+      }
+
+      .year_month .select select{
+        background: transparent;
+        line-height: 1;
+        border: 0;
+        padding: 0;
+        border-radius: 0;
+        width: 120%;
+        position: relative;
+        z-index: 10;
+        font-size: 1em;
+      }
     </style>
 
 		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -30,6 +58,7 @@
       google.charts.setOnLoadCallback(drawTable);
 
       function drawTable() {
+        console.log ("Month_year:", document.getElementById('year_month').value)
         CalculateAirportAirLineReport();
         CalculateArrival();
         var data = new google.visualization.DataTable();
@@ -112,15 +141,26 @@
         //overall_status += " - Quota completed: " + total_quota_completed;
         document.getElementById("overall_status").innerHTML =overall_status;
       }
-    </script>
+   
+   </script>
   </head>
   <body>
 		<h1>Quota Report - BLL QSM Departures</h1>
+    <h6 id="download_time"></h6>
     
-    <h5 id="download_time"></h5>
     <h4 id="overall_arrival_status"></h4>
     <h4 id="overall_status"></h4>
 
+    <div class="year_month">
+      <label for="year_month">Data collection period:</label>
+      <select id="year_month" onchange="drawTable()">
+        <option value="04-2023">04-2023
+        <option value="03-2023">03-2023        
+        <option value="02-2023">02-2023
+      </select>
+    </div>
+    <br>
+    
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_div"></div>

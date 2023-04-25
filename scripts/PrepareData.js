@@ -49,6 +49,11 @@ function initCurrentTimeVars() {
   nextDate  = [tomorrowDay, tomorrowMonth, tomorrowYear].join('-');
 
   //return [day, month,year].join('-');
+  if (document.getElementById('year_month').value.length > 0)
+  {
+    currentMonth=document.getElementById('year_month').value;
+  }
+
 }
 
 function isCurrentMonth(interviewEndDate)
@@ -56,15 +61,11 @@ function isCurrentMonth(interviewEndDate)
 // Input: "2023-04-03 10:06:22 GMT"
   var interviewDateParsed = interviewEndDate.split("-")
 
-  var interviewYear = parseInt(interviewDateParsed[0]);
-  var interviewMonth =parseInt(interviewDateParsed[1]);
+  var interviewYear = (interviewDateParsed[0]);
+  var interviewMonth =(interviewDateParsed[1]);
   var result = false;
 
-  var d = new Date();
-  month = '' + (d.getMonth() + 1); //month start from 0; 
-  year = d.getFullYear();
-
-  if ((month == interviewMonth) && (year==interviewYear))
+  if ( currentMonth ==[interviewMonth,interviewYear].join('-'))
   {
     result = true;
   }
