@@ -187,7 +187,6 @@ function prepareInterviewData() {
     }
   }
 
-  console.log("today_flight_list id: ", today_flight_list);
     //add quota data
     //empty the list
   daily_plan_data = [];
