@@ -1,6 +1,6 @@
 let BLL_Departures_Flight_List_Raw = ` 
 [
-     {
+ {
   "Date": "28-06-2023",
   "Time": "0520",
   "Dest": "CTA",
