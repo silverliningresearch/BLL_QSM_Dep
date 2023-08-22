@@ -57,7 +57,16 @@ function initCurrentTimeVars() {
     }
   }
   console.log("currentMonth: ", currentMonth);
-
+  switch(currentMonth) {
+    case "08-2023":      
+      total_quota = 675;
+      total_arrival_quota = 150;
+      break;
+    default:
+      total_quota = 500;
+      total_arrival_quota = 150;
+      break;
+  }
 }
 
 function isCurrentMonth(interviewEndDate)
