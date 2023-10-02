@@ -11,6 +11,7 @@ var nextDate;
 var download_time;
 
 var total_quota = 500;
+var total_arrival_quota = 150;
 var total_completed;
 var total_completed_percent;
 
@@ -59,9 +60,14 @@ function initCurrentTimeVars() {
   console.log("currentMonth: ", currentMonth);
   switch(currentMonth) {
     case "08-2023":      
-      total_quota = 675;
-      total_arrival_quota = 150;
+        total_quota = 675;
+        total_arrival_quota = 150;
       break;
+    
+      case "10-2023":      
+        total_quota = 720;
+        total_arrival_quota = 230;
+      break;      
     default:
       total_quota = 500;
       total_arrival_quota = 150;
