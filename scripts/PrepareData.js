@@ -65,8 +65,8 @@ function initCurrentTimeVars() {
       break;
     
       case "10-2023":      
-        total_quota = 720;
-        total_arrival_quota = 230;
+        total_quota = 500;
+        total_arrival_quota = 150;
       break;      
     default:
       total_quota = 500;
