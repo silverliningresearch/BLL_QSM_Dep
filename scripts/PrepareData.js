@@ -28,6 +28,12 @@ function initCurrentTimeVars() {
   var day = '' + d.getDate();
   var year = d.getFullYear();
 
+  //special patch for Nov: 01-05 Nov calcuated as Oct    
+  if ((year == 2023) && (month == 11) &&  (day < 6))
+  {
+    month = 10;
+  }
+
   if (month.length < 2) 
       month = '0' + month;
   if (day.length < 2) 
@@ -82,7 +88,14 @@ function isCurrentMonth(interviewEndDate)
 
   var interviewYear = (interviewDateParsed[0]);
   var interviewMonth =(interviewDateParsed[1]);
+  var interviewDay =(interviewDateParsed[2]);
   var result = false;
+  
+  //special patch for Nov: 01-05 Nov calcuated as Oct    
+  if ((interviewYear == 2023) && (interviewMonth == 11) &&  (parseInt(interviewDay) < 6))
+  {
+    interviewMonth = 10;
+  }
 
   if ( currentMonth ==[interviewMonth,interviewYear].join('-'))
   {
