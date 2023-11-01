@@ -28,12 +28,6 @@ function initCurrentTimeVars() {
   var day = '' + d.getDate();
   var year = d.getFullYear();
 
-  //special patch for Nov: 01-05 Nov calcuated as Oct    
-  if ((year == 2023) && (month == 11) &&  (day < 6))
-  {
-    month = 10;
-  }
-
   if (month.length < 2) 
       month = '0' + month;
   if (day.length < 2) 
@@ -55,6 +49,12 @@ function initCurrentTimeVars() {
   tomorrowDay = '0' + tomorrowDay;
   nextDate  = [tomorrowDay, tomorrowMonth, tomorrowYear].join('-');
 
+  //special patch for Nov: 01-05 Nov calcuated as Oct    
+  if ((year == 2023) && (month == 11) &&  (day < 6))
+  {
+    currentMonth = "10-2023";
+  }
+  
   //return [day, month,year].join('-');
   if (document.getElementById('year_month') && document.getElementById('year_month').value.length > 0)
   {
@@ -201,7 +201,13 @@ function prepareInterviewData() {
     //flight.Date: 08-02-2023
     if (currentMonth == flight.Date.substring(3,10)) { 
       this_month_flight_list.push(flight);
-    }	
+    }
+
+    //special patch for Nov: 01-05 Nov calcuated as Oct    
+    if ((currentMonth == "10-2023") && (flight.Date.substring(3,10) == "11-2023"))
+    {
+      this_month_flight_list.push(flight);
+    }
 
     //only get today & not departed flight
     if (((currentDate == flight.Date) && notDeparted(flight.Time))
@@ -211,7 +217,7 @@ function prepareInterviewData() {
       //flight.Date_Time = flight.Date + " " + flight.Time;
       flight.Date_Time = flight.Time;
 
-      flight.nextDay = 0; //display two date infor as requester by Didi
+      flight.nextDay = 0; //display two date info
       if (nextDate == flight.Date) {
         flight.nextDay = 1;
       }
@@ -219,8 +225,8 @@ function prepareInterviewData() {
     }
   }
 
-    //add quota data
-    //empty the list
+  //add quota data
+  //empty the list
   daily_plan_data = [];
   daily_plan_data.length = 0;
   
@@ -236,4 +242,5 @@ function prepareInterviewData() {
        }
     }
   }
+
 }
