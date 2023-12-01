@@ -17,7 +17,7 @@ var total_completed_percent;
 
 var total_quota_completed;
 var total_hard_quota;
-var Oct_2023_cut_off_day = 7;
+var Oct_2023_cut_off_day = 6;
 var Nov_2023_cut_off_day = 4;
 /************************************/
 function initCurrentTimeVars() {
@@ -50,7 +50,7 @@ function initCurrentTimeVars() {
   nextDate  = [tomorrowDay, tomorrowMonth, tomorrowYear].join('-');
 
   //special patch for Nov: 01-05 Nov calcuated as Oct    
-  if ((year == 2023) && (month == 11) &&  (day < Oct_2023_cut_off_day))
+  if ((year == 2023) && (month == 11) &&  (day <= Oct_2023_cut_off_day))
   {
     currentMonth = "10-2023";
   } 
@@ -96,7 +96,7 @@ function isCurrentMonth(interviewEndDate)
   var result = false;
   
   //special patch for Nov: 01-05 Nov calcuated as Oct    
-  if ((interviewYear == 2023) && (interviewMonth == 11) &&  (parseInt(interviewDay) < Oct_2023_cut_off_day))
+  if ((interviewYear == 2023) && (interviewMonth == 11) &&  (parseInt(interviewDay) <= Oct_2023_cut_off_day))
   {
     interviewMonth = 10;
   } 
