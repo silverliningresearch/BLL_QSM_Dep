@@ -18,7 +18,7 @@ var total_completed_percent;
 var total_quota_completed;
 var total_hard_quota;
 var Oct_2023_cut_off_day = 6;
-var Nov_2023_cut_off_day = 4;
+var Nov_2023_cut_off_day = 6;
 /************************************/
 function initCurrentTimeVars() {
   var d = new Date();
