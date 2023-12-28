@@ -59,7 +59,7 @@ function initCurrentTimeVars() {
   {
     currentMonth = "11-2023";
   } 
-  else if ((year == 2024) && (month == 1) &&  (day<= Dec_2023_cut_off_day))
+  else if ((year == 2024) && (month == '01') &&  (day<= Dec_2023_cut_off_day))
   {
     currentMonth = "12-2023";
   } 
