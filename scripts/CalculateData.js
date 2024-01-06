@@ -63,7 +63,9 @@ function CalculateAirportAirLineReport() {
     for (j = 0; j < quota_data.length; j++) {
       if (row.Dest.toUpperCase() == quota_data[j].Dest.toUpperCase()) 
       {
-        if ( quota_data[j].Difference < 0) {
+        //For BLL display all
+        //if ( quota_data[j].Difference < 0) 
+        {
           row.doop = quota_data[j].doop;
           row.remaining_flights = quota_data[j].remaining_flights;
           row.Completed = quota_data[j].Completed;
@@ -93,9 +95,13 @@ function CalculateAirportAirLineReport() {
     daily_plan_data.push(row);
     if((i< daily_plan_data_temp.length*0.25 ) || (row.remaining_flights<=5))
     {
-      row.Priority = 1;
+      if (row.Difference < 0)
+      {
+        row.Priority = 1;
+      }
     }
   }
+  console.log("daily_plan_data: ", daily_plan_data);
 }
 
 function getDOOP(date) //"07-02-2023"
