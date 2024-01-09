@@ -19,6 +19,7 @@ var total_quota_completed;
 var total_hard_quota;
 var Oct_2023_cut_off_day = 6;
 var Nov_2023_cut_off_day = 6;
+var Dec_2023_cut_off_day = 9;
 /************************************/
 function initCurrentTimeVars() {
   var d = new Date();
@@ -58,6 +59,12 @@ function initCurrentTimeVars() {
   {
     currentMonth = "11-2023";
   } 
+  else if ((year == 2024) && (month == 1) &&  (day<= Dec_2023_cut_off_day))
+  {
+    currentMonth = "12-2023";
+  } 
+  
+  
   
   //return [day, month,year].join('-');
   if (document.getElementById('year_month') && document.getElementById('year_month').value.length > 0)
@@ -104,8 +111,11 @@ function isCurrentMonth(interviewEndDate)
   {
     interviewMonth = 11;
   } 
-
-
+  else if ((interviewYear == 2024) && (interviewMonth == 1) &&  (parseInt(interviewDay) <= Dec_2023_cut_off_day))
+  {
+    interviewMonth = 12;
+    interviewYear == 2023; 
+  } 
 
   if ( currentMonth ==[interviewMonth,interviewYear].join('-'))
   {
@@ -115,7 +125,7 @@ function isCurrentMonth(interviewEndDate)
 }
 
 function notDeparted(flight_time) {
-  var current_time = new Date().toLocaleString('be-BE', { timeZone: 'Europe/Brussels', hour12: false});
+  var current_time = new Date().toLocaleString('dk-DK', { timeZone: 'Europe/Copenhagen', hour12: false});
   //15:13:27
   var current_time_value  = current_time.substring(current_time.length-8,current_time.length-6) * 60;
   current_time_value += current_time.substring(current_time.length-5,current_time.length-3)*1;
