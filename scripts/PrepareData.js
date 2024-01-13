@@ -19,7 +19,7 @@ var total_quota_completed;
 var total_hard_quota;
 var Oct_2023_cut_off_day = 6;
 var Nov_2023_cut_off_day = 6;
-var Dec_2023_cut_off_day = 9;
+var Dec_2023_cut_off_day = 13;
 /************************************/
 function initCurrentTimeVars() {
   var d = new Date();
