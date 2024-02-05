@@ -20,6 +20,7 @@ var total_hard_quota;
 var Oct_2023_cut_off_day = 6;
 var Nov_2023_cut_off_day = 6;
 var Dec_2023_cut_off_day = 13;
+var Jan_2024_cut_off_day = 11;
 /************************************/
 function initCurrentTimeVars() {
   var d = new Date();
@@ -62,6 +63,10 @@ function initCurrentTimeVars() {
   else if ((year == 2024) && (month == '01') &&  (day<= Dec_2023_cut_off_day))
   {
     currentMonth = "12-2023";
+  } 
+  else if ((year == 2024) && (month == '02') &&  (day<= Jan_2024_cut_off_day))
+  {
+    currentMonth = "01-2024";
   } 
   
   
