@@ -120,7 +120,12 @@ function isCurrentMonth(interviewEndDate)
   {
     interviewMonth = 12;
     interviewYear = 2023; 
-  } 
+  }
+  else if ((interviewYear == 2024) && (interviewMonth == '02') &&  (parseInt(interviewDay) <= Jan_2024_cut_off_day))
+  {
+    interviewMonth = "01";
+    interviewYear = 2024; 
+  }  
 
   if ( currentMonth == [interviewMonth,interviewYear].join('-'))
   {
