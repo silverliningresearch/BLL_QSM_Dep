@@ -20,7 +20,8 @@ var total_hard_quota;
 var Oct_2023_cut_off_day = 6;
 var Nov_2023_cut_off_day = 6;
 var Dec_2023_cut_off_day = 13;
-var Jan_2024_cut_off_day = 11;
+var Jan_2024_cut_off_day = 14;
+var Feb_2024_cut_off_day = 10;
 /************************************/
 function initCurrentTimeVars() {
   var d = new Date();
@@ -68,7 +69,10 @@ function initCurrentTimeVars() {
   {
     currentMonth = "01-2024";
   } 
-  
+  else if ((year == 2024) && (month == '03') &&  (day<= Feb_2024_cut_off_day))
+  {
+    currentMonth = "02-2024";
+  } 
   
   
   //return [day, month,year].join('-');
@@ -124,6 +128,11 @@ function isCurrentMonth(interviewEndDate)
   else if ((interviewYear == 2024) && (interviewMonth == '02') &&  (parseInt(interviewDay) <= Jan_2024_cut_off_day))
   {
     interviewMonth = "01";
+    interviewYear = 2024; 
+  }  
+  else if ((interviewYear == 2024) && (interviewMonth == '03') &&  (parseInt(interviewDay) <= Feb_2024_cut_off_day))
+  {
+    interviewMonth = "02";
     interviewYear = 2024; 
   }  
 
