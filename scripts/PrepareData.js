@@ -115,10 +115,12 @@ function isCurrentMonth(interviewEndDate)
   if ((interviewYear == 2023) && (interviewMonth == 11) &&  (parseInt(interviewDay) <= Oct_2023_cut_off_day))
   {
     interviewMonth = 10;
+    interviewYear = 2023; 
   } 
   else if ((interviewYear == 2023) && (interviewMonth == 12) &&  (parseInt(interviewDay) <= Nov_2023_cut_off_day))
   {
     interviewMonth = 11;
+    interviewYear = 2023; 
   } 
   else if ((interviewYear == 2024) && (interviewMonth == '01') &&  (parseInt(interviewDay) <= Dec_2023_cut_off_day))
   {
