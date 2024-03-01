@@ -21,7 +21,7 @@ var Oct_2023_cut_off_day = 6;
 var Nov_2023_cut_off_day = 6;
 var Dec_2023_cut_off_day = 13;
 var Jan_2024_cut_off_day = 14;
-var Feb_2024_cut_off_day = 10;
+var Feb_2024_cut_off_day = 3;
 /************************************/
 function initCurrentTimeVars() {
   var d = new Date();
