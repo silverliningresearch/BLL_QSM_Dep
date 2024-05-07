@@ -94,6 +94,11 @@ function initCurrentTimeVars() {
         total_quota = 500;
         total_arrival_quota = 150;
       break;      
+
+    case "05-2024":      
+        total_quota = 600;
+        total_arrival_quota = 170;
+      break;           
     default:
       total_quota = 500;
       total_arrival_quota = 150;
