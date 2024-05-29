@@ -1,19 +1,5 @@
 let BLL_Departures_Flight_List_Raw = ` 
 [
-       
-      
-         {
-          "Date": "30-04-2024",
-          "Time": "2145",
-          "Dest": "STN",
-          "DestName": "STN (London Stansted - United Kingdom)",
-          "Next": "",
-          "NextName": "",
-          "AirlineCode": "FR",
-          "Airline": "Ryanair Limited",
-          "Flight": "FR5179"
-         },
-
 
          {
           "Date": "01-05-2024",
