@@ -181,7 +181,7 @@ function prepareInterviewData() {
   var quota_data_temp = JSON.parse(Destination_Quota);
   removed_ids_data = JSON.parse(removed_ids);
 
-  var interview_data_temp  = JSON.parse(interview_statistics);
+  var interview_data_temp  = JSON.parse(interview_data_raw);
   var flight_list_temp  = JSON.parse(BLL_Departures_Flight_List_Raw);
 
   initCurrentTimeVars();	
@@ -208,16 +208,24 @@ function prepareInterviewData() {
     var interview = interview_data_temp[i];
 
     //only get complete interview & not test
-    if (//(interview.InterviewState == "Complete")&& 
-      (isCurrentMonth(interview.Interview_Date))
+    if ((interview.InterviewState == "Complete")
+      && (isCurrentMonth(interview.InterviewEndDate))
       )
     {
       
       if (interview["Dest"]) {
+        var dest = '"Dest"' + ":" + '"' +  interview["Dest"] + '"' + ", " ;
+        var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewEndDate"] ;
+        var str = '{' + dest + InterviewEndDate + '"}';
 
-        interview.Dest = interview["Dest"];
-        interview.InterviewEndDate = interview["Interview_Date"];
-        interview_data.push(interview);
+        if (isvalid_id(interview["InterviewId"])) //check if valid
+        {
+          interview_data.push(JSON.parse(str));
+        }
+        else
+        {
+          console.log("invalid id: ", interview);
+        }
       }
       else{
         console.log("ignored interview: ", interview);
@@ -242,10 +250,10 @@ function prepareInterviewData() {
     }
 
     //special patch for Nov: 01-05 Nov calcuated as Oct    
-    // if ((currentMonth == "10-2023") && (flight.Date.substring(3,10) == "11-2023"))
-    // {
-    //   this_month_flight_list.push(flight);
-    // }
+    if ((currentMonth == "10-2023") && (flight.Date.substring(3,10) == "11-2023"))
+    {
+      this_month_flight_list.push(flight);
+    }
 
     //only get today & not departed flight
     if (((currentDate == flight.Date) && notDeparted(flight.Time))

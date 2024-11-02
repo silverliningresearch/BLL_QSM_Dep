@@ -15,7 +15,7 @@ function CalculateAirportAirLineReport() {
   var not_in_quota_list =[];
   for (i = 0; i < interview_data.length; i++) 
   {
-    total_completed = total_completed + interview_data[i].completed_interviews;
+    total_completed++;
     found_temp = 0;
     for (j = 0; j < quota_data.length; j++) 
     {
@@ -35,7 +35,7 @@ function CalculateAirportAirLineReport() {
     for (j = 0; j < interview_data.length; j++) {
       if (row.Dest.toUpperCase() == interview_data[j].Dest.toUpperCase()) 
       { 
-        row.Completed = row.Completed + interview_data[j].completed_interviews;;
+        row.Completed++;
       }
     }
 
@@ -45,6 +45,7 @@ function CalculateAirportAirLineReport() {
 
     row.Completed_percent =(100*(row.Completed/row.Quota)).toFixed(0);
         
+    //total_completed = total_completed + row.Completed;        
     if ( row.Difference > 0) { //over quota
       total_quota_completed = total_quota_completed +row.Quota*1;
     }
