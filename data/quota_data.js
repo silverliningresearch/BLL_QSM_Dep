@@ -7682,6 +7682,195 @@ let Destination_Quota = `
   "Quota": 18,
   "Year": "2025",
   "Month": "04"
+ },
+
+
+
+  {
+  "Dest": "AGP",
+  "Quota": 9,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "AMS",
+  "Quota": 81,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "ARN",
+  "Quota": 13,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "AYT",
+  "Quota": 24,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "BGO",
+  "Quota": 4,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "BJV",
+  "Quota": 3,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "CDG",
+  "Quota": 23,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "CHQ",
+  "Quota": 25,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "CPH",
+  "Quota": 27,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "FAE",
+  "Quota": 8,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "FRA",
+  "Quota": 40,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "GOH",
+  "Quota": 6,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "GZP",
+  "Quota": 8,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "HEL",
+  "Quota": 8,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "HER",
+  "Quota": 7,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "IAS",
+  "Quota": 7,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "IST",
+  "Quota": 9,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "KEF",
+  "Quota": 11,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "LCA",
+  "Quota": 5,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "LHR",
+  "Quota": 16,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "MUC",
+  "Quota": 30,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "OSL",
+  "Quota": 36,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "OTP",
+  "Quota": 12,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "PMI",
+  "Quota": 20,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "PVK",
+  "Quota": 6,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "RHO",
+  "Quota": 17,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "RIX",
+  "Quota": 10,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "TLL",
+  "Quota": 4,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "WAW",
+  "Quota": 16,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "ZRH",
+  "Quota": 9,
+  "Year": "2025",
+  "Month": "05"
+ },
+ {
+  "Dest": "ZTH",
+  "Quota": 4,
+  "Year": "2025",
+  "Month": "05"
  }
 
 ]    
