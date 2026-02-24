@@ -969,7 +969,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "01-01-2026",
@@ -980,7 +980,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "01-01-2026",
@@ -1013,7 +1013,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "01-01-2026",
@@ -1024,7 +1024,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "01-01-2026",
@@ -1046,7 +1046,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "01-01-2026",
@@ -1057,7 +1057,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "01-01-2026",
@@ -1079,7 +1079,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "01-01-2026",
@@ -1090,7 +1090,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "01-01-2026",
@@ -1112,7 +1112,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "01-01-2026",
@@ -1145,7 +1145,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "02-01-2026",
@@ -1156,7 +1156,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "02-01-2026",
@@ -1189,7 +1189,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "02-01-2026",
@@ -1200,7 +1200,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "02-01-2026",
@@ -1211,7 +1211,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "02-01-2026",
@@ -1222,7 +1222,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "02-01-2026",
@@ -1233,7 +1233,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "02-01-2026",
@@ -1255,7 +1255,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "02-01-2026",
@@ -1266,7 +1266,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "02-01-2026",
@@ -1288,7 +1288,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "02-01-2026",
@@ -1299,7 +1299,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "02-01-2026",
@@ -1310,7 +1310,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "02-01-2026",
@@ -1321,7 +1321,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "02-01-2026",
@@ -1354,7 +1354,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "02-01-2026",
@@ -1365,7 +1365,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "02-01-2026",
@@ -1376,7 +1376,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "02-01-2026",
@@ -1387,7 +1387,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "02-01-2026",
@@ -1409,7 +1409,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "02-01-2026",
@@ -1420,7 +1420,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "02-01-2026",
@@ -1431,7 +1431,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "02-01-2026",
@@ -1442,7 +1442,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "02-01-2026",
@@ -1453,7 +1453,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "02-01-2026",
@@ -1464,7 +1464,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "FI",
   "Airline": "Icelandair",
-  "Flight": "FI275 /"
+  "Flight": "FI275"
  },
  {
   "Date": "03-01-2026",
@@ -1486,7 +1486,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "03-01-2026",
@@ -1508,7 +1508,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "03-01-2026",
@@ -1530,7 +1530,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "03-01-2026",
@@ -1541,7 +1541,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "03-01-2026",
@@ -1552,7 +1552,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "03-01-2026",
@@ -1563,7 +1563,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "03-01-2026",
@@ -1574,7 +1574,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "03-01-2026",
@@ -1585,7 +1585,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "03-01-2026",
@@ -1607,7 +1607,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "03-01-2026",
@@ -1640,7 +1640,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "03-01-2026",
@@ -1651,7 +1651,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "03-01-2026",
@@ -1662,7 +1662,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "03-01-2026",
@@ -1673,7 +1673,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "03-01-2026",
@@ -1695,7 +1695,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "03-01-2026",
@@ -1706,7 +1706,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC471 /"
+  "Flight": "RC471"
  },
  {
   "Date": "03-01-2026",
@@ -1717,7 +1717,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "03-01-2026",
@@ -1728,7 +1728,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "03-01-2026",
@@ -1739,7 +1739,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7140 /"
+  "Flight": "RC7140"
  },
  {
   "Date": "03-01-2026",
@@ -1761,7 +1761,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "03-01-2026",
@@ -1794,7 +1794,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "04-01-2026",
@@ -1816,7 +1816,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "04-01-2026",
@@ -1838,7 +1838,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "04-01-2026",
@@ -1860,7 +1860,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD517 /"
+  "Flight": "JTD517"
  },
  {
   "Date": "04-01-2026",
@@ -1871,7 +1871,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "04-01-2026",
@@ -1882,7 +1882,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD509 /"
+  "Flight": "JTD509"
  },
  {
   "Date": "04-01-2026",
@@ -1893,7 +1893,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "04-01-2026",
@@ -1904,7 +1904,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "04-01-2026",
@@ -1926,7 +1926,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "04-01-2026",
@@ -1959,7 +1959,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "04-01-2026",
@@ -1970,7 +1970,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "04-01-2026",
@@ -1981,7 +1981,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "04-01-2026",
@@ -2003,7 +2003,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT1007 /"
+  "Flight": "BT1007"
  },
  {
   "Date": "04-01-2026",
@@ -2014,7 +2014,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "04-01-2026",
@@ -2025,7 +2025,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "04-01-2026",
@@ -2047,7 +2047,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "04-01-2026",
@@ -2069,7 +2069,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "04-01-2026",
@@ -2080,7 +2080,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "04-01-2026",
@@ -2091,7 +2091,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "05-01-2026",
@@ -2113,7 +2113,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "05-01-2026",
@@ -2135,7 +2135,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "05-01-2026",
@@ -2146,7 +2146,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK444 /"
+  "Flight": "DK444"
  },
  {
   "Date": "05-01-2026",
@@ -2168,7 +2168,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD511 /"
+  "Flight": "JTD511"
  },
  {
   "Date": "05-01-2026",
@@ -2179,7 +2179,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "05-01-2026",
@@ -2190,7 +2190,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "05-01-2026",
@@ -2201,7 +2201,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "05-01-2026",
@@ -2212,7 +2212,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "05-01-2026",
@@ -2223,7 +2223,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "05-01-2026",
@@ -2245,7 +2245,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "05-01-2026",
@@ -2256,7 +2256,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "05-01-2026",
@@ -2278,7 +2278,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "05-01-2026",
@@ -2289,7 +2289,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "05-01-2026",
@@ -2300,7 +2300,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "05-01-2026",
@@ -2322,7 +2322,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "05-01-2026",
@@ -2344,7 +2344,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "05-01-2026",
@@ -2355,7 +2355,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "05-01-2026",
@@ -2366,7 +2366,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "05-01-2026",
@@ -2377,7 +2377,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "05-01-2026",
@@ -2399,7 +2399,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "05-01-2026",
@@ -2410,7 +2410,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "05-01-2026",
@@ -2421,7 +2421,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "05-01-2026",
@@ -2432,7 +2432,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "06-01-2026",
@@ -2443,7 +2443,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK445 /"
+  "Flight": "DK445"
  },
  {
   "Date": "06-01-2026",
@@ -2476,7 +2476,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "06-01-2026",
@@ -2487,7 +2487,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "06-01-2026",
@@ -2509,7 +2509,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1210 /"
+  "Flight": "DK1210"
  },
  {
   "Date": "06-01-2026",
@@ -2520,7 +2520,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "06-01-2026",
@@ -2531,7 +2531,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "06-01-2026",
@@ -2553,7 +2553,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "06-01-2026",
@@ -2564,7 +2564,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "06-01-2026",
@@ -2586,7 +2586,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "06-01-2026",
@@ -2608,7 +2608,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "06-01-2026",
@@ -2619,7 +2619,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "06-01-2026",
@@ -2630,7 +2630,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "06-01-2026",
@@ -2652,7 +2652,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "06-01-2026",
@@ -2663,7 +2663,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "06-01-2026",
@@ -2674,7 +2674,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "06-01-2026",
@@ -2696,7 +2696,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "06-01-2026",
@@ -2707,7 +2707,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "06-01-2026",
@@ -2718,7 +2718,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "07-01-2026",
@@ -2740,7 +2740,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "07-01-2026",
@@ -2762,7 +2762,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "07-01-2026",
@@ -2773,7 +2773,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1216 /"
+  "Flight": "DK1216"
  },
  {
   "Date": "07-01-2026",
@@ -2784,7 +2784,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD545 /"
+  "Flight": "JTD545"
  },
  {
   "Date": "07-01-2026",
@@ -2795,7 +2795,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "07-01-2026",
@@ -2806,7 +2806,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "07-01-2026",
@@ -2817,7 +2817,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "07-01-2026",
@@ -2828,7 +2828,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System -",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "07-01-2026",
@@ -2839,7 +2839,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "07-01-2026",
@@ -2861,7 +2861,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "07-01-2026",
@@ -2872,7 +2872,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "07-01-2026",
@@ -2894,7 +2894,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "07-01-2026",
@@ -2905,7 +2905,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "07-01-2026",
@@ -2927,7 +2927,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "07-01-2026",
@@ -2949,7 +2949,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "07-01-2026",
@@ -2960,7 +2960,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "07-01-2026",
@@ -2993,7 +2993,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "07-01-2026",
@@ -3004,7 +3004,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "07-01-2026",
@@ -3015,7 +3015,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "07-01-2026",
@@ -3026,7 +3026,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "08-01-2026",
@@ -3048,7 +3048,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "08-01-2026",
@@ -3059,7 +3059,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "08-01-2026",
@@ -3092,7 +3092,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "08-01-2026",
@@ -3103,7 +3103,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "08-01-2026",
@@ -3114,7 +3114,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "08-01-2026",
@@ -3125,7 +3125,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "08-01-2026",
@@ -3158,7 +3158,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "08-01-2026",
@@ -3169,7 +3169,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "08-01-2026",
@@ -3191,7 +3191,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "08-01-2026",
@@ -3202,7 +3202,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "08-01-2026",
@@ -3224,7 +3224,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "08-01-2026",
@@ -3235,7 +3235,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "08-01-2026",
@@ -3257,7 +3257,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "08-01-2026",
@@ -3268,7 +3268,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC471 /"
+  "Flight": "RC471"
  },
  {
   "Date": "08-01-2026",
@@ -3279,7 +3279,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "08-01-2026",
@@ -3301,7 +3301,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "08-01-2026",
@@ -3312,7 +3312,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "09-01-2026",
@@ -3334,7 +3334,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "09-01-2026",
@@ -3356,7 +3356,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "09-01-2026",
@@ -3378,7 +3378,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "09-01-2026",
@@ -3389,7 +3389,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "09-01-2026",
@@ -3400,7 +3400,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "09-01-2026",
@@ -3411,7 +3411,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "09-01-2026",
@@ -3422,7 +3422,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "09-01-2026",
@@ -3433,7 +3433,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "09-01-2026",
@@ -3455,7 +3455,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "09-01-2026",
@@ -3477,7 +3477,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "09-01-2026",
@@ -3488,7 +3488,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "09-01-2026",
@@ -3499,7 +3499,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "09-01-2026",
@@ -3510,7 +3510,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "09-01-2026",
@@ -3543,7 +3543,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "09-01-2026",
@@ -3554,7 +3554,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "09-01-2026",
@@ -3565,7 +3565,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "09-01-2026",
@@ -3576,7 +3576,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "09-01-2026",
@@ -3609,7 +3609,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "09-01-2026",
@@ -3620,7 +3620,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "09-01-2026",
@@ -3631,7 +3631,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "09-01-2026",
@@ -3642,7 +3642,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "09-01-2026",
@@ -3653,7 +3653,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "10-01-2026",
@@ -3675,7 +3675,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "10-01-2026",
@@ -3697,7 +3697,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "10-01-2026",
@@ -3719,7 +3719,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "10-01-2026",
@@ -3741,7 +3741,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "10-01-2026",
@@ -3752,7 +3752,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "10-01-2026",
@@ -3763,7 +3763,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "10-01-2026",
@@ -3774,7 +3774,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "10-01-2026",
@@ -3785,7 +3785,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "10-01-2026",
@@ -3807,7 +3807,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "10-01-2026",
@@ -3818,7 +3818,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "10-01-2026",
@@ -3829,7 +3829,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PE",
   "Airline": "PEOPLES",
-  "Flight": "PE761 /"
+  "Flight": "PE761"
  },
  {
   "Date": "10-01-2026",
@@ -3862,7 +3862,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "10-01-2026",
@@ -3873,7 +3873,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "10-01-2026",
@@ -3895,7 +3895,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "10-01-2026",
@@ -3906,7 +3906,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BQ",
   "Airline": "SKY ALPS SRL",
-  "Flight": "BQ1921 /"
+  "Flight": "BQ1921"
  },
  {
   "Date": "10-01-2026",
@@ -3917,7 +3917,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "10-01-2026",
@@ -3928,7 +3928,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "10-01-2026",
@@ -3939,7 +3939,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "10-01-2026",
@@ -3961,7 +3961,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "10-01-2026",
@@ -3994,7 +3994,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "VOE",
   "Airline": "Alaeo S.L.",
-  "Flight": "VOE2005 /"
+  "Flight": "VOE2005"
  },
  {
   "Date": "10-01-2026",
@@ -4005,7 +4005,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "11-01-2026",
@@ -4027,7 +4027,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "11-01-2026",
@@ -4038,7 +4038,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "11-01-2026",
@@ -4071,7 +4071,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD517 /"
+  "Flight": "JTD517"
  },
  {
   "Date": "11-01-2026",
@@ -4082,7 +4082,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "11-01-2026",
@@ -4093,7 +4093,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD509 /"
+  "Flight": "JTD509"
  },
  {
   "Date": "11-01-2026",
@@ -4104,7 +4104,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "11-01-2026",
@@ -4115,7 +4115,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "11-01-2026",
@@ -4137,7 +4137,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "11-01-2026",
@@ -4159,7 +4159,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "11-01-2026",
@@ -4170,7 +4170,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "11-01-2026",
@@ -4192,7 +4192,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT1007 /"
+  "Flight": "BT1007"
  },
  {
   "Date": "11-01-2026",
@@ -4203,7 +4203,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "11-01-2026",
@@ -4214,7 +4214,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "11-01-2026",
@@ -4236,7 +4236,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "11-01-2026",
@@ -4258,7 +4258,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "11-01-2026",
@@ -4269,7 +4269,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "11-01-2026",
@@ -4280,7 +4280,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "11-01-2026",
@@ -4291,7 +4291,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "11-01-2026",
@@ -4302,7 +4302,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "11-01-2026",
@@ -4313,7 +4313,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "12-01-2026",
@@ -4324,7 +4324,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "FRO",
   "Airline": "Frost Air AB",
-  "Flight": "FRO364 /"
+  "Flight": "FRO364"
  },
  {
   "Date": "12-01-2026",
@@ -4346,7 +4346,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "12-01-2026",
@@ -4368,7 +4368,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "12-01-2026",
@@ -4379,7 +4379,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK444 /"
+  "Flight": "DK444"
  },
  {
   "Date": "12-01-2026",
@@ -4401,7 +4401,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD511 /"
+  "Flight": "JTD511"
  },
  {
   "Date": "12-01-2026",
@@ -4412,7 +4412,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "12-01-2026",
@@ -4423,7 +4423,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "12-01-2026",
@@ -4434,7 +4434,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "12-01-2026",
@@ -4445,7 +4445,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "12-01-2026",
@@ -4456,7 +4456,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "12-01-2026",
@@ -4478,7 +4478,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "12-01-2026",
@@ -4489,7 +4489,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "12-01-2026",
@@ -4500,7 +4500,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "12-01-2026",
@@ -4522,7 +4522,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "12-01-2026",
@@ -4533,7 +4533,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "12-01-2026",
@@ -4555,7 +4555,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "12-01-2026",
@@ -4577,7 +4577,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "12-01-2026",
@@ -4588,7 +4588,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "12-01-2026",
@@ -4599,7 +4599,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "12-01-2026",
@@ -4610,7 +4610,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "12-01-2026",
@@ -4632,7 +4632,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "12-01-2026",
@@ -4643,7 +4643,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "12-01-2026",
@@ -4654,7 +4654,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "12-01-2026",
@@ -4665,7 +4665,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "12-01-2026",
@@ -4676,7 +4676,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "13-01-2026",
@@ -4687,7 +4687,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK445 /"
+  "Flight": "DK445"
  },
  {
   "Date": "13-01-2026",
@@ -4709,7 +4709,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "13-01-2026",
@@ -4720,7 +4720,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "13-01-2026",
@@ -4742,7 +4742,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1210 /"
+  "Flight": "DK1210"
  },
  {
   "Date": "13-01-2026",
@@ -4753,7 +4753,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "13-01-2026",
@@ -4764,7 +4764,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "13-01-2026",
@@ -4786,7 +4786,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "13-01-2026",
@@ -4797,7 +4797,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "13-01-2026",
@@ -4819,7 +4819,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "13-01-2026",
@@ -4841,7 +4841,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "13-01-2026",
@@ -4852,7 +4852,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "13-01-2026",
@@ -4863,7 +4863,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "13-01-2026",
@@ -4885,7 +4885,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "13-01-2026",
@@ -4896,7 +4896,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "13-01-2026",
@@ -4918,7 +4918,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PE",
   "Airline": "PEOPLES",
-  "Flight": "PE723 /"
+  "Flight": "PE723"
  },
  {
   "Date": "13-01-2026",
@@ -4929,7 +4929,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "13-01-2026",
@@ -4940,7 +4940,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "13-01-2026",
@@ -4951,7 +4951,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "13-01-2026",
@@ -4962,7 +4962,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "14-01-2026",
@@ -4984,7 +4984,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "14-01-2026",
@@ -5006,7 +5006,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "14-01-2026",
@@ -5017,7 +5017,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1216 /"
+  "Flight": "DK1216"
  },
  {
   "Date": "14-01-2026",
@@ -5028,7 +5028,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD545 /"
+  "Flight": "JTD545"
  },
  {
   "Date": "14-01-2026",
@@ -5039,7 +5039,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "14-01-2026",
@@ -5050,7 +5050,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "14-01-2026",
@@ -5061,7 +5061,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "14-01-2026",
@@ -5072,7 +5072,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "14-01-2026",
@@ -5094,7 +5094,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "14-01-2026",
@@ -5105,7 +5105,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "14-01-2026",
@@ -5127,7 +5127,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "14-01-2026",
@@ -5149,7 +5149,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "14-01-2026",
@@ -5171,7 +5171,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "14-01-2026",
@@ -5182,7 +5182,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "14-01-2026",
@@ -5193,7 +5193,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D89738 /"
+  "Flight": "D89738"
  },
  {
   "Date": "14-01-2026",
@@ -5215,7 +5215,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "14-01-2026",
@@ -5226,7 +5226,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "14-01-2026",
@@ -5237,7 +5237,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "14-01-2026",
@@ -5248,7 +5248,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "14-01-2026",
@@ -5259,7 +5259,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "15-01-2026",
@@ -5281,7 +5281,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "15-01-2026",
@@ -5292,7 +5292,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "15-01-2026",
@@ -5325,7 +5325,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "15-01-2026",
@@ -5336,7 +5336,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "15-01-2026",
@@ -5347,7 +5347,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "15-01-2026",
@@ -5369,7 +5369,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "15-01-2026",
@@ -5391,7 +5391,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "15-01-2026",
@@ -5402,7 +5402,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "15-01-2026",
@@ -5424,7 +5424,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "15-01-2026",
@@ -5435,7 +5435,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "15-01-2026",
@@ -5446,7 +5446,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "15-01-2026",
@@ -5479,7 +5479,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "15-01-2026",
@@ -5490,7 +5490,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "15-01-2026",
@@ -5512,7 +5512,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "15-01-2026",
@@ -5523,7 +5523,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "15-01-2026",
@@ -5534,7 +5534,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "16-01-2026",
@@ -5556,7 +5556,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "16-01-2026",
@@ -5567,7 +5567,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "16-01-2026",
@@ -5600,7 +5600,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "16-01-2026",
@@ -5611,7 +5611,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "16-01-2026",
@@ -5622,7 +5622,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "16-01-2026",
@@ -5633,7 +5633,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "16-01-2026",
@@ -5644,7 +5644,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "16-01-2026",
@@ -5655,7 +5655,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "16-01-2026",
@@ -5677,7 +5677,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "16-01-2026",
@@ -5699,7 +5699,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "16-01-2026",
@@ -5710,7 +5710,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "16-01-2026",
@@ -5721,7 +5721,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "16-01-2026",
@@ -5732,7 +5732,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "16-01-2026",
@@ -5765,7 +5765,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "16-01-2026",
@@ -5776,7 +5776,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "16-01-2026",
@@ -5787,7 +5787,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "16-01-2026",
@@ -5798,7 +5798,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "16-01-2026",
@@ -5820,7 +5820,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "16-01-2026",
@@ -5831,7 +5831,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "16-01-2026",
@@ -5842,7 +5842,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "16-01-2026",
@@ -5853,7 +5853,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "16-01-2026",
@@ -5864,7 +5864,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "16-01-2026",
@@ -5875,7 +5875,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "17-01-2026",
@@ -5897,7 +5897,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "17-01-2026",
@@ -5919,7 +5919,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "17-01-2026",
@@ -5941,7 +5941,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "17-01-2026",
@@ -5963,7 +5963,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "17-01-2026",
@@ -5974,7 +5974,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "17-01-2026",
@@ -5985,7 +5985,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "17-01-2026",
@@ -5996,7 +5996,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "17-01-2026",
@@ -6007,7 +6007,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "17-01-2026",
@@ -6018,7 +6018,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "17-01-2026",
@@ -6040,7 +6040,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "17-01-2026",
@@ -6051,7 +6051,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PE",
   "Airline": "PEOPLES",
-  "Flight": "PE761 /"
+  "Flight": "PE761"
  },
  {
   "Date": "17-01-2026",
@@ -6073,7 +6073,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "17-01-2026",
@@ -6095,7 +6095,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "17-01-2026",
@@ -6106,7 +6106,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "17-01-2026",
@@ -6128,7 +6128,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "17-01-2026",
@@ -6139,7 +6139,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BQ",
   "Airline": "SKY ALPS SRL",
-  "Flight": "BQ1921 /"
+  "Flight": "BQ1921"
  },
  {
   "Date": "17-01-2026",
@@ -6150,7 +6150,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "17-01-2026",
@@ -6161,7 +6161,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7140 /"
+  "Flight": "RC7140"
  },
  {
   "Date": "17-01-2026",
@@ -6172,7 +6172,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "17-01-2026",
@@ -6194,7 +6194,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "17-01-2026",
@@ -6227,7 +6227,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "VOE",
   "Airline": "Alaeo S.L.",
-  "Flight": "VOE2005 /"
+  "Flight": "VOE2005"
  },
  {
   "Date": "17-01-2026",
@@ -6238,7 +6238,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "17-01-2026",
@@ -6249,7 +6249,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D89739 /"
+  "Flight": "D89739"
  },
  {
   "Date": "18-01-2026",
@@ -6271,7 +6271,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "18-01-2026",
@@ -6282,7 +6282,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "18-01-2026",
@@ -6315,7 +6315,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD517 /"
+  "Flight": "JTD517"
  },
  {
   "Date": "18-01-2026",
@@ -6326,7 +6326,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD509 /"
+  "Flight": "JTD509"
  },
  {
   "Date": "18-01-2026",
@@ -6337,7 +6337,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "18-01-2026",
@@ -6348,7 +6348,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "18-01-2026",
@@ -6359,7 +6359,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "18-01-2026",
@@ -6381,7 +6381,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "18-01-2026",
@@ -6403,7 +6403,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "18-01-2026",
@@ -6414,7 +6414,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "18-01-2026",
@@ -6436,7 +6436,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT1007 /"
+  "Flight": "BT1007"
  },
  {
   "Date": "18-01-2026",
@@ -6447,7 +6447,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "18-01-2026",
@@ -6458,7 +6458,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "18-01-2026",
@@ -6480,7 +6480,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "18-01-2026",
@@ -6502,7 +6502,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "18-01-2026",
@@ -6513,7 +6513,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "18-01-2026",
@@ -6524,7 +6524,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "18-01-2026",
@@ -6535,7 +6535,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "18-01-2026",
@@ -6546,7 +6546,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "18-01-2026",
@@ -6557,7 +6557,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "19-01-2026",
@@ -6579,7 +6579,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "19-01-2026",
@@ -6601,7 +6601,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "19-01-2026",
@@ -6612,7 +6612,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK444 /"
+  "Flight": "DK444"
  },
  {
   "Date": "19-01-2026",
@@ -6634,7 +6634,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD511 /"
+  "Flight": "JTD511"
  },
  {
   "Date": "19-01-2026",
@@ -6645,7 +6645,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "19-01-2026",
@@ -6656,7 +6656,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "19-01-2026",
@@ -6667,7 +6667,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "19-01-2026",
@@ -6678,7 +6678,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "19-01-2026",
@@ -6689,7 +6689,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "19-01-2026",
@@ -6700,7 +6700,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "19-01-2026",
@@ -6722,7 +6722,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "19-01-2026",
@@ -6733,7 +6733,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "19-01-2026",
@@ -6755,7 +6755,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "19-01-2026",
@@ -6766,7 +6766,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "19-01-2026",
@@ -6788,7 +6788,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "19-01-2026",
@@ -6810,7 +6810,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "19-01-2026",
@@ -6821,7 +6821,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "19-01-2026",
@@ -6832,7 +6832,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "19-01-2026",
@@ -6843,7 +6843,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "19-01-2026",
@@ -6865,7 +6865,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "19-01-2026",
@@ -6876,7 +6876,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "19-01-2026",
@@ -6887,7 +6887,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "19-01-2026",
@@ -6898,7 +6898,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "19-01-2026",
@@ -6909,7 +6909,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "20-01-2026",
@@ -6920,7 +6920,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK445 /"
+  "Flight": "DK445"
  },
  {
   "Date": "20-01-2026",
@@ -6953,7 +6953,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "20-01-2026",
@@ -6964,7 +6964,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "20-01-2026",
@@ -6986,7 +6986,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1210 /"
+  "Flight": "DK1210"
  },
  {
   "Date": "20-01-2026",
@@ -6997,7 +6997,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "20-01-2026",
@@ -7008,7 +7008,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "20-01-2026",
@@ -7019,7 +7019,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "20-01-2026",
@@ -7030,7 +7030,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "20-01-2026",
@@ -7052,7 +7052,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "20-01-2026",
@@ -7074,7 +7074,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "20-01-2026",
@@ -7096,7 +7096,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "20-01-2026",
@@ -7107,7 +7107,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "20-01-2026",
@@ -7129,7 +7129,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "20-01-2026",
@@ -7140,7 +7140,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "20-01-2026",
@@ -7162,7 +7162,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PE",
   "Airline": "PEOPLES",
-  "Flight": "PE723 /"
+  "Flight": "PE723"
  },
  {
   "Date": "20-01-2026",
@@ -7173,7 +7173,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "20-01-2026",
@@ -7184,7 +7184,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "20-01-2026",
@@ -7195,7 +7195,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "20-01-2026",
@@ -7206,7 +7206,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "21-01-2026",
@@ -7228,7 +7228,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "21-01-2026",
@@ -7250,7 +7250,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "21-01-2026",
@@ -7261,7 +7261,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1216 /"
+  "Flight": "DK1216"
  },
  {
   "Date": "21-01-2026",
@@ -7272,7 +7272,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD545 /"
+  "Flight": "JTD545"
  },
  {
   "Date": "21-01-2026",
@@ -7283,7 +7283,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "21-01-2026",
@@ -7294,7 +7294,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "21-01-2026",
@@ -7305,7 +7305,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "21-01-2026",
@@ -7316,7 +7316,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "21-01-2026",
@@ -7338,7 +7338,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "21-01-2026",
@@ -7349,7 +7349,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "21-01-2026",
@@ -7371,7 +7371,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "21-01-2026",
@@ -7393,7 +7393,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "21-01-2026",
@@ -7415,7 +7415,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "21-01-2026",
@@ -7426,7 +7426,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "21-01-2026",
@@ -7459,7 +7459,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "21-01-2026",
@@ -7470,7 +7470,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "21-01-2026",
@@ -7481,7 +7481,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "21-01-2026",
@@ -7492,7 +7492,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "21-01-2026",
@@ -7503,7 +7503,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "22-01-2026",
@@ -7525,7 +7525,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "22-01-2026",
@@ -7536,7 +7536,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "22-01-2026",
@@ -7569,7 +7569,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "22-01-2026",
@@ -7580,7 +7580,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "22-01-2026",
@@ -7591,7 +7591,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "22-01-2026",
@@ -7613,7 +7613,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "22-01-2026",
@@ -7635,7 +7635,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "22-01-2026",
@@ -7646,7 +7646,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "22-01-2026",
@@ -7668,7 +7668,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "22-01-2026",
@@ -7679,7 +7679,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "22-01-2026",
@@ -7690,7 +7690,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "22-01-2026",
@@ -7723,7 +7723,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "22-01-2026",
@@ -7734,7 +7734,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "22-01-2026",
@@ -7756,7 +7756,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "22-01-2026",
@@ -7767,7 +7767,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "22-01-2026",
@@ -7778,7 +7778,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "23-01-2026",
@@ -7800,7 +7800,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "FRO",
   "Airline": "Frost Air AB",
-  "Flight": "FRO364 /"
+  "Flight": "FRO364"
  },
  {
   "Date": "23-01-2026",
@@ -7811,7 +7811,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "23-01-2026",
@@ -7833,7 +7833,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "23-01-2026",
@@ -7855,7 +7855,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "23-01-2026",
@@ -7866,7 +7866,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "23-01-2026",
@@ -7877,7 +7877,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "23-01-2026",
@@ -7888,7 +7888,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "23-01-2026",
@@ -7899,7 +7899,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "23-01-2026",
@@ -7921,7 +7921,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "23-01-2026",
@@ -7932,7 +7932,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "23-01-2026",
@@ -7954,7 +7954,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "23-01-2026",
@@ -7965,7 +7965,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "23-01-2026",
@@ -7976,7 +7976,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "23-01-2026",
@@ -7987,7 +7987,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "23-01-2026",
@@ -8020,7 +8020,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "23-01-2026",
@@ -8031,7 +8031,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "23-01-2026",
@@ -8042,7 +8042,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "23-01-2026",
@@ -8053,7 +8053,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "23-01-2026",
@@ -8075,7 +8075,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "23-01-2026",
@@ -8086,7 +8086,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "23-01-2026",
@@ -8097,7 +8097,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "23-01-2026",
@@ -8108,7 +8108,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "23-01-2026",
@@ -8119,7 +8119,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "23-01-2026",
@@ -8130,7 +8130,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "24-01-2026",
@@ -8152,7 +8152,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "24-01-2026",
@@ -8174,7 +8174,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "24-01-2026",
@@ -8196,7 +8196,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "24-01-2026",
@@ -8218,7 +8218,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "24-01-2026",
@@ -8229,7 +8229,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "24-01-2026",
@@ -8240,7 +8240,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "24-01-2026",
@@ -8251,7 +8251,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "24-01-2026",
@@ -8262,7 +8262,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "24-01-2026",
@@ -8273,7 +8273,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "24-01-2026",
@@ -8295,7 +8295,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "24-01-2026",
@@ -8306,7 +8306,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PE",
   "Airline": "PEOPLES",
-  "Flight": "PE761 /"
+  "Flight": "PE761"
  },
  {
   "Date": "24-01-2026",
@@ -8328,7 +8328,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "24-01-2026",
@@ -8350,7 +8350,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "24-01-2026",
@@ -8361,7 +8361,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "24-01-2026",
@@ -8383,7 +8383,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "24-01-2026",
@@ -8394,7 +8394,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BQ",
   "Airline": "SKY ALPS SRL",
-  "Flight": "BQ1921 /"
+  "Flight": "BQ1921"
  },
  {
   "Date": "24-01-2026",
@@ -8405,7 +8405,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "24-01-2026",
@@ -8416,7 +8416,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "24-01-2026",
@@ -8427,7 +8427,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7140 /"
+  "Flight": "RC7140"
  },
  {
   "Date": "24-01-2026",
@@ -8449,7 +8449,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "24-01-2026",
@@ -8482,7 +8482,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "VOE",
   "Airline": "Alaeo S.L.",
-  "Flight": "VOE2005 /"
+  "Flight": "VOE2005"
  },
  {
   "Date": "24-01-2026",
@@ -8493,7 +8493,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "25-01-2026",
@@ -8515,7 +8515,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "25-01-2026",
@@ -8526,7 +8526,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "25-01-2026",
@@ -8559,7 +8559,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD517 /"
+  "Flight": "JTD517"
  },
  {
   "Date": "25-01-2026",
@@ -8570,7 +8570,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD509 /"
+  "Flight": "JTD509"
  },
  {
   "Date": "25-01-2026",
@@ -8581,7 +8581,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "25-01-2026",
@@ -8592,7 +8592,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "25-01-2026",
@@ -8603,7 +8603,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "25-01-2026",
@@ -8625,7 +8625,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "25-01-2026",
@@ -8647,7 +8647,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "25-01-2026",
@@ -8658,7 +8658,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "25-01-2026",
@@ -8680,7 +8680,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT1007 /"
+  "Flight": "BT1007"
  },
  {
   "Date": "25-01-2026",
@@ -8691,7 +8691,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "25-01-2026",
@@ -8702,7 +8702,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "25-01-2026",
@@ -8724,7 +8724,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "25-01-2026",
@@ -8746,7 +8746,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "25-01-2026",
@@ -8757,7 +8757,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "25-01-2026",
@@ -8768,7 +8768,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "25-01-2026",
@@ -8779,7 +8779,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "25-01-2026",
@@ -8790,7 +8790,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "25-01-2026",
@@ -8801,7 +8801,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "26-01-2026",
@@ -8823,7 +8823,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "26-01-2026",
@@ -8845,7 +8845,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "26-01-2026",
@@ -8856,7 +8856,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK444 /"
+  "Flight": "DK444"
  },
  {
   "Date": "26-01-2026",
@@ -8878,7 +8878,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD511 /"
+  "Flight": "JTD511"
  },
  {
   "Date": "26-01-2026",
@@ -8889,7 +8889,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "26-01-2026",
@@ -8900,7 +8900,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "26-01-2026",
@@ -8911,7 +8911,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "26-01-2026",
@@ -8922,7 +8922,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "26-01-2026",
@@ -8933,7 +8933,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "26-01-2026",
@@ -8955,7 +8955,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "26-01-2026",
@@ -8966,7 +8966,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "26-01-2026",
@@ -8977,7 +8977,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "26-01-2026",
@@ -8999,7 +8999,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "26-01-2026",
@@ -9010,7 +9010,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "26-01-2026",
@@ -9032,7 +9032,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "26-01-2026",
@@ -9054,7 +9054,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "26-01-2026",
@@ -9065,7 +9065,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "26-01-2026",
@@ -9076,7 +9076,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "26-01-2026",
@@ -9087,7 +9087,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "26-01-2026",
@@ -9109,7 +9109,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "26-01-2026",
@@ -9120,7 +9120,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "26-01-2026",
@@ -9131,7 +9131,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "26-01-2026",
@@ -9142,7 +9142,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "26-01-2026",
@@ -9153,7 +9153,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "27-01-2026",
@@ -9164,7 +9164,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK445 /"
+  "Flight": "DK445"
  },
  {
   "Date": "27-01-2026",
@@ -9186,7 +9186,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "27-01-2026",
@@ -9197,7 +9197,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "27-01-2026",
@@ -9219,7 +9219,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1210 /"
+  "Flight": "DK1210"
  },
  {
   "Date": "27-01-2026",
@@ -9230,7 +9230,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "27-01-2026",
@@ -9241,7 +9241,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "27-01-2026",
@@ -9252,7 +9252,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "27-01-2026",
@@ -9274,7 +9274,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "27-01-2026",
@@ -9285,7 +9285,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "27-01-2026",
@@ -9307,7 +9307,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "27-01-2026",
@@ -9329,7 +9329,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "27-01-2026",
@@ -9340,7 +9340,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "27-01-2026",
@@ -9362,7 +9362,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "27-01-2026",
@@ -9373,7 +9373,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "27-01-2026",
@@ -9395,7 +9395,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PE",
   "Airline": "PEOPLES",
-  "Flight": "PE723 /"
+  "Flight": "PE723"
  },
  {
   "Date": "27-01-2026",
@@ -9406,7 +9406,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "27-01-2026",
@@ -9417,7 +9417,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "27-01-2026",
@@ -9428,7 +9428,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "27-01-2026",
@@ -9439,7 +9439,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "28-01-2026",
@@ -9461,7 +9461,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "28-01-2026",
@@ -9483,7 +9483,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "28-01-2026",
@@ -9494,7 +9494,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1216 /"
+  "Flight": "DK1216"
  },
  {
   "Date": "28-01-2026",
@@ -9505,7 +9505,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD545 /"
+  "Flight": "JTD545"
  },
  {
   "Date": "28-01-2026",
@@ -9516,7 +9516,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "28-01-2026",
@@ -9527,7 +9527,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "28-01-2026",
@@ -9538,7 +9538,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "28-01-2026",
@@ -9549,7 +9549,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "28-01-2026",
@@ -9571,7 +9571,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "28-01-2026",
@@ -9582,7 +9582,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "28-01-2026",
@@ -9604,7 +9604,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "28-01-2026",
@@ -9626,7 +9626,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "28-01-2026",
@@ -9648,7 +9648,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "28-01-2026",
@@ -9659,7 +9659,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "28-01-2026",
@@ -9681,7 +9681,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "28-01-2026",
@@ -9692,7 +9692,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "28-01-2026",
@@ -9703,7 +9703,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "28-01-2026",
@@ -9714,7 +9714,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "28-01-2026",
@@ -9725,7 +9725,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "29-01-2026",
@@ -9747,7 +9747,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "29-01-2026",
@@ -9769,7 +9769,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "29-01-2026",
@@ -9791,7 +9791,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "29-01-2026",
@@ -9802,7 +9802,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "29-01-2026",
@@ -9813,7 +9813,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "29-01-2026",
@@ -9824,7 +9824,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "29-01-2026",
@@ -9857,7 +9857,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "29-01-2026",
@@ -9868,7 +9868,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "29-01-2026",
@@ -9890,7 +9890,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "29-01-2026",
@@ -9901,7 +9901,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "29-01-2026",
@@ -9912,7 +9912,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "29-01-2026",
@@ -9945,7 +9945,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "29-01-2026",
@@ -9956,7 +9956,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC471 /"
+  "Flight": "RC471"
  },
  {
   "Date": "29-01-2026",
@@ -9967,7 +9967,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "29-01-2026",
@@ -9989,7 +9989,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "29-01-2026",
@@ -10000,7 +10000,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "29-01-2026",
@@ -10011,7 +10011,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "30-01-2026",
@@ -10033,7 +10033,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "30-01-2026",
@@ -10044,7 +10044,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "30-01-2026",
@@ -10077,7 +10077,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "30-01-2026",
@@ -10088,7 +10088,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "30-01-2026",
@@ -10099,7 +10099,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "30-01-2026",
@@ -10110,7 +10110,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "30-01-2026",
@@ -10121,7 +10121,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "30-01-2026",
@@ -10132,7 +10132,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "30-01-2026",
@@ -10165,7 +10165,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "30-01-2026",
@@ -10187,7 +10187,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "30-01-2026",
@@ -10198,7 +10198,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "30-01-2026",
@@ -10209,7 +10209,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "30-01-2026",
@@ -10220,7 +10220,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "30-01-2026",
@@ -10253,7 +10253,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "30-01-2026",
@@ -10264,7 +10264,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "30-01-2026",
@@ -10275,7 +10275,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "30-01-2026",
@@ -10286,7 +10286,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "30-01-2026",
@@ -10308,7 +10308,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "30-01-2026",
@@ -10319,7 +10319,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "30-01-2026",
@@ -10330,7 +10330,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "30-01-2026",
@@ -10341,7 +10341,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "30-01-2026",
@@ -10352,7 +10352,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "30-01-2026",
@@ -10363,7 +10363,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "30-01-2026",
@@ -10374,7 +10374,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "31-01-2026",
@@ -10396,7 +10396,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "31-01-2026",
@@ -10418,7 +10418,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "31-01-2026",
@@ -10440,7 +10440,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "31-01-2026",
@@ -10462,7 +10462,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "31-01-2026",
@@ -10473,7 +10473,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "31-01-2026",
@@ -10484,7 +10484,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "31-01-2026",
@@ -10495,7 +10495,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "31-01-2026",
@@ -10506,7 +10506,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "31-01-2026",
@@ -10528,7 +10528,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "31-01-2026",
@@ -10539,7 +10539,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "31-01-2026",
@@ -10561,7 +10561,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "31-01-2026",
@@ -10583,7 +10583,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "31-01-2026",
@@ -10594,7 +10594,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "31-01-2026",
@@ -10616,7 +10616,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "31-01-2026",
@@ -10627,7 +10627,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BQ",
   "Airline": "SKY ALPS SRL",
-  "Flight": "BQ1921 /"
+  "Flight": "BQ1921"
  },
  {
   "Date": "31-01-2026",
@@ -10638,7 +10638,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "31-01-2026",
@@ -10649,7 +10649,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7140 /"
+  "Flight": "RC7140"
  },
  {
   "Date": "31-01-2026",
@@ -10660,7 +10660,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "31-01-2026",
@@ -10682,7 +10682,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "31-01-2026",
@@ -10715,7 +10715,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "VOE",
   "Airline": "Alaeo S.L.",
-  "Flight": "VOE2005 /"
+  "Flight": "VOE2005"
  },
  {
   "Date": "31-01-2026",
@@ -10726,7 +10726,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
 
 
@@ -10751,7 +10751,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "01-02-2026",
@@ -10773,7 +10773,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "01-02-2026",
@@ -10795,7 +10795,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD517 /"
+  "Flight": "JTD517"
  },
  {
   "Date": "01-02-2026",
@@ -10806,7 +10806,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD509 /"
+  "Flight": "JTD509"
  },
  {
   "Date": "01-02-2026",
@@ -10817,7 +10817,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "01-02-2026",
@@ -10828,7 +10828,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "01-02-2026",
@@ -10839,7 +10839,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "01-02-2026",
@@ -10861,7 +10861,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "01-02-2026",
@@ -10883,7 +10883,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "01-02-2026",
@@ -10894,7 +10894,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "01-02-2026",
@@ -10916,7 +10916,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT1007 /"
+  "Flight": "BT1007"
  },
  {
   "Date": "01-02-2026",
@@ -10927,7 +10927,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "01-02-2026",
@@ -10938,7 +10938,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "01-02-2026",
@@ -10960,7 +10960,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "01-02-2026",
@@ -10982,7 +10982,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "01-02-2026",
@@ -10993,7 +10993,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "01-02-2026",
@@ -11004,7 +11004,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "01-02-2026",
@@ -11015,7 +11015,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "01-02-2026",
@@ -11026,7 +11026,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "01-02-2026",
@@ -11037,7 +11037,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "02-02-2026",
@@ -11059,7 +11059,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "02-02-2026",
@@ -11081,7 +11081,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "02-02-2026",
@@ -11092,7 +11092,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK444 /"
+  "Flight": "DK444"
  },
  {
   "Date": "02-02-2026",
@@ -11114,7 +11114,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD511 /"
+  "Flight": "JTD511"
  },
  {
   "Date": "02-02-2026",
@@ -11125,7 +11125,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "02-02-2026",
@@ -11136,7 +11136,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "02-02-2026",
@@ -11147,7 +11147,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "02-02-2026",
@@ -11158,7 +11158,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "02-02-2026",
@@ -11169,7 +11169,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85721 /"
+  "Flight": "D85721"
  },
  {
   "Date": "02-02-2026",
@@ -11180,7 +11180,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "02-02-2026",
@@ -11191,7 +11191,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "02-02-2026",
@@ -11213,7 +11213,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "02-02-2026",
@@ -11224,7 +11224,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "02-02-2026",
@@ -11235,7 +11235,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "02-02-2026",
@@ -11257,7 +11257,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "02-02-2026",
@@ -11268,7 +11268,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "02-02-2026",
@@ -11290,7 +11290,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "02-02-2026",
@@ -11312,7 +11312,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "02-02-2026",
@@ -11323,7 +11323,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "02-02-2026",
@@ -11334,7 +11334,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "02-02-2026",
@@ -11345,7 +11345,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "02-02-2026",
@@ -11367,7 +11367,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "02-02-2026",
@@ -11378,7 +11378,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "02-02-2026",
@@ -11389,7 +11389,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "02-02-2026",
@@ -11400,7 +11400,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "02-02-2026",
@@ -11411,7 +11411,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "03-02-2026",
@@ -11422,7 +11422,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK445 /"
+  "Flight": "DK445"
  },
  {
   "Date": "03-02-2026",
@@ -11455,7 +11455,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "03-02-2026",
@@ -11477,7 +11477,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "03-02-2026",
@@ -11488,7 +11488,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1210 /"
+  "Flight": "DK1210"
  },
  {
   "Date": "03-02-2026",
@@ -11499,7 +11499,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "03-02-2026",
@@ -11510,7 +11510,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "03-02-2026",
@@ -11521,7 +11521,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "03-02-2026",
@@ -11532,7 +11532,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "03-02-2026",
@@ -11554,7 +11554,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "03-02-2026",
@@ -11576,7 +11576,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "03-02-2026",
@@ -11598,7 +11598,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "03-02-2026",
@@ -11609,7 +11609,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "03-02-2026",
@@ -11631,7 +11631,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "03-02-2026",
@@ -11642,7 +11642,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "03-02-2026",
@@ -11664,7 +11664,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "03-02-2026",
@@ -11675,7 +11675,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "03-02-2026",
@@ -11686,7 +11686,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "03-02-2026",
@@ -11697,7 +11697,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "04-02-2026",
@@ -11719,7 +11719,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "04-02-2026",
@@ -11741,7 +11741,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "04-02-2026",
@@ -11752,7 +11752,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1216 /"
+  "Flight": "DK1216"
  },
  {
   "Date": "04-02-2026",
@@ -11763,7 +11763,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD545 /"
+  "Flight": "JTD545"
  },
  {
   "Date": "04-02-2026",
@@ -11774,7 +11774,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "04-02-2026",
@@ -11785,7 +11785,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "04-02-2026",
@@ -11796,7 +11796,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "04-02-2026",
@@ -11807,7 +11807,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "04-02-2026",
@@ -11829,7 +11829,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "04-02-2026",
@@ -11840,7 +11840,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "04-02-2026",
@@ -11862,7 +11862,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "04-02-2026",
@@ -11884,7 +11884,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "04-02-2026",
@@ -11906,7 +11906,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "04-02-2026",
@@ -11917,7 +11917,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "04-02-2026",
@@ -11950,7 +11950,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "04-02-2026",
@@ -11961,7 +11961,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "04-02-2026",
@@ -11972,7 +11972,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "04-02-2026",
@@ -11983,7 +11983,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "04-02-2026",
@@ -11994,7 +11994,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "05-02-2026",
@@ -12016,7 +12016,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "FRO",
   "Airline": "Frost Air AB",
-  "Flight": "FRO364 /"
+  "Flight": "FRO364"
  },
  {
   "Date": "05-02-2026",
@@ -12027,7 +12027,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "05-02-2026",
@@ -12038,7 +12038,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "05-02-2026",
@@ -12071,7 +12071,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "05-02-2026",
@@ -12082,7 +12082,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "05-02-2026",
@@ -12093,7 +12093,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "05-02-2026",
@@ -12104,7 +12104,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "05-02-2026",
@@ -12137,7 +12137,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "05-02-2026",
@@ -12148,7 +12148,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "05-02-2026",
@@ -12170,7 +12170,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "05-02-2026",
@@ -12181,7 +12181,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "05-02-2026",
@@ -12192,7 +12192,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "05-02-2026",
@@ -12203,7 +12203,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "05-02-2026",
@@ -12236,7 +12236,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "05-02-2026",
@@ -12247,7 +12247,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC471 /"
+  "Flight": "RC471"
  },
  {
   "Date": "05-02-2026",
@@ -12269,7 +12269,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "05-02-2026",
@@ -12280,7 +12280,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "05-02-2026",
@@ -12291,7 +12291,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "06-02-2026",
@@ -12313,7 +12313,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "06-02-2026",
@@ -12335,7 +12335,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "06-02-2026",
@@ -12357,7 +12357,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "06-02-2026",
@@ -12368,7 +12368,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "06-02-2026",
@@ -12379,7 +12379,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "06-02-2026",
@@ -12390,7 +12390,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "06-02-2026",
@@ -12401,7 +12401,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "06-02-2026",
@@ -12423,7 +12423,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "06-02-2026",
@@ -12445,7 +12445,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "06-02-2026",
@@ -12456,7 +12456,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "06-02-2026",
@@ -12467,7 +12467,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "06-02-2026",
@@ -12478,7 +12478,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "06-02-2026",
@@ -12511,7 +12511,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "06-02-2026",
@@ -12522,7 +12522,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "06-02-2026",
@@ -12533,7 +12533,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "06-02-2026",
@@ -12544,7 +12544,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "06-02-2026",
@@ -12566,7 +12566,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "06-02-2026",
@@ -12577,7 +12577,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "06-02-2026",
@@ -12588,7 +12588,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "06-02-2026",
@@ -12599,7 +12599,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "06-02-2026",
@@ -12610,7 +12610,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "06-02-2026",
@@ -12621,7 +12621,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "07-02-2026",
@@ -12643,7 +12643,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "07-02-2026",
@@ -12665,7 +12665,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "07-02-2026",
@@ -12687,7 +12687,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "07-02-2026",
@@ -12709,7 +12709,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "07-02-2026",
@@ -12720,7 +12720,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "07-02-2026",
@@ -12731,7 +12731,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "07-02-2026",
@@ -12742,7 +12742,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "07-02-2026",
@@ -12753,7 +12753,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "07-02-2026",
@@ -12764,7 +12764,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "07-02-2026",
@@ -12786,7 +12786,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "07-02-2026",
@@ -12819,7 +12819,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "07-02-2026",
@@ -12830,7 +12830,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "07-02-2026",
@@ -12852,7 +12852,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "07-02-2026",
@@ -12863,7 +12863,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BQ",
   "Airline": "SKY ALPS SRL",
-  "Flight": "BQ1921 /"
+  "Flight": "BQ1921"
  },
  {
   "Date": "07-02-2026",
@@ -12874,7 +12874,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "07-02-2026",
@@ -12885,7 +12885,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "07-02-2026",
@@ -12896,7 +12896,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7140 /"
+  "Flight": "RC7140"
  },
  {
   "Date": "07-02-2026",
@@ -12907,7 +12907,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "07-02-2026",
@@ -12929,7 +12929,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "07-02-2026",
@@ -12962,7 +12962,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "VOE",
   "Airline": "Alaeo S.L.",
-  "Flight": "VOE2005 /"
+  "Flight": "VOE2005"
  },
  {
   "Date": "07-02-2026",
@@ -12973,7 +12973,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "07-02-2026",
@@ -12984,7 +12984,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "08-02-2026",
@@ -13006,7 +13006,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "08-02-2026",
@@ -13017,7 +13017,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "08-02-2026",
@@ -13050,7 +13050,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD517 /"
+  "Flight": "JTD517"
  },
  {
   "Date": "08-02-2026",
@@ -13061,7 +13061,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD509 /"
+  "Flight": "JTD509"
  },
  {
   "Date": "08-02-2026",
@@ -13072,7 +13072,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "08-02-2026",
@@ -13083,7 +13083,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "08-02-2026",
@@ -13094,7 +13094,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "08-02-2026",
@@ -13116,7 +13116,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "08-02-2026",
@@ -13138,7 +13138,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "08-02-2026",
@@ -13149,7 +13149,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "08-02-2026",
@@ -13171,7 +13171,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT1007 /"
+  "Flight": "BT1007"
  },
  {
   "Date": "08-02-2026",
@@ -13182,7 +13182,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "08-02-2026",
@@ -13193,7 +13193,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "08-02-2026",
@@ -13215,7 +13215,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "08-02-2026",
@@ -13237,7 +13237,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "08-02-2026",
@@ -13248,7 +13248,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "08-02-2026",
@@ -13259,7 +13259,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "08-02-2026",
@@ -13270,7 +13270,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "08-02-2026",
@@ -13281,7 +13281,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "08-02-2026",
@@ -13292,7 +13292,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "08-02-2026",
@@ -13303,7 +13303,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "09-02-2026",
@@ -13325,7 +13325,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "09-02-2026",
@@ -13347,7 +13347,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "09-02-2026",
@@ -13358,7 +13358,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK444 /"
+  "Flight": "DK444"
  },
  {
   "Date": "09-02-2026",
@@ -13380,7 +13380,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD511 /"
+  "Flight": "JTD511"
  },
  {
   "Date": "09-02-2026",
@@ -13391,7 +13391,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "09-02-2026",
@@ -13402,7 +13402,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "09-02-2026",
@@ -13413,7 +13413,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "09-02-2026",
@@ -13424,7 +13424,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "09-02-2026",
@@ -13435,7 +13435,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85721 /"
+  "Flight": "D85721"
  },
  {
   "Date": "09-02-2026",
@@ -13446,7 +13446,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "09-02-2026",
@@ -13457,7 +13457,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "09-02-2026",
@@ -13479,7 +13479,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "09-02-2026",
@@ -13490,7 +13490,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "09-02-2026",
@@ -13501,7 +13501,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "09-02-2026",
@@ -13523,7 +13523,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "09-02-2026",
@@ -13534,7 +13534,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "09-02-2026",
@@ -13556,7 +13556,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "09-02-2026",
@@ -13578,7 +13578,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "09-02-2026",
@@ -13589,7 +13589,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "09-02-2026",
@@ -13600,7 +13600,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "09-02-2026",
@@ -13611,7 +13611,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "09-02-2026",
@@ -13633,7 +13633,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "09-02-2026",
@@ -13644,7 +13644,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "09-02-2026",
@@ -13655,7 +13655,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "09-02-2026",
@@ -13666,7 +13666,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "09-02-2026",
@@ -13677,7 +13677,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "09-02-2026",
@@ -13688,7 +13688,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "10-02-2026",
@@ -13699,7 +13699,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK445 /"
+  "Flight": "DK445"
  },
  {
   "Date": "10-02-2026",
@@ -13721,7 +13721,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "10-02-2026",
@@ -13732,7 +13732,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "10-02-2026",
@@ -13754,7 +13754,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1210 /"
+  "Flight": "DK1210"
  },
  {
   "Date": "10-02-2026",
@@ -13765,7 +13765,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "10-02-2026",
@@ -13776,7 +13776,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "10-02-2026",
@@ -13787,7 +13787,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "10-02-2026",
@@ -13798,7 +13798,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "10-02-2026",
@@ -13820,7 +13820,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "10-02-2026",
@@ -13831,7 +13831,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "10-02-2026",
@@ -13853,7 +13853,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "10-02-2026",
@@ -13875,7 +13875,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "10-02-2026",
@@ -13886,7 +13886,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "10-02-2026",
@@ -13908,7 +13908,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "10-02-2026",
@@ -13919,7 +13919,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "10-02-2026",
@@ -13941,7 +13941,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "10-02-2026",
@@ -13952,7 +13952,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "10-02-2026",
@@ -13963,7 +13963,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "11-02-2026",
@@ -13985,7 +13985,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "11-02-2026",
@@ -14007,7 +14007,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "11-02-2026",
@@ -14018,7 +14018,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1216 /"
+  "Flight": "DK1216"
  },
  {
   "Date": "11-02-2026",
@@ -14029,7 +14029,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD545 /"
+  "Flight": "JTD545"
  },
  {
   "Date": "11-02-2026",
@@ -14040,7 +14040,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "11-02-2026",
@@ -14051,7 +14051,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "11-02-2026",
@@ -14062,7 +14062,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "11-02-2026",
@@ -14073,7 +14073,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "11-02-2026",
@@ -14095,7 +14095,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "11-02-2026",
@@ -14106,7 +14106,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "11-02-2026",
@@ -14128,7 +14128,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "11-02-2026",
@@ -14150,7 +14150,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "11-02-2026",
@@ -14172,7 +14172,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "11-02-2026",
@@ -14183,7 +14183,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "11-02-2026",
@@ -14205,7 +14205,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "11-02-2026",
@@ -14216,7 +14216,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "11-02-2026",
@@ -14227,7 +14227,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "11-02-2026",
@@ -14238,7 +14238,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "11-02-2026",
@@ -14249,7 +14249,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "12-02-2026",
@@ -14271,7 +14271,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "12-02-2026",
@@ -14282,7 +14282,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "12-02-2026",
@@ -14315,7 +14315,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "12-02-2026",
@@ -14326,7 +14326,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "12-02-2026",
@@ -14337,7 +14337,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "12-02-2026",
@@ -14359,7 +14359,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "12-02-2026",
@@ -14370,7 +14370,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "12-02-2026",
@@ -14392,7 +14392,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "12-02-2026",
@@ -14403,7 +14403,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "12-02-2026",
@@ -14425,7 +14425,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "12-02-2026",
@@ -14436,7 +14436,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "12-02-2026",
@@ -14447,7 +14447,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "12-02-2026",
@@ -14458,7 +14458,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "12-02-2026",
@@ -14491,7 +14491,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "12-02-2026",
@@ -14502,7 +14502,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC471 /"
+  "Flight": "RC471"
  },
  {
   "Date": "12-02-2026",
@@ -14524,7 +14524,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "12-02-2026",
@@ -14535,7 +14535,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "12-02-2026",
@@ -14546,7 +14546,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "13-02-2026",
@@ -14568,7 +14568,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "13-02-2026",
@@ -14579,7 +14579,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "13-02-2026",
@@ -14612,7 +14612,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "13-02-2026",
@@ -14623,7 +14623,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "13-02-2026",
@@ -14634,7 +14634,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "13-02-2026",
@@ -14645,7 +14645,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "13-02-2026",
@@ -14667,7 +14667,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "13-02-2026",
@@ -14678,7 +14678,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "13-02-2026",
@@ -14700,7 +14700,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "13-02-2026",
@@ -14711,7 +14711,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "13-02-2026",
@@ -14722,7 +14722,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "13-02-2026",
@@ -14733,7 +14733,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "13-02-2026",
@@ -14766,7 +14766,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "13-02-2026",
@@ -14777,7 +14777,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "13-02-2026",
@@ -14788,7 +14788,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "13-02-2026",
@@ -14799,7 +14799,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "13-02-2026",
@@ -14821,7 +14821,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "13-02-2026",
@@ -14832,7 +14832,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "13-02-2026",
@@ -14843,7 +14843,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "13-02-2026",
@@ -14854,7 +14854,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "13-02-2026",
@@ -14865,7 +14865,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "13-02-2026",
@@ -14876,7 +14876,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "13-02-2026",
@@ -14887,7 +14887,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "14-02-2026",
@@ -14909,7 +14909,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "14-02-2026",
@@ -14931,7 +14931,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "14-02-2026",
@@ -14953,7 +14953,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "14-02-2026",
@@ -14975,7 +14975,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "14-02-2026",
@@ -14986,7 +14986,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "14-02-2026",
@@ -14997,7 +14997,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "14-02-2026",
@@ -15008,7 +15008,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "14-02-2026",
@@ -15019,7 +15019,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "14-02-2026",
@@ -15030,7 +15030,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "14-02-2026",
@@ -15052,7 +15052,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "14-02-2026",
@@ -15063,7 +15063,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "14-02-2026",
@@ -15096,7 +15096,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "14-02-2026",
@@ -15107,7 +15107,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "14-02-2026",
@@ -15129,7 +15129,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "14-02-2026",
@@ -15140,7 +15140,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BQ",
   "Airline": "SKY ALPS SRL",
-  "Flight": "BQ1921 /"
+  "Flight": "BQ1921"
  },
  {
   "Date": "14-02-2026",
@@ -15151,7 +15151,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "14-02-2026",
@@ -15162,7 +15162,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "14-02-2026",
@@ -15173,7 +15173,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "14-02-2026",
@@ -15184,7 +15184,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7140 /"
+  "Flight": "RC7140"
  },
  {
   "Date": "14-02-2026",
@@ -15206,7 +15206,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "14-02-2026",
@@ -15239,7 +15239,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "VOE",
   "Airline": "Alaeo S.L.",
-  "Flight": "VOE2005 /"
+  "Flight": "VOE2005"
  },
  {
   "Date": "14-02-2026",
@@ -15250,7 +15250,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "14-02-2026",
@@ -15261,7 +15261,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "15-02-2026",
@@ -15283,7 +15283,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "15-02-2026",
@@ -15305,7 +15305,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "15-02-2026",
@@ -15327,7 +15327,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD517 /"
+  "Flight": "JTD517"
  },
  {
   "Date": "15-02-2026",
@@ -15338,7 +15338,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD509 /"
+  "Flight": "JTD509"
  },
  {
   "Date": "15-02-2026",
@@ -15349,7 +15349,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "15-02-2026",
@@ -15360,7 +15360,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "15-02-2026",
@@ -15371,7 +15371,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "15-02-2026",
@@ -15393,7 +15393,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "15-02-2026",
@@ -15415,7 +15415,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "15-02-2026",
@@ -15426,7 +15426,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "15-02-2026",
@@ -15437,7 +15437,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "15-02-2026",
@@ -15459,7 +15459,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT1007 /"
+  "Flight": "BT1007"
  },
  {
   "Date": "15-02-2026",
@@ -15470,7 +15470,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "15-02-2026",
@@ -15481,7 +15481,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "15-02-2026",
@@ -15503,7 +15503,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "15-02-2026",
@@ -15525,7 +15525,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "15-02-2026",
@@ -15536,7 +15536,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "15-02-2026",
@@ -15547,7 +15547,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "15-02-2026",
@@ -15558,7 +15558,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "15-02-2026",
@@ -15569,7 +15569,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "15-02-2026",
@@ -15580,7 +15580,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "16-02-2026",
@@ -15602,7 +15602,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "16-02-2026",
@@ -15635,7 +15635,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "16-02-2026",
@@ -15646,7 +15646,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK444 /"
+  "Flight": "DK444"
  },
  {
   "Date": "16-02-2026",
@@ -15668,7 +15668,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD511 /"
+  "Flight": "JTD511"
  },
  {
   "Date": "16-02-2026",
@@ -15679,7 +15679,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "16-02-2026",
@@ -15690,7 +15690,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "16-02-2026",
@@ -15701,7 +15701,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "16-02-2026",
@@ -15712,7 +15712,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "16-02-2026",
@@ -15723,7 +15723,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85721 /"
+  "Flight": "D85721"
  },
  {
   "Date": "16-02-2026",
@@ -15734,7 +15734,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "16-02-2026",
@@ -15745,7 +15745,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "16-02-2026",
@@ -15756,7 +15756,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "16-02-2026",
@@ -15778,7 +15778,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "16-02-2026",
@@ -15789,7 +15789,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "16-02-2026",
@@ -15811,7 +15811,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "16-02-2026",
@@ -15822,7 +15822,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "16-02-2026",
@@ -15844,7 +15844,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "16-02-2026",
@@ -15866,7 +15866,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "16-02-2026",
@@ -15877,7 +15877,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "16-02-2026",
@@ -15888,7 +15888,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "16-02-2026",
@@ -15899,7 +15899,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "16-02-2026",
@@ -15921,7 +15921,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "16-02-2026",
@@ -15932,7 +15932,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "16-02-2026",
@@ -15943,7 +15943,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "16-02-2026",
@@ -15954,7 +15954,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "16-02-2026",
@@ -15965,7 +15965,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "16-02-2026",
@@ -15976,7 +15976,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "17-02-2026",
@@ -15987,7 +15987,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK445 /"
+  "Flight": "DK445"
  },
  {
   "Date": "17-02-2026",
@@ -16009,7 +16009,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "17-02-2026",
@@ -16020,7 +16020,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "17-02-2026",
@@ -16042,7 +16042,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1210 /"
+  "Flight": "DK1210"
  },
  {
   "Date": "17-02-2026",
@@ -16053,7 +16053,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "17-02-2026",
@@ -16064,7 +16064,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "17-02-2026",
@@ -16075,7 +16075,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "17-02-2026",
@@ -16086,7 +16086,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "17-02-2026",
@@ -16097,7 +16097,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "17-02-2026",
@@ -16119,7 +16119,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "17-02-2026",
@@ -16141,7 +16141,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "17-02-2026",
@@ -16163,7 +16163,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "17-02-2026",
@@ -16174,7 +16174,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "17-02-2026",
@@ -16196,7 +16196,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "17-02-2026",
@@ -16207,7 +16207,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "17-02-2026",
@@ -16229,7 +16229,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "17-02-2026",
@@ -16240,7 +16240,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "17-02-2026",
@@ -16251,7 +16251,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "18-02-2026",
@@ -16273,7 +16273,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "18-02-2026",
@@ -16295,7 +16295,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "18-02-2026",
@@ -16306,7 +16306,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1216 /"
+  "Flight": "DK1216"
  },
  {
   "Date": "18-02-2026",
@@ -16317,7 +16317,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD545 /"
+  "Flight": "JTD545"
  },
  {
   "Date": "18-02-2026",
@@ -16328,7 +16328,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "18-02-2026",
@@ -16339,7 +16339,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "18-02-2026",
@@ -16350,7 +16350,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "18-02-2026",
@@ -16361,7 +16361,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "18-02-2026",
@@ -16372,7 +16372,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "18-02-2026",
@@ -16394,7 +16394,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "18-02-2026",
@@ -16405,7 +16405,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "18-02-2026",
@@ -16427,7 +16427,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "18-02-2026",
@@ -16449,7 +16449,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "18-02-2026",
@@ -16471,7 +16471,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "18-02-2026",
@@ -16482,7 +16482,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "18-02-2026",
@@ -16504,7 +16504,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "18-02-2026",
@@ -16515,7 +16515,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "18-02-2026",
@@ -16526,7 +16526,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "18-02-2026",
@@ -16537,7 +16537,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "18-02-2026",
@@ -16548,7 +16548,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "19-02-2026",
@@ -16570,7 +16570,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "FRO",
   "Airline": "Frost Air AB",
-  "Flight": "FRO364 /"
+  "Flight": "FRO364"
  },
  {
   "Date": "19-02-2026",
@@ -16581,7 +16581,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "19-02-2026",
@@ -16603,7 +16603,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "19-02-2026",
@@ -16625,7 +16625,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "19-02-2026",
@@ -16636,7 +16636,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "19-02-2026",
@@ -16647,7 +16647,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "19-02-2026",
@@ -16669,7 +16669,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "19-02-2026",
@@ -16680,7 +16680,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "19-02-2026",
@@ -16691,7 +16691,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "A",
   "Airline": "Aegean Airlines",
-  "Flight": "A34399 /"
+  "Flight": "A34399"
  },
  {
   "Date": "19-02-2026",
@@ -16713,7 +16713,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "19-02-2026",
@@ -16724,7 +16724,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "19-02-2026",
@@ -16746,7 +16746,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "19-02-2026",
@@ -16757,7 +16757,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "19-02-2026",
@@ -16768,7 +16768,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "19-02-2026",
@@ -16779,7 +16779,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "19-02-2026",
@@ -16812,7 +16812,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "19-02-2026",
@@ -16823,7 +16823,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC471 /"
+  "Flight": "RC471"
  },
  {
   "Date": "19-02-2026",
@@ -16845,7 +16845,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "19-02-2026",
@@ -16856,7 +16856,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "19-02-2026",
@@ -16867,7 +16867,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "20-02-2026",
@@ -16889,7 +16889,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "20-02-2026",
@@ -16900,7 +16900,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "20-02-2026",
@@ -16933,7 +16933,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "20-02-2026",
@@ -16944,7 +16944,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "20-02-2026",
@@ -16955,7 +16955,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "20-02-2026",
@@ -16966,7 +16966,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "20-02-2026",
@@ -16988,7 +16988,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "20-02-2026",
@@ -16999,7 +16999,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "20-02-2026",
@@ -17021,7 +17021,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "20-02-2026",
@@ -17032,7 +17032,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "20-02-2026",
@@ -17043,7 +17043,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "20-02-2026",
@@ -17054,7 +17054,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "20-02-2026",
@@ -17087,7 +17087,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "20-02-2026",
@@ -17098,7 +17098,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "20-02-2026",
@@ -17109,7 +17109,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "20-02-2026",
@@ -17120,7 +17120,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "20-02-2026",
@@ -17142,7 +17142,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "20-02-2026",
@@ -17153,7 +17153,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "20-02-2026",
@@ -17164,7 +17164,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "20-02-2026",
@@ -17175,7 +17175,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "20-02-2026",
@@ -17186,7 +17186,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "20-02-2026",
@@ -17197,7 +17197,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "20-02-2026",
@@ -17208,7 +17208,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "21-02-2026",
@@ -17230,7 +17230,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "21-02-2026",
@@ -17252,7 +17252,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "21-02-2026",
@@ -17274,7 +17274,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "21-02-2026",
@@ -17285,7 +17285,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "21-02-2026",
@@ -17296,7 +17296,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "21-02-2026",
@@ -17307,7 +17307,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "21-02-2026",
@@ -17318,7 +17318,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "21-02-2026",
@@ -17329,7 +17329,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "21-02-2026",
@@ -17351,7 +17351,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "21-02-2026",
@@ -17362,7 +17362,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "21-02-2026",
@@ -17373,7 +17373,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "21-02-2026",
@@ -17406,7 +17406,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "21-02-2026",
@@ -17417,7 +17417,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "21-02-2026",
@@ -17428,7 +17428,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "21-02-2026",
@@ -17450,7 +17450,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BQ",
   "Airline": "SKY ALPS SRL",
-  "Flight": "BQ1921 /"
+  "Flight": "BQ1921"
  },
  {
   "Date": "21-02-2026",
@@ -17461,7 +17461,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "21-02-2026",
@@ -17472,7 +17472,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "21-02-2026",
@@ -17483,7 +17483,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "21-02-2026",
@@ -17494,7 +17494,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7140 /"
+  "Flight": "RC7140"
  },
  {
   "Date": "21-02-2026",
@@ -17516,7 +17516,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "21-02-2026",
@@ -17549,7 +17549,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "VOE",
   "Airline": "Alaeo S.L.",
-  "Flight": "VOE2005 /"
+  "Flight": "VOE2005"
  },
  {
   "Date": "21-02-2026",
@@ -17560,7 +17560,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "21-02-2026",
@@ -17571,7 +17571,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "22-02-2026",
@@ -17593,7 +17593,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "22-02-2026",
@@ -17604,7 +17604,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "22-02-2026",
@@ -17637,7 +17637,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD517 /"
+  "Flight": "JTD517"
  },
  {
   "Date": "22-02-2026",
@@ -17648,7 +17648,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD509 /"
+  "Flight": "JTD509"
  },
  {
   "Date": "22-02-2026",
@@ -17659,7 +17659,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "22-02-2026",
@@ -17670,7 +17670,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "22-02-2026",
@@ -17681,7 +17681,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "22-02-2026",
@@ -17703,7 +17703,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "22-02-2026",
@@ -17736,7 +17736,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "22-02-2026",
@@ -17747,7 +17747,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "22-02-2026",
@@ -17758,7 +17758,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "22-02-2026",
@@ -17780,7 +17780,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT1007 /"
+  "Flight": "BT1007"
  },
  {
   "Date": "22-02-2026",
@@ -17791,7 +17791,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "22-02-2026",
@@ -17802,7 +17802,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "22-02-2026",
@@ -17824,7 +17824,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "22-02-2026",
@@ -17846,7 +17846,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "22-02-2026",
@@ -17857,7 +17857,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "22-02-2026",
@@ -17868,7 +17868,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "22-02-2026",
@@ -17879,7 +17879,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "22-02-2026",
@@ -17890,7 +17890,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "22-02-2026",
@@ -17901,7 +17901,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "23-02-2026",
@@ -17923,7 +17923,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "23-02-2026",
@@ -17945,7 +17945,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "23-02-2026",
@@ -17956,7 +17956,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK444 /"
+  "Flight": "DK444"
  },
  {
   "Date": "23-02-2026",
@@ -17978,7 +17978,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD511 /"
+  "Flight": "JTD511"
  },
  {
   "Date": "23-02-2026",
@@ -17989,7 +17989,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "23-02-2026",
@@ -18000,7 +18000,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD575 /"
+  "Flight": "JTD575"
  },
  {
   "Date": "23-02-2026",
@@ -18011,7 +18011,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "23-02-2026",
@@ -18022,7 +18022,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC475 /"
+  "Flight": "RC475"
  },
  {
   "Date": "23-02-2026",
@@ -18033,7 +18033,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85721 /"
+  "Flight": "D85721"
  },
  {
   "Date": "23-02-2026",
@@ -18044,7 +18044,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "23-02-2026",
@@ -18055,7 +18055,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK2498 /"
+  "Flight": "SK2498"
  },
  {
   "Date": "23-02-2026",
@@ -18077,7 +18077,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "23-02-2026",
@@ -18088,7 +18088,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "23-02-2026",
@@ -18099,7 +18099,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "23-02-2026",
@@ -18121,7 +18121,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "23-02-2026",
@@ -18132,7 +18132,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "23-02-2026",
@@ -18143,7 +18143,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "23-02-2026",
@@ -18176,7 +18176,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "23-02-2026",
@@ -18187,7 +18187,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "23-02-2026",
@@ -18198,7 +18198,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "23-02-2026",
@@ -18209,7 +18209,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "23-02-2026",
@@ -18231,7 +18231,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "23-02-2026",
@@ -18242,7 +18242,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "23-02-2026",
@@ -18253,7 +18253,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "23-02-2026",
@@ -18264,7 +18264,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "23-02-2026",
@@ -18275,7 +18275,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "24-02-2026",
@@ -18286,7 +18286,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK445 /"
+  "Flight": "DK445"
  },
  {
   "Date": "24-02-2026",
@@ -18308,7 +18308,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "24-02-2026",
@@ -18330,7 +18330,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "24-02-2026",
@@ -18341,7 +18341,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1210 /"
+  "Flight": "DK1210"
  },
  {
   "Date": "24-02-2026",
@@ -18352,7 +18352,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "24-02-2026",
@@ -18363,7 +18363,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "24-02-2026",
@@ -18374,7 +18374,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "24-02-2026",
@@ -18385,7 +18385,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "24-02-2026",
@@ -18407,7 +18407,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "24-02-2026",
@@ -18429,7 +18429,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "24-02-2026",
@@ -18440,7 +18440,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "24-02-2026",
@@ -18462,7 +18462,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "24-02-2026",
@@ -18484,7 +18484,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "24-02-2026",
@@ -18495,7 +18495,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "24-02-2026",
@@ -18517,7 +18517,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "24-02-2026",
@@ -18528,7 +18528,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "24-02-2026",
@@ -18539,7 +18539,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "MI",
   "Airline": "Freebird Europe Limited",
-  "Flight": "MI7522 /"
+  "Flight": "MI7522"
  },
  {
   "Date": "24-02-2026",
@@ -18550,7 +18550,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "24-02-2026",
@@ -18561,7 +18561,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "25-02-2026",
@@ -18583,7 +18583,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "25-02-2026",
@@ -18605,7 +18605,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "25-02-2026",
@@ -18616,7 +18616,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1216 /"
+  "Flight": "DK1216"
  },
  {
   "Date": "25-02-2026",
@@ -18627,7 +18627,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD545 /"
+  "Flight": "JTD545"
  },
  {
   "Date": "25-02-2026",
@@ -18638,7 +18638,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "25-02-2026",
@@ -18649,7 +18649,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "25-02-2026",
@@ -18660,7 +18660,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "25-02-2026",
@@ -18671,7 +18671,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "25-02-2026",
@@ -18693,7 +18693,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "25-02-2026",
@@ -18704,7 +18704,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "25-02-2026",
@@ -18715,7 +18715,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "25-02-2026",
@@ -18737,7 +18737,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "25-02-2026",
@@ -18748,7 +18748,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "25-02-2026",
@@ -18781,7 +18781,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "25-02-2026",
@@ -18792,7 +18792,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "25-02-2026",
@@ -18814,7 +18814,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "25-02-2026",
@@ -18825,7 +18825,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "25-02-2026",
@@ -18836,7 +18836,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "25-02-2026",
@@ -18847,7 +18847,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
  },
  {
   "Date": "25-02-2026",
@@ -18858,7 +18858,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "25-02-2026",
@@ -18869,7 +18869,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "26-02-2026",
@@ -18891,7 +18891,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "26-02-2026",
@@ -18913,7 +18913,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "26-02-2026",
@@ -18935,7 +18935,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1214 /"
+  "Flight": "DK1214"
  },
  {
   "Date": "26-02-2026",
@@ -18946,7 +18946,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "26-02-2026",
@@ -18968,7 +18968,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "26-02-2026",
@@ -18979,7 +18979,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "26-02-2026",
@@ -19001,7 +19001,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "26-02-2026",
@@ -19012,7 +19012,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "26-02-2026",
@@ -19034,7 +19034,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D83534 /"
+  "Flight": "D83534"
  },
  {
   "Date": "26-02-2026",
@@ -19045,7 +19045,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "26-02-2026",
@@ -19056,7 +19056,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "26-02-2026",
@@ -19067,7 +19067,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "26-02-2026",
@@ -19100,7 +19100,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "26-02-2026",
@@ -19111,7 +19111,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC471 /"
+  "Flight": "RC471"
  },
  {
   "Date": "26-02-2026",
@@ -19133,7 +19133,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "26-02-2026",
@@ -19144,7 +19144,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "26-02-2026",
@@ -19155,7 +19155,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "27-02-2026",
@@ -19177,7 +19177,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "27-02-2026",
@@ -19199,7 +19199,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "27-02-2026",
@@ -19221,7 +19221,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD531 /"
+  "Flight": "JTD531"
  },
  {
   "Date": "27-02-2026",
@@ -19232,7 +19232,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "27-02-2026",
@@ -19243,7 +19243,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BT",
   "Airline": "Air Baltic, Corporation A/S",
-  "Flight": "BT148 /"
+  "Flight": "BT148"
  },
  {
   "Date": "27-02-2026",
@@ -19254,7 +19254,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1904 /"
+  "Flight": "SK1904"
  },
  {
   "Date": "27-02-2026",
@@ -19265,7 +19265,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "27-02-2026",
@@ -19287,7 +19287,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "27-02-2026",
@@ -19309,7 +19309,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "27-02-2026",
@@ -19320,7 +19320,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61214 /"
+  "Flight": "W61214"
  },
  {
   "Date": "27-02-2026",
@@ -19331,7 +19331,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43696 /"
+  "Flight": "W43696"
  },
  {
   "Date": "27-02-2026",
@@ -19342,7 +19342,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "27-02-2026",
@@ -19375,7 +19375,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "27-02-2026",
@@ -19386,7 +19386,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43442 /"
+  "Flight": "W43442"
  },
  {
   "Date": "27-02-2026",
@@ -19397,7 +19397,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "PC",
   "Airline": "Pegasus Hava Tasimaciligi AS",
-  "Flight": "PC5024 /"
+  "Flight": "PC5024"
  },
  {
   "Date": "27-02-2026",
@@ -19408,7 +19408,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "TK",
   "Airline": "Turkish Airlines Inc.",
-  "Flight": "TK1488 /"
+  "Flight": "TK1488"
  },
  {
   "Date": "27-02-2026",
@@ -19430,7 +19430,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH841 /"
+  "Flight": "LH841"
  },
  {
   "Date": "27-02-2026",
@@ -19441,7 +19441,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1902 /"
+  "Flight": "SK1902"
  },
  {
   "Date": "27-02-2026",
@@ -19452,7 +19452,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1498 /"
+  "Flight": "SK1498"
  },
  {
   "Date": "27-02-2026",
@@ -19463,7 +19463,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO468 /"
+  "Flight": "LO468"
  },
  {
   "Date": "27-02-2026",
@@ -19474,7 +19474,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DY",
   "Airline": "Norwegian Air Schuttle AOC AS",
-  "Flight": "DY999 /"
+  "Flight": "DY999"
  },
  {
   "Date": "27-02-2026",
@@ -19485,7 +19485,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA823 /"
+  "Flight": "BA823"
  },
  {
   "Date": "27-02-2026",
@@ -19496,7 +19496,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1288 /"
+  "Flight": "SK1288"
  },
  {
   "Date": "28-02-2026",
@@ -19518,7 +19518,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1280 /"
+  "Flight": "SK1280"
  },
  {
   "Date": "28-02-2026",
@@ -19540,7 +19540,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH843 /"
+  "Flight": "LH843"
  },
  {
   "Date": "28-02-2026",
@@ -19562,7 +19562,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "DK",
   "Airline": "Sunclass Airlines ApS",
-  "Flight": "DK1218 /"
+  "Flight": "DK1218"
  },
  {
   "Date": "28-02-2026",
@@ -19573,7 +19573,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD501 /"
+  "Flight": "JTD501"
  },
  {
   "Date": "28-02-2026",
@@ -19584,7 +19584,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7180 /"
+  "Flight": "RC7180"
  },
  {
   "Date": "28-02-2026",
@@ -19595,7 +19595,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43212 /"
+  "Flight": "W43212"
  },
  {
   "Date": "28-02-2026",
@@ -19606,7 +19606,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "JTD",
   "Airline": "Jettime a/s",
-  "Flight": "JTD581 /"
+  "Flight": "JTD581"
  },
  {
   "Date": "28-02-2026",
@@ -19617,7 +19617,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1282 /"
+  "Flight": "SK1282"
  },
  {
   "Date": "28-02-2026",
@@ -19628,7 +19628,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LO",
   "Airline": "LOT Polish Airlines",
-  "Flight": "LO466 /"
+  "Flight": "LO466"
  },
  {
   "Date": "28-02-2026",
@@ -19650,7 +19650,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH837 /"
+  "Flight": "LH837"
  },
  {
   "Date": "28-02-2026",
@@ -19661,7 +19661,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "EW",
   "Airline": "Eurowings GmbH",
-  "Flight": "EW5051 /"
+  "Flight": "EW5051"
  },
  {
   "Date": "28-02-2026",
@@ -19694,7 +19694,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BA",
   "Airline": "British Airways",
-  "Flight": "BA821 /"
+  "Flight": "BA821"
  },
  {
   "Date": "28-02-2026",
@@ -19705,7 +19705,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "OS",
   "Airline": "Austrian Airlines",
-  "Flight": "OS960 /"
+  "Flight": "OS960"
  },
  {
   "Date": "28-02-2026",
@@ -19716,7 +19716,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "LH",
   "Airline": "Lufthansa German Airlines",
-  "Flight": "LH839 /"
+  "Flight": "LH839"
  },
  {
   "Date": "28-02-2026",
@@ -19738,7 +19738,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "BQ",
   "Airline": "SKY ALPS SRL",
-  "Flight": "BQ1921 /"
+  "Flight": "BQ1921"
  },
  {
   "Date": "28-02-2026",
@@ -19749,7 +19749,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61990 /"
+  "Flight": "W61990"
  },
  {
   "Date": "28-02-2026",
@@ -19760,7 +19760,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Malta Limited",
-  "Flight": "W43986 /"
+  "Flight": "W43986"
  },
  {
   "Date": "28-02-2026",
@@ -19771,7 +19771,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "SK",
   "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
-  "Flight": "SK1286 /"
+  "Flight": "SK1286"
  },
  {
   "Date": "28-02-2026",
@@ -19782,7 +19782,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "RC",
   "Airline": "Atlantic Airways",
-  "Flight": "RC7140 /"
+  "Flight": "RC7140"
  },
  {
   "Date": "28-02-2026",
@@ -19804,7 +19804,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "W",
   "Airline": "Wizz Air Hungary Ltd.",
-  "Flight": "W61778 /"
+  "Flight": "W61778"
  },
  {
   "Date": "28-02-2026",
@@ -19837,7 +19837,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "VOE",
   "Airline": "Alaeo S.L.",
-  "Flight": "VOE2005 /"
+  "Flight": "VOE2005"
  },
  {
   "Date": "28-02-2026",
@@ -19848,7 +19848,7 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85381 /"
+  "Flight": "D85381"
  },
  {
   "Date": "28-02-2026",
@@ -19859,7 +19859,10811 @@ let BLL_Departures_Flight_List_Raw = `
   "NextName": "",
   "AirlineCode": "D",
   "Airline": "Norwegian Air Sweden AOC AB",
-  "Flight": "D85085 /"
+  "Flight": "D85085"
+ },
+
+
+  {
+  "Date": "01-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0700",
+  "Dest": "SSH",
+  "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT607"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD517"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0845",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD509"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0920",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "0955",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1020",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1025",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1040",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TKTG",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486 / TG8127"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1240",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1315",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1405",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1505",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT1007"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1525",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1550",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1615",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "1855",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "2000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "2030",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "2050",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "01-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0605",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0645",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0700",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT793"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0700",
+  "Dest": "SID",
+  "DestName": "SID (Espargos Amilcar Cabral International - Cape Verde)",
+  "Next": "CPH",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK444"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0805",
+  "Dest": "PXO",
+  "DestName": "PXO (Porto Santo - Portugal)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT337"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0830",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD511"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0845",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD575"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0855",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC475"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0900",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85721"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "0940",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1040",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1300",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61214"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1310",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1525",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1610",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1750",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1850",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1905",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "2005",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "2045",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "02-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "0030",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK445"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "0715",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1210"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "0835",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1015",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1310",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1510",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1920",
+  "Dest": "SKP",
+  "DestName": "SKP (Skopje Alexander the Great - Macedonia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "MI",
+  "Airline": "Freebird Europe Limited",
+  "Flight": "MI7522"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "2015",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings GmbH",
+  "Flight": "EW5051"
+ },
+ {
+  "Date": "03-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "0635",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "0735",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1216"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "0815",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD545"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1020",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1115",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1145",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1320",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1425",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1820",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT423"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1900",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "1955",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "04-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "0600",
+  "Dest": "RNN",
+  "DestName": "RNN (Bornholm - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "FRO",
+  "Airline": "Frost Air AB",
+  "Flight": "FRO364"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "0700",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT601"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "0805",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1214"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1040",
+  "Dest": "RHO",
+  "DestName": "RHO (Rhodes International - Greece)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "A",
+  "Airline": "Aegean Airlines",
+  "Flight": "A34399"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1040",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TKTG",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486 / TG8127"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1110",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1240",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1300",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1310",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1400",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1705",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC471"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "05-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "0700",
+  "Dest": "SPC",
+  "DestName": "SPC (La Palma - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT701"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "0730",
+  "Dest": "ACE",
+  "DestName": "ACE (Lanzarote - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD531"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1025",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1255",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1300",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61214"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1405",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1425",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1610",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1645",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1750",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1900",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "2010",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "2050",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "06-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0645",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0650",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT711"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0715",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1218"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0830",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD501"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7180"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0835",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings GmbH",
+  "Flight": "EW5051"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0840",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0935",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD581"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "0955",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1210",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1215",
+  "Dest": "INN",
+  "DestName": "INN (Innsbruck Kranebitten - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT413"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1305",
+  "Dest": "INN",
+  "DestName": "INN (Innsbruck Kranebitten - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "OS",
+  "Airline": "Austrian Airlines",
+  "Flight": "OS960"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1305",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1425",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1445",
+  "Dest": "BZO",
+  "DestName": "BZO (Bolzano - Italy)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BQ",
+  "Airline": "SKY ALPS SRL",
+  "Flight": "BQ1921"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1510",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1530",
+  "Dest": "MLA",
+  "DestName": "MLA (Luqa Malta International - Malta)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7140"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1545",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1615",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1710",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1820",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT423"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1850",
+  "Dest": "LYS",
+  "DestName": "LYS (Lyon Saint Exupery - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "VOEV",
+  "Airline": "VOLOTEA S.L.",
+  "Flight": "VOE2005 / V72005"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "1915",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "07-03-2026",
+  "Time": "2125",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0700",
+  "Dest": "SSH",
+  "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT607"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD517"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0845",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD509"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "0955",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1020",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1025",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1040",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TKTG",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486 / TG8127"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1240",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1315",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1405",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1505",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT1007"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1525",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1550",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1615",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1855",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "2000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "2050",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "08-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0605",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0645",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0700",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT793"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0700",
+  "Dest": "SID",
+  "DestName": "SID (Espargos Amilcar Cabral International - Cape Verde)",
+  "Next": "CPH",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK444"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0805",
+  "Dest": "PXO",
+  "DestName": "PXO (Porto Santo - Portugal)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT337"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0830",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD511"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0845",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD575"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0855",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC475"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0900",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85721"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "0940",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1040",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1300",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61214"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1310",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1525",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1610",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1750",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1850",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1905",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "2005",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "2045",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "09-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0030",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK445"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0715",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1210"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0800",
+  "Dest": "NCE",
+  "DestName": "NCE (Nice Cote dAzur - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7340"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0835",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1015",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1310",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1510",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1920",
+  "Dest": "SKP",
+  "DestName": "SKP (Skopje Alexander the Great - Macedonia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "MI",
+  "Airline": "Freebird Europe Limited",
+  "Flight": "MI7522"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "2015",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings GmbH",
+  "Flight": "EW5051"
+ },
+ {
+  "Date": "10-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "0635",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "0735",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1216"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "0815",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD545"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1020",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1115",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1145",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1320",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1425",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1900",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "1955",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "11-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "0700",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT601"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "0805",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1214"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1040",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TKTG",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486 / TG8127"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1110",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1240",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1300",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1310",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1400",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1705",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC471"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "12-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0700",
+  "Dest": "SPC",
+  "DestName": "SPC (La Palma - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT701"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0700",
+  "Dest": "XRY",
+  "DestName": "XRY (Jerez - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD553"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0730",
+  "Dest": "ACE",
+  "DestName": "ACE (Lanzarote - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD531"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1025",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1255",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1300",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61214"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1405",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1425",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1610",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1635",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1750",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1900",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "2010",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "2050",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "13-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0645",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0650",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT711"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0715",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1218"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7180"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0830",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD501"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0840",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0935",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD581"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "0955",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1210",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1305",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1405",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings GmbH",
+  "Flight": "EW5051"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1425",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1445",
+  "Dest": "BZO",
+  "DestName": "BZO (Bolzano - Italy)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BQ",
+  "Airline": "SKY ALPS SRL",
+  "Flight": "BQ1921"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1510",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1530",
+  "Dest": "MLA",
+  "DestName": "MLA (Luqa Malta International - Malta)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7140"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1545",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1615",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1710",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1850",
+  "Dest": "LYS",
+  "DestName": "LYS (Lyon Saint Exupery - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "VOEV",
+  "Airline": "VOLOTEA S.L.",
+  "Flight": "VOE2005 / V72005"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "1915",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "14-03-2026",
+  "Time": "2125",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0700",
+  "Dest": "SSH",
+  "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT607"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD517"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0845",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD509"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "0955",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1020",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1025",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1040",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TKTG",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486 / TG8127"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1240",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1315",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1405",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1505",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT1007"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1525",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1550",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1615",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1855",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "2000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "2050",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "15-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0605",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0630",
+  "Dest": "FAO",
+  "DestName": "FAO (Faro - Portugal)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT731"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0645",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0700",
+  "Dest": "SID",
+  "DestName": "SID (Espargos Amilcar Cabral International - Cape Verde)",
+  "Next": "CPH",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK444"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0805",
+  "Dest": "PXO",
+  "DestName": "PXO (Porto Santo - Portugal)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT337"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0830",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD511"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0845",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD575"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0855",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC475"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0900",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85721"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "0940",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1040",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1300",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61214"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1310",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1525",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1610",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1750",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1850",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1905",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "2005",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "2045",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "16-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "0030",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK445"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "0715",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1210"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "0840",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1015",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1310",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1450",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1510",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1920",
+  "Dest": "SKP",
+  "DestName": "SKP (Skopje Alexander the Great - Macedonia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "MI",
+  "Airline": "Freebird Europe Limited",
+  "Flight": "MI7522"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "2015",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings GmbH",
+  "Flight": "EW5051"
+ },
+ {
+  "Date": "17-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "0635",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "0735",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1216"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "0815",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD545"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1020",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1115",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1145",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1320",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1425",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1900",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "1955",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "18-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "0700",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT601"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "0805",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1214"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1040",
+  "Dest": "RHO",
+  "DestName": "RHO (Rhodes International - Greece)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "A",
+  "Airline": "Aegean Airlines",
+  "Flight": "A34399"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1040",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TKTG",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486 / TG8127"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1110",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1240",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1300",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1310",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1400",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1705",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC471"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "19-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0700",
+  "Dest": "SPC",
+  "DestName": "SPC (La Palma - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT701"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0700",
+  "Dest": "XRY",
+  "DestName": "XRY (Jerez - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD553"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0730",
+  "Dest": "ACE",
+  "DestName": "ACE (Lanzarote - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD531"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1025",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1255",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1300",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61214"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1405",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1425",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1610",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1635",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1750",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1900",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "2010",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "2050",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "20-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0645",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0650",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT711"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0715",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1218"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0830",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD501"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7180"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0840",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0935",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD581"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "0955",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1210",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1305",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1405",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings GmbH",
+  "Flight": "EW5051"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1425",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1510",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1530",
+  "Dest": "MLA",
+  "DestName": "MLA (Luqa Malta International - Malta)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7140"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1545",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1615",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1710",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1730",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT737"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "1915",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "21-03-2026",
+  "Time": "2125",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0700",
+  "Dest": "SSH",
+  "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT607"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD517"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0845",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD509"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "0955",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1020",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1025",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1040",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TKTG",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486 / TG8127"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1240",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1315",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1405",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1505",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT1007"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1525",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1550",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1615",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1855",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "2000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "2050",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "22-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0605",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0630",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT733"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0645",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0700",
+  "Dest": "SID",
+  "DestName": "SID (Espargos Amilcar Cabral International - Cape Verde)",
+  "Next": "CPH",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK444"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0805",
+  "Dest": "PXO",
+  "DestName": "PXO (Porto Santo - Portugal)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT337"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0830",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD511"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0845",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD575"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0855",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC475"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0900",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85721"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "0940",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1040",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1300",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61214"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1310",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1525",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1610",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1630",
+  "Dest": "FAO",
+  "DestName": "FAO (Faro - Portugal)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT731"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1750",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1850",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1905",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "2005",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "2045",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "23-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System -",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "0030",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK445"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "0715",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1210"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "0840",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System -",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1015",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1310",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1450",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1510",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System -",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1920",
+  "Dest": "SKP",
+  "DestName": "SKP (Skopje Alexander the Great - Macedonia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "MI",
+  "Airline": "Freebird Europe Limited",
+  "Flight": "MI7522"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "2015",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings GmbH",
+  "Flight": "EW5051"
+ },
+ {
+  "Date": "24-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "0635",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "0735",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1216"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "0815",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD545"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1020",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1115",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1145",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1320",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1425",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1805",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1900",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "1955",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "25-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0700",
+  "Dest": "HRG",
+  "DestName": "HRG (Hurghada International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT601"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0805",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1214"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0830",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC475"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1000",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1020",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1040",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TKTG",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486 / TG8127"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1110",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1240",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1300",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1310",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1400",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "26-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0630",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0700",
+  "Dest": "PMI",
+  "DestName": "PMI (Palma de Mallorca - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD525"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0700",
+  "Dest": "SPC",
+  "DestName": "SPC (La Palma - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT701"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0730",
+  "Dest": "ACE",
+  "DestName": "ACE (Lanzarote - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD531"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0835",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "0850",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1025",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1130",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC471"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1255",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1300",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61214"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1405",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1425",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1520",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1610",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1635",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1740",
+  "Dest": "LCA",
+  "DestName": "LCA (Larnaca International - Cyprus)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1288"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1750",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1900",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1920",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "1930",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "2010",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY999"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "2050",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA823"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "2115",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "27-03-2026",
+  "Time": "2135",
+  "Dest": "KEF",
+  "DestName": "KEF (Keflavik International - Iceland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "FI",
+  "Airline": "Icelandair",
+  "Flight": "FI275"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290 / AF8304"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0605",
+  "Dest": "PMI",
+  "DestName": "PMI (Palma de Mallorca - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1246"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0615",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0630",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765 / SK9706"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0645",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0650",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT711"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0715",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1218"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0830",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD501"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7180"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0840",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0935",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD581"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0950",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "XQ",
+  "Airline": "G\u00fcnes Ekspres Havacilik A.S. (SunExpress)",
+  "Flight": "XQ575"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "0955",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System -",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1025",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292 / AF8301"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1205",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLDL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294 / DL9453"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1210",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1215",
+  "Dest": "BCN",
+  "DestName": "BCN (Barcelona El Prat - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85519"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1305",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA821"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1405",
+  "Dest": "SZG",
+  "DestName": "SZG (Salzburg - Austria)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "EW",
+  "Airline": "Eurowings GmbH",
+  "Flight": "EW5051"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1415",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1425",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLAF",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296 / AF8322"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1510",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1530",
+  "Dest": "MLA",
+  "DestName": "MLA (Luqa Malta International - Malta)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC7140"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1545",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1615",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AFSK",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265 / SK9707"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1710",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1730",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Airseven",
+  "Flight": "CAT737"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1840",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KLSK",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300 / SK6624"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "1915",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "2025",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC475"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "2025",
+  "Dest": "PMI",
+  "DestName": "PMI (Palma de Mallorca - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85619"
+ },
+ {
+  "Date": "28-03-2026",
+  "Time": "2125",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "0600",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "0600",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "0640",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "0700",
+  "Dest": "SSH",
+  "DestName": "SSH (Sharm el-Sheikh International - Egypt)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Copenhagen Air Taxi",
+  "Flight": "CAT607"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "0725",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "0830",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD517"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "0845",
+  "Dest": "TFS",
+  "DestName": "TFS (Tenerife South - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD509"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1010",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1486"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1015",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1035",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1035",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1055",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1110",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1200",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1763"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1210",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1410",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY995"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1430",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1445",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1545",
+  "Dest": "BUD",
+  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W62320"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1605",
+  "Dest": "LPA",
+  "DestName": "LPA (Gran Canaria - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT1007"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1710",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1800",
+  "Dest": "RNN",
+  "DestName": "RNN (Bornholm - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DX",
+  "Airline": "DAT A/S",
+  "Flight": "DX062"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1815",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1845",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1855",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1910",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "1930",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "2000",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO468"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "2000",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "2020",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "2110",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA809"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "2155",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC471"
+ },
+ {
+  "Date": "29-03-2026",
+  "Time": "2215",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY997"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0600",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0600",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0630",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Copenhagen Air Taxi",
+  "Flight": "CAT733"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0640",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0700",
+  "Dest": "LCA",
+  "DestName": "LCA (Larnaca International - Cyprus)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DK",
+  "Airline": "Sunclass Airlines ApS",
+  "Flight": "DK1292"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0805",
+  "Dest": "PXO",
+  "DestName": "PXO (Porto Santo - Portugal)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Copenhagen Air Taxi",
+  "Flight": "CAT337"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0820",
+  "Dest": "KTW",
+  "DestName": "KTW (Katowice International - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61098"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0830",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD511"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0900",
+  "Dest": "FAE",
+  "DestName": "FAE (Vagar - Faroe Islands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "RC",
+  "Airline": "Atlantic Airways",
+  "Flight": "RC475"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0905",
+  "Dest": "FUE",
+  "DestName": "FUE (Fuerteventura - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "JTD",
+  "Airline": "Jettime a/s",
+  "Flight": "JTD575"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "0940",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1015",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1015",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1030",
+  "Dest": "AGP",
+  "DestName": "AGP (Malaga Costa Del Sol - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85085"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1045",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1125",
+  "Dest": "ALC",
+  "DestName": "ALC (Alicante - Spain)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D85381"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1135",
+  "Dest": "BGO",
+  "DestName": "BGO (Bergen Flesland - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "WF",
+  "Airline": "Widereoe's Flyveselskab AS",
+  "Flight": "WF283"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1140",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA807"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1145",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1200",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1763"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1325",
+  "Dest": "IAS",
+  "DestName": "IAS (Iasi International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43696"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1420",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1445",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1630",
+  "Dest": "FAO",
+  "DestName": "FAO (Faro - Portugal)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "CAT",
+  "Airline": "Copenhagen Air Taxi",
+  "Flight": "CAT731"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1805",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Hava Tasimaciligi AS",
+  "Flight": "PC5024"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1845",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1855",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1900",
+  "Dest": "IST",
+  "DestName": "IST (Istanbul Ataturk International - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "TK",
+  "Airline": "Turkish Airlines Inc.",
+  "Flight": "TK1488"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1925",
+  "Dest": "RIX",
+  "DestName": "RIX (Riga International - Latvia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BT",
+  "Airline": "Air Baltic, Corporation A/S",
+  "Flight": "BT148"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1930",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY995"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "1935",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "2105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "2130",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA809"
+ },
+ {
+  "Date": "30-03-2026",
+  "Time": "2235",
+  "Dest": "KEF",
+  "DestName": "KEF (Keflavik International - Iceland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "FI",
+  "Airline": "Icelandair",
+  "Flight": "FI275"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "0600",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1280"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "0600",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1290"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "0605",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH843"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "0640",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1765"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "0725",
+  "Dest": "OTP",
+  "DestName": "OTP (Bucharest Henri Coanda International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43212"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "0930",
+  "Dest": "TIA",
+  "DestName": "TIA (Tirana International - Albania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W45192"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "0940",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1904"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1005",
+  "Dest": "AYT",
+  "DestName": "AYT (Antalya - Turkey)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "XQ",
+  "Airline": "G\u00fcnes Ekspres Havacilik A.S. (SunExpress)",
+  "Flight": "XQ575"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1015",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1292"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1015",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK2498"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1025",
+  "Dest": "WAW",
+  "DestName": "WAW (Warsaw Chopin - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LO",
+  "Airline": "LOT Polish Airlines",
+  "Flight": "LO466"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1040",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH837"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1040",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA809"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1282"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1125",
+  "Dest": "VNO",
+  "DestName": "VNO (Vilnius International - Lithuania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61990"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1145",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1294"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1200",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1763"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1355",
+  "Dest": "BUD",
+  "DestName": "BUD (Budapest Ferenc Liszt International - Hungary)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W62320"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1420",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1296"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1450",
+  "Dest": "RMO",
+  "DestName": "",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43986"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1455",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH839"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1520",
+  "Dest": "LHR",
+  "DestName": "LHR (London Heathrow - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "BA",
+  "Airline": "British Airways",
+  "Flight": "BA807"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1540",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1286"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1600",
+  "Dest": "CLJ",
+  "DestName": "CLJ (Cluj-Napoca International - Romania)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Malta Limited",
+  "Flight": "W43442"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1710",
+  "Dest": "CDG",
+  "DestName": "CDG (Paris Charles de Gaulle - France)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE DENMARK c/o KLM FSSC",
+  "Flight": "AF1265"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1720",
+  "Dest": "GDN",
+  "DestName": "GDN (Gdansk Lech Walesa - Poland)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "W",
+  "Airline": "Wizz Air Hungary Ltd.",
+  "Flight": "W61778"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1730",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "DY",
+  "Airline": "Norwegian Air Schuttle AOC AS",
+  "Flight": "DY995"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1845",
+  "Dest": "AMS",
+  "DestName": "AMS (Amsterdam Schiphol - Netherlands)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "KL",
+  "Airline": "KLM Royal Dutch Airline",
+  "Flight": "KL1300"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1910",
+  "Dest": "LGW",
+  "DestName": "LGW (London Gatwick - United Kingdom)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "D",
+  "Airline": "Norwegian Air Sweden AOC AB",
+  "Flight": "D83534"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1915",
+  "Dest": "FRA",
+  "DestName": "FRA (Frankfurt - Germany)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "LH",
+  "Airline": "Lufthansa German Airlines",
+  "Flight": "LH841"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1915",
+  "Dest": "OSL",
+  "DestName": "OSL (Oslo Gardermoen - Norway)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1902"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1935",
+  "Dest": "ARN",
+  "DestName": "ARN (Stockholm Arlanda - Sweden)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1498"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "1950",
+  "Dest": "SKP",
+  "DestName": "SKP (Skopje Alexander the Great - Macedonia)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "MI",
+  "Airline": "Freebird Europe Limited",
+  "Flight": "MI7522"
+ },
+ {
+  "Date": "31-03-2026",
+  "Time": "2105",
+  "Dest": "CPH",
+  "DestName": "CPH (Copenhagen - Denmark)",
+  "Next": "",
+  "NextName": "",
+  "AirlineCode": "SK",
+  "Airline": "Scandinavian Airlines System - Denmark-Norway-Sweden",
+  "Flight": "SK1288"
  }
 ]    
 
