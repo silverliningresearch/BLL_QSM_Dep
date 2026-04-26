@@ -10060,6 +10060,243 @@ let Destination_Quota = `
   "Quota": 17,
   "Year": "2026",
   "Month": "04"
+ },
+
+
+
+  {
+  "Dest": "AGP",
+  "Quota": 13,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "ALC",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "AMS",
+  "Quota": 68,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "ARN",
+  "Quota": 10,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "AYT",
+  "Quota": 18,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "BCN",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "BGO",
+  "Quota": 5,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "BGY",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "BUD",
+  "Quota": 13,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "CDG",
+  "Quota": 21,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "CHQ",
+  "Quota": 27,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "CLJ",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "CPH",
+  "Quota": 22,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "EDI",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "FAE",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "FCO",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "FRA",
+  "Quota": 42,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "GDN",
+  "Quota": 12,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "GZP",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "HER",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "IAS",
+  "Quota": 7,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "IST",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "KEF",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "KTW",
+  "Quota": 9,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "LCA",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "LGW",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "LHR",
+  "Quota": 22,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "NAP",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "OPO",
+  "Quota": 4,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "OSL",
+  "Quota": 27,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "OTP",
+  "Quota": 18,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "PMI",
+  "Quota": 17,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "PVK",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "RHO",
+  "Quota": 16,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "RIX",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "TIA",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "VNO",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "WAW",
+  "Quota": 14,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Dest": "ZTH",
+  "Quota": 3,
+  "Year": "2026",
+  "Month": "05"
  }
 
 
